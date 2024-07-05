@@ -105,13 +105,6 @@
         "s": "pak 20 stuks"
     },
     {
-        "id": "73297",
-        "n": "Mora Classics Frikandellen",
-        "l": "mora-classics-frikandellen-pak-350-gram-73297",
-        "p": 2.37,
-        "s": "pak 350 gram"
-    },
-    {
         "id": "74412",
         "n": "Cereal Fruitbeleg Aardbei framboos",
         "l": "cereal-fruitbeleg-aardbei-framboos-pot-270-gram-74412",
@@ -208,6 +201,13 @@
         "l": "https:\/\/www.plus.nl\/wijn\/gallo-merlot-fles-75-cl-82482",
         "p": 6.65,
         "s": "fles 75 cl"
+    },
+    {
+        "id": "82616",
+        "n": "Unox Runder rookworst",
+        "l": "unox-runder-rookworst-stuk-275-gram-82616",
+        "p": 3.99,
+        "s": "stuk 275 gram"
     },
     {
         "id": "82619",
@@ -413,13 +413,6 @@
         "s": "stuk 1 stuks"
     },
     {
-        "id": "103511",
-        "n": "Sorbo Steel geribd",
-        "l": "sorbo-steel-geribd-stuk-1-stuks-103511",
-        "p": 2.36,
-        "s": "stuk 1 stuks"
-    },
-    {
         "id": "103664",
         "n": "Pritt Correct-it roller",
         "l": "pritt-correct-it-roller-stuk-1-stuks-103664",
@@ -593,6 +586,13 @@
         "l": "danish-chef-smeerkaas-naturel-tube-85-gram-106502",
         "p": 1.45,
         "s": "tube 85 gram"
+    },
+    {
+        "id": "106505",
+        "n": "Danerolles Croissants",
+        "l": "danerolles-croissants-blik-240-gram-106505",
+        "p": 2.35,
+        "s": "blik 240 gram"
     },
     {
         "id": "106515",
@@ -2562,6 +2562,13 @@
         "s": "zak 450 gram"
     },
     {
+        "id": "126188",
+        "n": "Aviko Aardappel dobbelsteentjes",
+        "l": "aviko-aardappel-dobbelsteentjes-zak-750-gram-126188",
+        "p": 2.35,
+        "s": "zak 750 gram"
+    },
+    {
         "id": "126196",
         "n": "Aviko Friet van 't huis Oma's smulfriet",
         "l": "aviko-friet-van-t-huis-oma-s-smulfriet-zak-750-gram-126196",
@@ -2996,13 +3003,6 @@
         "s": "pot 280 gram"
     },
     {
-        "id": "132386",
-        "n": "G'woon Tortilla chips sweet chili",
-        "l": "g-woon-tortilla-chips-sweet-chili-zak-165-gram-132386",
-        "p": 1.2,
-        "s": "zak 165 gram"
-    },
-    {
         "id": "132388",
         "n": "G'woon Groene Olijven zonder pit",
         "l": "g-woon-groene-olijven-zonder-pit-pot-240-ml-132388",
@@ -3010,11 +3010,11 @@
         "s": "pot 240 ml"
     },
     {
-        "id": "132390",
-        "n": "G'woon Tortilla chips nacho cheese",
-        "l": "g-woon-tortilla-chips-nacho-cheese-zak-165-gram-132390",
-        "p": 1.2,
-        "s": "zak 165 gram"
+        "id": "132394",
+        "n": "G'woon Groene Olijven met Piment",
+        "l": "g-woon-groene-olijven-met-piment-pot-240-ml-132394",
+        "p": 1.19,
+        "s": "pot 240 ml"
     },
     {
         "id": "132396",
@@ -3304,6 +3304,13 @@
         "s": "fles 75 cl"
     },
     {
+        "id": "139374",
+        "n": "PLUS Strooispeculaas",
+        "l": "plus-strooispeculaas-pak-300-gram-139374",
+        "p": 1.19,
+        "s": "pak 300 gram"
+    },
+    {
         "id": "139593",
         "n": "Sushi Ran Bonsai",
         "l": "sushi-ran-bonsai-tray-191-gram-139593",
@@ -3358,6 +3365,13 @@
         "l": "plus-goudse-belegen-48-plakken-pak-400-gram-140301",
         "p": 6.49,
         "s": "pak 400 gram"
+    },
+    {
+        "id": "141254",
+        "n": "Grand'Italia Sofritto",
+        "l": "grand-italia-sofritto-pak-503-gram-141254",
+        "p": 1.19,
+        "s": "pak 503 gram"
     },
     {
         "id": "141302",
@@ -3962,6 +3976,13 @@
         "s": "pak 400 gram"
     },
     {
+        "id": "147440",
+        "n": "PLUS cakemeel",
+        "l": "plus-cakemeel-pak-500-gram-147440",
+        "p": 1.19,
+        "s": "pak 500 gram"
+    },
+    {
         "id": "147472",
         "n": "Page Toiletpapier 3 laags Kussenzacht",
         "l": "page-toiletpapier-3-laags-kussenzacht-pak-12-stuks-147472",
@@ -4379,6 +4400,13 @@
         "n": "Campina Vanilleyoghurt",
         "l": "campina-vanilleyoghurt-pak-500-ml-155781",
         "p": 1.09,
+        "s": "pak 500 ml"
+    },
+    {
+        "id": "155790",
+        "n": "Campina Hopjesvla",
+        "l": "campina-hopjesvla-pak-500-ml-155790",
+        "p": 1.19,
         "s": "pak 500 ml"
     },
     {
@@ -4928,6 +4956,27 @@
         "s": "pak 20 stuks"
     },
     {
+        "id": "161964",
+        "n": "PLUS Bapao rund",
+        "l": "plus-bapao-rund-zak-115-gram-161964",
+        "p": 1.19,
+        "s": "zak 115 gram"
+    },
+    {
+        "id": "161968",
+        "n": "PLUS Bapao kipsat\u00e9",
+        "l": "plus-bapao-kipsat-zak-115-gram-161968",
+        "p": 1.19,
+        "s": "zak 115 gram"
+    },
+    {
+        "id": "161970",
+        "n": "PLUS Bapao kip",
+        "l": "plus-bapao-kip-zak-115-gram-161970",
+        "p": 1.19,
+        "s": "zak 115 gram"
+    },
+    {
         "id": "161972",
         "n": "PLUS Bapao hete kip",
         "l": "plus-bapao-hete-kip-zak-115-gram-161972",
@@ -5089,6 +5138,20 @@
         "s": "set 1.200 gram"
     },
     {
+        "id": "162714",
+        "n": "LEENTJES Anijs pret",
+        "l": "leentjes-anijs-pret-doos-200-gram-162714",
+        "p": 2.35,
+        "s": "doos 200 gram"
+    },
+    {
+        "id": "162718",
+        "n": "LEENTJES Kokos pret",
+        "l": "leentjes-kokos-pret-doos-200-gram-162718",
+        "p": 2.35,
+        "s": "doos 200 gram"
+    },
+    {
         "id": "162720",
         "n": "Calv\u00e9 Pindakaas speculaas",
         "l": "calv-pindakaas-speculaas-pot-350-gram-162720",
@@ -5136,6 +5199,13 @@
         "l": "elvee-jelly-beans-zak-275-gram-162817",
         "p": 3.29,
         "s": "zak 275 gram"
+    },
+    {
+        "id": "162852",
+        "n": "Gerber Organic Dopwerten-Broccoli 4+",
+        "l": "gerber-organic-dopwerten-broccoli-4-pot-125-gram-162852",
+        "p": 1.19,
+        "s": "pot 125 gram"
     },
     {
         "id": "162860",
@@ -5226,6 +5296,13 @@
         "n": "Pickwick English zwarte thee voor pot",
         "l": "pickwick-english-zwarte-thee-voor-pot-pak-20-stuks-163865",
         "p": 1.49,
+        "s": "pak 20 stuks"
+    },
+    {
+        "id": "164080",
+        "n": "Pickwick English zwarte thee",
+        "l": "pickwick-english-zwarte-thee-pak-20-stuks-164080",
+        "p": 1.19,
         "s": "pak 20 stuks"
     },
     {
@@ -5915,6 +5992,27 @@
         "s": "pot 57 gram"
     },
     {
+        "id": "169028",
+        "n": "KITKAT Single reep Melk",
+        "l": "kitkat-single-reep-melk-reep-41-gram-169028",
+        "p": 1.19,
+        "s": "reep 41 gram"
+    },
+    {
+        "id": "169030",
+        "n": "Lion Single reep",
+        "l": "lion-single-reep-reep-42-gram-169030",
+        "p": 1.19,
+        "s": "reep 42 gram"
+    },
+    {
+        "id": "169032",
+        "n": "Malteser single",
+        "l": "malteser-single-zak-37-gram-169032",
+        "p": 1.19,
+        "s": "zak 37 gram"
+    },
+    {
         "id": "169034",
         "n": "Reese's Peanut Butter",
         "l": "reese-s-peanut-butter-pak-42-gram-169034",
@@ -6230,6 +6328,13 @@
         "s": "zak 180 gram"
     },
     {
+        "id": "170789",
+        "n": "Cesar Senior kip en rijst in gelei",
+        "l": "cesar-senior-kip-en-rijst-in-gelei-kuipje-150-gram-170789",
+        "p": 1.19,
+        "s": "kuipje 150 gram"
+    },
+    {
         "id": "170791",
         "n": "Knorr Wereldgerechten foodtrip Cannelloni",
         "l": "knorr-wereldgerechten-foodtrip-cannelloni-pak-190-gram-170791",
@@ -6333,6 +6438,13 @@
         "l": "fairtrade-original-zilvervliesrijst-bio-fairtrade-doos-400-gram-172778",
         "p": 2.19,
         "s": "doos 400 gram"
+    },
+    {
+        "id": "173119",
+        "n": "Completa Koffiecreamer sticks",
+        "l": "completa-koffiecreamer-sticks-pak-50-gram-173119",
+        "p": 1.19,
+        "s": "pak 50 gram"
     },
     {
         "id": "173931",
@@ -6949,13 +7061,6 @@
         "l": "wasa-sandwich-cheese-3x2-stuks-set-93-gram-177468",
         "p": 1.99,
         "s": "set 93 gram"
-    },
-    {
-        "id": "177480",
-        "n": "Grimbergen Blond",
-        "l": "grimbergen-blond-fles-30-cl-177480",
-        "p": 1.21,
-        "s": "fles 30 cl"
     },
     {
         "id": "177482",
@@ -7627,6 +7732,13 @@
         "n": "PLUS Aardappelpuree",
         "l": "plus-aardappelpuree-schaal-500-gram-180650",
         "p": 1.89,
+        "s": "schaal 500 gram"
+    },
+    {
+        "id": "180651",
+        "n": "PLUS Aardappelgratin bieslook met kaas",
+        "l": "plus-aardappelgratin-bieslook-met-kaas-schaal-500-gram-180651",
+        "p": 2.35,
         "s": "schaal 500 gram"
     },
     {
@@ -10745,6 +10857,13 @@
         "s": "pot 75 stuks"
     },
     {
+        "id": "197963",
+        "n": "Autodrop Cadillacs goed geschuimd",
+        "l": "autodrop-cadillacs-goed-geschuimd-doos-235-gram-197963",
+        "p": 2.35,
+        "s": "doos 235 gram"
+    },
+    {
         "id": "197975",
         "n": "Smint XL peppermint",
         "l": "smint-xl-peppermint-blik-150-stuks-197975",
@@ -11767,11 +11886,11 @@
         "s": "stuk 900 gram"
     },
     {
-        "id": "209851",
-        "n": "Qizini Panini pollo pesto",
-        "l": "qizini-panini-pollo-pesto-stuk-180-gram-209851",
+        "id": "209865",
+        "n": "Qizini Panini prosciutto",
+        "l": "qizini-panini-prosciutto-stuk-160-gram-209865",
         "p": 2.36,
-        "s": "stuk 180 gram"
+        "s": "stuk 160 gram"
     },
     {
         "id": "209913",
@@ -11877,13 +11996,6 @@
         "l": "jordan-tandenstoker-double-ended-extra-thin-blister-140-stuks-210730",
         "p": 2.99,
         "s": "blister 140 stuks"
-    },
-    {
-        "id": "210732",
-        "n": "Jordan Floss every day",
-        "l": "jordan-floss-every-day-blister-1-stuks-210732",
-        "p": 1.92,
-        "s": "blister 1 stuks"
     },
     {
         "id": "210870",
@@ -12537,6 +12649,13 @@
         "s": "zak 5 stuks"
     },
     {
+        "id": "215043",
+        "n": "John West Tonijnstukken met groente",
+        "l": "john-west-tonijnstukken-met-groente-blik-150-gram-215043",
+        "p": 2.99,
+        "s": "blik 150 gram"
+    },
+    {
         "id": "215128",
         "n": "Mora Oven & Airfryer mini kaassouffle",
         "l": "mora-oven-airfryer-mini-kaassouffle-doos-14-stuks-215128",
@@ -13128,13 +13247,6 @@
         "id": "220686",
         "n": "Feestelijk PLUS praline Haasjes M\/P\/W Fairtrade",
         "l": "feestelijk-plus-praline-haasjes-m-p-w-fairtrade-zak-175-gram-220686",
-        "p": 2.99,
-        "s": "zak 175 gram"
-    },
-    {
-        "id": "220688",
-        "n": "Feestelijk PLUS Chocolade Kuikens Melk Fairtrade",
-        "l": "feestelijk-plus-chocolade-kuikens-melk-fairtrade-zak-175-gram-220688",
         "p": 2.99,
         "s": "zak 175 gram"
     },
@@ -13923,13 +14035,6 @@
         "s": "krimp 1 stuks"
     },
     {
-        "id": "224713",
-        "n": "Heltiq Windsel Cambric 4M X 6 cm",
-        "l": "heltiq-windsel-cambric-4m-x-6-cm-doos-1-stuks-224713",
-        "p": 1.21,
-        "s": "doos 1 stuks"
-    },
-    {
         "id": "224731",
         "n": "Neutraal Suikerklontjes extra groot",
         "l": "neutraal-suikerklontjes-extra-groot-pak-1-kilo-224731",
@@ -14058,9 +14163,9 @@
     {
         "id": "225703",
         "n": "PLUS Cheddar 48+",
-        "l": "plus-cheddar-48-stuk-97-gram-225703",
+        "l": "plus-cheddar-48-stuk-99-gram-225703",
         "p": 1.5,
-        "s": "stuk 97 gram"
+        "s": "stuk 99 gram"
     },
     {
         "id": "225714",
@@ -14096,6 +14201,13 @@
         "l": "melkunie-protein-yoghurt-drink-bosbes-fles-330-ml-225722",
         "p": 1.89,
         "s": "fles 330 ml"
+    },
+    {
+        "id": "225726",
+        "n": "Chocomel Chocolademelk Koud",
+        "l": "chocomel-chocolademelk-koud-pak-1-liter-225726",
+        "p": 2.35,
+        "s": "pak 1 liter"
     },
     {
         "id": "225728",
@@ -16571,9 +16683,9 @@
     {
         "id": "244011",
         "n": "Homemade Mix voor Galaxy Cupcakes",
-        "l": "homemade-mix-voor-galaxy-cupcakes-doos-455-gram-244011",
+        "l": "homemade-mix-voor-galaxy-cupcakes-doos-445-gram-244011",
         "p": 2.99,
-        "s": "doos 455 gram"
+        "s": "doos 445 gram"
     },
     {
         "id": "244013",
@@ -16756,6 +16868,13 @@
         "l": "plus-dolce-vita-pizza-tonijn-doos-355-gram-245787",
         "p": 2.49,
         "s": "doos 355 gram"
+    },
+    {
+        "id": "245894",
+        "n": "Colgate Tandpasta sensation white",
+        "l": "colgate-tandpasta-sensation-white-tube-75-ml-245894",
+        "p": 2.36,
+        "s": "tube 75 ml"
     },
     {
         "id": "245920",
@@ -18067,13 +18186,6 @@
         "s": "kuipje 95 gram"
     },
     {
-        "id": "257901",
-        "n": "PLUS Toiletblok vloeibaar oceaan start",
-        "l": "plus-toiletblok-vloeibaar-oceaan-start-blister-55-ml-257901",
-        "p": 1.22,
-        "s": "blister 55 ml"
-    },
-    {
         "id": "257903",
         "n": "PLUS Toiletblok vloeibaar dennen start",
         "l": "plus-toiletblok-vloeibaar-dennen-start-blister-55-ml-257903",
@@ -18464,6 +18576,13 @@
         "l": "de-kleine-keuken-bio-mango-en-pompoen-spread-6-bus-170-gram-262551",
         "p": 3.19,
         "s": "bus 170 gram"
+    },
+    {
+        "id": "262589",
+        "n": "Jozo Himalayazout grof",
+        "l": "jozo-himalayazout-grof-doos-180-gram-262589",
+        "p": 2.35,
+        "s": "doos 180 gram"
     },
     {
         "id": "262635",
@@ -19299,13 +19418,6 @@
         "s": "pot 235 gram"
     },
     {
-        "id": "268458",
-        "n": "BioToday Triangles rice\/pea\/tom bio",
-        "l": "biotoday-triangles-rice-pea-tom-bio-zak-80-gram-268458",
-        "p": 2.37,
-        "s": "zak 80 gram"
-    },
-    {
         "id": "268460",
         "n": "BioToday Triangles corn\/legume bio",
         "l": "biotoday-triangles-corn-legume-bio-zak-80-gram-268460",
@@ -19545,8 +19657,8 @@
     },
     {
         "id": "270662",
-        "n": "Kleenair Kleenair Philips Ph-6",
-        "l": "kleenair-kleenair-philips-ph-6-doos-4-stuks-270662",
+        "n": "Kleenair Philips Ph-4",
+        "l": "kleenair-philips-ph-4-doos-4-stuks-270662",
         "p": 4.93,
         "s": "doos 4 stuks"
     },
@@ -19717,13 +19829,6 @@
         "l": "guhl-guhl-rijke-voeding-shampoo-fles-250-ml-271203",
         "p": 8.49,
         "s": "fles 250 ml"
-    },
-    {
-        "id": "271205",
-        "n": "Guhl Guhl Rijke voeding creme-conditioner",
-        "l": "guhl-guhl-rijke-voeding-creme-conditioner-fles-200-ml-271205",
-        "p": 8.49,
-        "s": "fles 200 ml"
     },
     {
         "id": "271272",
@@ -20090,6 +20195,13 @@
         "s": "blik 33 cl"
     },
     {
+        "id": "272312",
+        "n": "Melkunie Bolletjes toffeevla",
+        "l": "melkunie-bolletjes-toffeevla-pak-1-liter-272312",
+        "p": 2.36,
+        "s": "pak 1 liter"
+    },
+    {
         "id": "272360",
         "n": "Grand'Italia Macaroni volkoren",
         "l": "grand-italia-macaroni-volkoren-zak-500-gram-272360",
@@ -20333,6 +20445,27 @@
         "l": "knorr-bouillon-rundvlees-pak-150-gram-273328",
         "p": 1.59,
         "s": "pak 150 gram"
+    },
+    {
+        "id": "273375",
+        "n": "John West Tonijnmoot in olijfolie MSC",
+        "l": "john-west-tonijnmoot-in-olijfolie-msc-blik-145-gram-273375",
+        "p": 4.29,
+        "s": "blik 145 gram"
+    },
+    {
+        "id": "273377",
+        "n": "John West Tonijnmoot in water MSC",
+        "l": "john-west-tonijnmoot-in-water-msc-blik-145-gram-273377",
+        "p": 3.79,
+        "s": "blik 145 gram"
+    },
+    {
+        "id": "273379",
+        "n": "John West Sardinefilets extra vergine olijfolie",
+        "l": "john-west-sardinefilets-extra-vergine-olijfolie-blik-95-gram-273379",
+        "p": 1.95,
+        "s": "blik 95 gram"
     },
     {
         "id": "273464",
@@ -27524,13 +27657,6 @@
         "s": "zak 100 gram"
     },
     {
-        "id": "322913",
-        "n": "PLUS Vers Gesneden voor u Cervelaat",
-        "l": "plus-vers-gesneden-voor-u-cervelaat-100-gram-322913",
-        "p": 2.38,
-        "s": "100 gram"
-    },
-    {
         "id": "322946",
         "n": "Optimel Yoghurt Griekse stijl kers 0% vet",
         "l": "optimel-yoghurt-griekse-stijl-kers-0-vet-beker-450-gram-322946",
@@ -28602,6 +28728,13 @@
         "s": "pak 1 liter"
     },
     {
+        "id": "331035",
+        "n": "Melkunie Appel-kaneelvla",
+        "l": "melkunie-appel-kaneelvla-pak-1-liter-331035",
+        "p": 2.36,
+        "s": "pak 1 liter"
+    },
+    {
         "id": "331161",
         "n": "Koopmans allesbinder",
         "l": "koopmans-allesbinder-pak-200-gram-331161",
@@ -29204,6 +29337,13 @@
         "s": "fles 750 ml"
     },
     {
+        "id": "337116",
+        "n": "John West Roze zalm zonder vel en graat MSC",
+        "l": "john-west-roze-zalm-zonder-vel-en-graat-msc-blik-170-gram-337116",
+        "p": 7.29,
+        "s": "blik 170 gram"
+    },
+    {
         "id": "337329",
         "n": "PLUS Rookkaas 45+ plakken",
         "l": "plus-rookkaas-45-plakken-pak-150-gram-337329",
@@ -29321,6 +29461,13 @@
         "l": "lipton-ice-tea-green-lemon-fles-150-cl-337808",
         "p": 3.15,
         "s": "fles 150 cl"
+    },
+    {
+        "id": "337813",
+        "n": "Lipton Ice tea green",
+        "l": "lipton-ice-tea-green-fles-1-liter-337813",
+        "p": 2.35,
+        "s": "fles 1 liter"
     },
     {
         "id": "337814",
@@ -30086,6 +30233,13 @@
         "s": "pak 120 gram"
     },
     {
+        "id": "345770",
+        "n": "PLUS Salami",
+        "l": "plus-salami-pak-125-gram-345770",
+        "p": 2.36,
+        "s": "pak 125 gram"
+    },
+    {
         "id": "345808",
         "n": "Pepsi Max Cherry",
         "l": "pepsi-max-cherry-blik-33-cl-345808",
@@ -30546,6 +30700,27 @@
         "l": "fernandes-red-grape-blik-25-cl-349550",
         "p": 0.77,
         "s": "blik 25 cl"
+    },
+    {
+        "id": "349683",
+        "n": "John West Tonijnpate",
+        "l": "john-west-tonijnpate-blik-125-gram-349683",
+        "p": 3.39,
+        "s": "blik 125 gram"
+    },
+    {
+        "id": "349691",
+        "n": "John West Zalmpate",
+        "l": "john-west-zalmpate-blik-125-gram-349691",
+        "p": 3.29,
+        "s": "blik 125 gram"
+    },
+    {
+        "id": "349829",
+        "n": "John West Roze zalm MSC",
+        "l": "john-west-roze-zalm-msc-blik-213-gram-349829",
+        "p": 4.29,
+        "s": "blik 213 gram"
     },
     {
         "id": "351971",
@@ -31346,6 +31521,13 @@
         "s": "fles 150 cl"
     },
     {
+        "id": "358684",
+        "n": "Lipton Ice Tea sparkling",
+        "l": "lipton-ice-tea-sparkling-fles-1-liter-358684",
+        "p": 2.35,
+        "s": "fles 1 liter"
+    },
+    {
         "id": "358712",
         "n": "Lipton Ice Tea Sparkling Original",
         "l": "lipton-ice-tea-sparkling-original-blik-25-cl-358712",
@@ -31561,6 +31743,13 @@
         "l": "servero-100-appelmoes-met-stukjes-pot-555-gram-359156",
         "p": 2.15,
         "s": "pot 555 gram"
+    },
+    {
+        "id": "359160",
+        "n": "Servero 100% Appelmoes Biologisch",
+        "l": "servero-100-appelmoes-biologisch-pot-560-gram-359160",
+        "p": 2.35,
+        "s": "pot 560 gram"
     },
     {
         "id": "359168",
@@ -32728,7 +32917,7 @@
         "id": "370189",
         "n": "PLUS Klaverland Jong belegen 48+ plakken",
         "l": "plus-klaverland-jong-belegen-48-plakken-350-gram-370189",
-        "p": 6.12,
+        "p": 6.54,
         "s": "350 gram"
     },
     {
@@ -33411,6 +33600,13 @@
         "s": "pak 120 gram"
     },
     {
+        "id": "374891",
+        "n": "Kips Vega filet americain",
+        "l": "kips-vega-filet-americain-kuipje-125-gram-374891",
+        "p": 2.35,
+        "s": "kuipje 125 gram"
+    },
+    {
         "id": "375161",
         "n": "Hak Witten bonen in tomatensaus",
         "l": "hak-witten-bonen-in-tomatensaus-pot-360-gram-375161",
@@ -33458,6 +33654,13 @@
         "l": "https:\/\/www.plus.nl\/wijn\/copias-sherry-fino-fles-75-cl-375266",
         "p": 3.79,
         "s": "fles 75 cl"
+    },
+    {
+        "id": "375296",
+        "n": "Kips Vega Pat\u00e9",
+        "l": "kips-vega-pat-zak-125-gram-375296",
+        "p": 2.35,
+        "s": "zak 125 gram"
     },
     {
         "id": "375298",
@@ -36592,7 +36795,7 @@
         "id": "391974",
         "n": "PLUS Filet americain naturel",
         "l": "plus-filet-americain-naturel-bak-150-gram-391974",
-        "p": 3.79,
+        "p": 2.95,
         "s": "bak 150 gram"
     },
     {
@@ -36748,6 +36951,13 @@
         "l": "https:\/\/www.plus.nl\/wijn\/plus-huiswijn-wit-droog-wijntap-doos-300-cl-393034",
         "p": 11.49,
         "s": "doos 300 cl"
+    },
+    {
+        "id": "393057",
+        "n": "John West Rode zalm MSC",
+        "l": "john-west-rode-zalm-msc-blik-105-gram-393057",
+        "p": 4.99,
+        "s": "blik 105 gram"
     },
     {
         "id": "393089",
@@ -37359,6 +37569,62 @@
         "s": "blik 200 gram"
     },
     {
+        "id": "397185",
+        "n": "Biologisch PLUS Runderballetjes 12st",
+        "l": "biologisch-plus-runderballetjes-12st-tray-300-gram-397185",
+        "p": 4.49,
+        "s": "tray 300 gram"
+    },
+    {
+        "id": "397187",
+        "n": "Biologisch PLUS Soepballetjes",
+        "l": "biologisch-plus-soepballetjes-tray-240-gram-397187",
+        "p": 3.16,
+        "s": "tray 240 gram"
+    },
+    {
+        "id": "397189",
+        "n": "Biologisch PLUS Rundervink 2st",
+        "l": "biologisch-plus-rundervink-2st-tray-200-gram-397189",
+        "p": 3.49,
+        "s": "tray 200 gram"
+    },
+    {
+        "id": "397193",
+        "n": "Biologisch PLUS Rundersaucijs 2st",
+        "l": "biologisch-plus-rundersaucijs-2st-tray-200-gram-397193",
+        "p": 3.99,
+        "s": "tray 200 gram"
+    },
+    {
+        "id": "397195",
+        "n": "Biologisch PLUS Gehakt half om half",
+        "l": "biologisch-plus-gehakt-half-om-half-tray-300-gram-397195",
+        "p": 3.89,
+        "s": "tray 300 gram"
+    },
+    {
+        "id": "397197",
+        "n": "Biologisch PLUS Rundergehakt mager",
+        "l": "biologisch-plus-rundergehakt-mager-tray-300-gram-397197",
+        "p": 4.69,
+        "s": "tray 300 gram"
+    },
+    {
+        "id": "397199",
+        "n": "Biologisch PLUS Slavinken 2st",
+        "l": "biologisch-plus-slavinken-2st-tray-200-gram-397199",
+        "p": 2.99,
+        "s": "tray 200 gram"
+    },
+    {
+        "id": "397201",
+        "n": "Biologisch PLUS Varkenssaucijs 2st",
+        "l": "biologisch-plus-varkenssaucijs-2st-tray-200-gram-397201",
+        "p": 2.99,
+        "s": "tray 200 gram"
+    },
+    {
         "id": "397203",
         "n": "Biologisch PLUS Gourmetschotel",
         "l": "biologisch-plus-gourmetschotel-530-gram-397203",
@@ -37756,13 +38022,6 @@
         "l": "duvel-tripel-hop-ipa-bier-fles-33-cl-399617",
         "p": 2.25,
         "s": "fles 33 cl"
-    },
-    {
-        "id": "399627",
-        "n": "Hertog Jan Lentebock bier fles 30 cl",
-        "l": "hertog-jan-lentebock-bier-fles-30-cl-fles-30-cl-399627",
-        "p": 1.22,
-        "s": "fles 30 cl"
     },
     {
         "id": "399629",
@@ -39312,6 +39571,13 @@
         "s": "pot 260 gram"
     },
     {
+        "id": "414216",
+        "n": "John West Sardinefilets in zonnebloemolie",
+        "l": "john-west-sardinefilets-in-zonnebloemolie-blik-95-gram-414216",
+        "p": 1.49,
+        "s": "blik 95 gram"
+    },
+    {
         "id": "414453",
         "n": "Bonduelle Franse sperzieboontjes zeer fijn",
         "l": "bonduelle-franse-sperzieboontjes-zeer-fijn-blik-400-gram-414453",
@@ -39837,6 +40103,13 @@
         "s": "pot 90 gram"
     },
     {
+        "id": "419690",
+        "n": "Johma Ei salade",
+        "l": "johma-ei-salade-kuipje-175-gram-419690",
+        "p": 2.35,
+        "s": "kuipje 175 gram"
+    },
+    {
         "id": "419701",
         "n": "Johma Surimi krabsalade",
         "l": "johma-surimi-krabsalade-kuipje-175-gram-419701",
@@ -39914,13 +40187,6 @@
         "s": "stuk 1 stuks"
     },
     {
-        "id": "419836",
-        "n": "PLUS Gestikte dweil",
-        "l": "plus-gestikte-dweil-set-2-stuks-419836",
-        "p": 2.38,
-        "s": "set 2 stuks"
-    },
-    {
         "id": "419837",
         "n": "PLUS Dweil microvezel",
         "l": "plus-dweil-microvezel-stuk-1-stuks-419837",
@@ -39968,6 +40234,13 @@
         "l": "plus-smeerkaas-naturel-20-kuipje-100-gram-419963",
         "p": 0.79,
         "s": "kuipje 100 gram"
+    },
+    {
+        "id": "420364",
+        "n": "John West Makreelfilets zonnebloemolie gerookt",
+        "l": "john-west-makreelfilets-zonnebloemolie-gerookt-blik-145-gram-420364",
+        "p": 2.39,
+        "s": "blik 145 gram"
     },
     {
         "id": "420464",
@@ -40157,6 +40430,13 @@
         "l": "mora-mini-s-kaassouffl-s-doos-300-gram-421325",
         "p": 2.95,
         "s": "doos 300 gram"
+    },
+    {
+        "id": "421343",
+        "n": "Arla Lactofree volle melk lactosevrij",
+        "l": "arla-lactofree-volle-melk-lactosevrij-pak-1-liter-421343",
+        "p": 2.35,
+        "s": "pak 1 liter"
     },
     {
         "id": "421349",
@@ -42042,13 +42322,6 @@
         "s": "fles 50 cl"
     },
     {
-        "id": "434443",
-        "n": "Sourcy Vitaminwater limoen lychee 0% suiker",
-        "l": "sourcy-vitaminwater-limoen-lychee-0-suiker-fles-50-cl-434443",
-        "p": 1.55,
-        "s": "fles 50 cl"
-    },
-    {
         "id": "434445",
         "n": "Sourcy Vitaminwater mango guave 0% suiker",
         "l": "sourcy-vitaminwater-mango-guave-0-suiker-fles-50-cl-434445",
@@ -43547,13 +43820,6 @@
         "s": "krimp 29 gram"
     },
     {
-        "id": "443879",
-        "n": "G'woon Witte Krijtjes",
-        "l": "g-woon-witte-krijtjes-zak-250-gram-443879",
-        "p": 1.21,
-        "s": "zak 250 gram"
-    },
-    {
         "id": "443881",
         "n": "G'woon Knackebrod Vezelrijk",
         "l": "g-woon-knackebrod-vezelrijk-doos-375-gram-443881",
@@ -43814,8 +44080,8 @@
     },
     {
         "id": "445740",
-        "n": "Fire up Aanmaakblokjes wit",
-        "l": "fire-up-aanmaakblokjes-wit-pak-32-stuks-445740",
+        "n": "Fire up THM Aanmaakblokjes wit",
+        "l": "fire-up-thm-aanmaakblokjes-wit-pak-32-stuks-445740",
         "p": 1.19,
         "s": "pak 32 stuks"
     },
@@ -47698,6 +47964,13 @@
         "s": "pot 370 ml"
     },
     {
+        "id": "482521",
+        "n": "G'woon Ananasstukjes o.s.",
+        "l": "g-woon-ananasstukjes-o-s-blik-227-gram-482521",
+        "p": 1.2,
+        "s": "blik 227 gram"
+    },
+    {
         "id": "482527",
         "n": "G'woon Ananasstukjes Op lichte siroop",
         "l": "g-woon-ananasstukjes-op-lichte-siroop-blik-567-gram-482527",
@@ -48489,6 +48762,13 @@
         "s": "pak 50 gram"
     },
     {
+        "id": "488591",
+        "n": "Rizla Cards chill menthol",
+        "l": "rizla-cards-chill-menthol-pak-1-stuks-488591",
+        "p": 1.2,
+        "s": "pak 1 stuks"
+    },
+    {
         "id": "489078",
         "n": "ALL NATURAL Instant Protein Porr. bio",
         "l": "all-natural-instant-protein-porr-bio-pot-230-gram-489078",
@@ -48746,6 +49026,13 @@
         "l": "consenza-cereal-bites-latte-macc-doos-125-gram-490458",
         "p": 3.19,
         "s": "doos 125 gram"
+    },
+    {
+        "id": "490483",
+        "n": "John West Ansjovisfilets in zonnebloemolie",
+        "l": "john-west-ansjovisfilets-in-zonnebloemolie-blik-45-gram-490483",
+        "p": 2.09,
+        "s": "blik 45 gram"
     },
     {
         "id": "490487",
@@ -49558,6 +49845,13 @@
         "l": "plus-lever-350-gram-493567",
         "p": 2.06,
         "s": "350 gram"
+    },
+    {
+        "id": "493569",
+        "n": "PLUS Staartjes",
+        "l": "plus-staartjes-200-gram-493569",
+        "p": 1.2,
+        "s": "200 gram"
     },
     {
         "id": "493582",
@@ -51478,6 +51772,13 @@
         "s": "blik 567 gram"
     },
     {
+        "id": "510449",
+        "n": "PLUS Ananasstukjes op sap",
+        "l": "plus-ananasstukjes-op-sap-blik-227-gram-510449",
+        "p": 1.2,
+        "s": "blik 227 gram"
+    },
+    {
         "id": "510452",
         "n": "PLUS Ananas stukjes op lichte siroop",
         "l": "plus-ananas-stukjes-op-lichte-siroop-blik-567-gram-510452",
@@ -53233,13 +53534,6 @@
         "l": "plus-kokosmakroon-stuk-1-stuks-522304",
         "p": 0.75,
         "s": "stuk 1 stuks"
-    },
-    {
-        "id": "522576",
-        "n": "Gillette Scheergel regular",
-        "l": "gillette-scheergel-regular-bus-200-ml-522576",
-        "p": 2.8,
-        "s": "bus 200 ml"
     },
     {
         "id": "522737",
@@ -55188,13 +55482,6 @@
         "s": "zak 500 gram"
     },
     {
-        "id": "541672",
-        "n": "G'woon Cranberries",
-        "l": "g-woon-cranberries-zak-175-gram-541672",
-        "p": 1.23,
-        "s": "zak 175 gram"
-    },
-    {
         "id": "541677",
         "n": "G'woon Dessertsaus aardbei",
         "l": "g-woon-dessertsaus-aardbei-fles-260-gram-541677",
@@ -56131,6 +56418,13 @@
         "l": "look-o-look-cherrysticks-zak-115-gram-547140",
         "p": 1.99,
         "s": "zak 115 gram"
+    },
+    {
+        "id": "547146",
+        "n": "Graze Punnet salt & pepper",
+        "l": "graze-punnet-salt-pepper-reep-28-gram-547146",
+        "p": 1.2,
+        "s": "reep 28 gram"
     },
     {
         "id": "547154",
@@ -60949,13 +61243,6 @@
         "s": "bus 250 ml"
     },
     {
-        "id": "569802",
-        "n": "PLUS Soep in zak kippensoep",
-        "l": "plus-soep-in-zak-kippensoep-zak-570-ml-569802",
-        "p": 2.37,
-        "s": "zak 570 ml"
-    },
-    {
         "id": "569854",
         "n": "Ambre Solaire Kids antizand SPF50+",
         "l": "ambre-solaire-kids-antizand-spf50-flacon-150-ml-569854",
@@ -63266,13 +63553,6 @@
         "s": "fles 50 cl"
     },
     {
-        "id": "595964",
-        "n": "PLUS Cranberries",
-        "l": "plus-cranberries-zak-175-gram-595964",
-        "p": 1.23,
-        "s": "zak 175 gram"
-    },
-    {
         "id": "595969",
         "n": "Spa Bruisend Mineraalwater Zwarte Bes",
         "l": "spa-bruisend-mineraalwater-zwarte-bes-fles-50-cl-595969",
@@ -64533,13 +64813,6 @@
         "s": "pak 345 gram"
     },
     {
-        "id": "606013",
-        "n": "Lenor Unstoppables Ariel",
-        "l": "lenor-unstoppables-ariel-fles-154-gram-606013",
-        "p": 6.99,
-        "s": "fles 154 gram"
-    },
-    {
         "id": "606020",
         "n": "Vanish Oxi action gold vlekverwijderaar",
         "l": "vanish-oxi-action-gold-vlekverwijderaar-fles-500-ml-606020",
@@ -65222,7 +65495,7 @@
         "id": "611174",
         "n": "G'woon Meergranenbiscuit Appel",
         "l": "g-woon-meergranenbiscuit-appel-pak-225-gram-611174",
-        "p": 1.02,
+        "p": 1.09,
         "s": "pak 225 gram"
     },
     {
@@ -65364,13 +65637,6 @@
         "l": "g-woon-midi-gevulde-koeken-pak-270-gram-612952",
         "p": 1.85,
         "s": "pak 270 gram"
-    },
-    {
-        "id": "612954",
-        "n": "G'woon Toiletblok vloeibaar Oceaan Start",
-        "l": "g-woon-toiletblok-vloeibaar-oceaan-start-blister-55-gram-612954",
-        "p": 1.22,
-        "s": "blister 55 gram"
     },
     {
         "id": "612956",
@@ -66008,27 +66274,6 @@
         "l": "ruba-sigaretten-white-pak-20-stuks-616328",
         "p": 6.95,
         "s": "pak 20 stuks"
-    },
-    {
-        "id": "616348",
-        "n": "G'woon Fruitbiscuit Naturel",
-        "l": "g-woon-fruitbiscuit-naturel-pak-218-gram-616348",
-        "p": 1.21,
-        "s": "pak 218 gram"
-    },
-    {
-        "id": "616350",
-        "n": "G'woon Fruitbiscuit Appel",
-        "l": "g-woon-fruitbiscuit-appel-pak-218-gram-616350",
-        "p": 1.21,
-        "s": "pak 218 gram"
-    },
-    {
-        "id": "616352",
-        "n": "G'woon Fruitbiscuit Bosvruchten",
-        "l": "g-woon-fruitbiscuit-bosvruchten-pak-218-gram-616352",
-        "p": 1.21,
-        "s": "pak 218 gram"
     },
     {
         "id": "616354",
@@ -69832,6 +70077,13 @@
         "s": "100 gram"
     },
     {
+        "id": "637129",
+        "n": "PLUS Hausmacher",
+        "l": "plus-hausmacher-125-gram-637129",
+        "p": 2.36,
+        "s": "125 gram"
+    },
+    {
         "id": "637135",
         "n": "PLUS Tongenworst",
         "l": "plus-tongenworst-125-gram-637135",
@@ -70234,7 +70486,7 @@
         "id": "641138",
         "n": "G'woon Stroopwafels salted caramel",
         "l": "g-woon-stroopwafels-salted-caramel-zak-315-gram-641138",
-        "p": 2.39,
+        "p": 2.59,
         "s": "zak 315 gram"
     },
     {
@@ -73374,6 +73626,13 @@
         "s": "tray 440 gram"
     },
     {
+        "id": "659881",
+        "n": "Biologisch PLUS Speklap 3st",
+        "l": "biologisch-plus-speklap-3st-180-gram-659881",
+        "p": 2.87,
+        "s": "180 gram"
+    },
+    {
         "id": "659883",
         "n": "PLUS Mini loempia's groente",
         "l": "plus-mini-loempia-s-groente-doos-300-gram-659883",
@@ -73381,11 +73640,74 @@
         "s": "doos 300 gram"
     },
     {
+        "id": "659885",
+        "n": "Biologisch PLUS Kogelbiefstuk nat 2 st",
+        "l": "biologisch-plus-kogelbiefstuk-nat-2-st-280-gram-659885",
+        "p": 8.48,
+        "s": "280 gram"
+    },
+    {
+        "id": "659888",
+        "n": "Biologisch PLUS Runderriblappen 1st",
+        "l": "biologisch-plus-runderriblappen-1st-450-gram-659888",
+        "p": 8.98,
+        "s": "450 gram"
+    },
+    {
+        "id": "659890",
+        "n": "Biologisch PLUS Rundergehakt",
+        "l": "biologisch-plus-rundergehakt-tray-300-gram-659890",
+        "p": 3.99,
+        "s": "tray 300 gram"
+    },
+    {
+        "id": "659894",
+        "n": "Biologisch PLUS Schouderkarbonade 2st",
+        "l": "biologisch-plus-schouderkarbonade-2st-340-gram-659894",
+        "p": 5.1,
+        "s": "340 gram"
+    },
+    {
+        "id": "659896",
+        "n": "Biologisch PLUS Hamburgers 2 st",
+        "l": "biologisch-plus-hamburgers-2-st-tray-200-gram-659896",
+        "p": 3.69,
+        "s": "tray 200 gram"
+    },
+    {
+        "id": "659898",
+        "n": "Biologisch PLUS Shoarmareepjes",
+        "l": "biologisch-plus-shoarmareepjes-tray-300-gram-659898",
+        "p": 4.29,
+        "s": "tray 300 gram"
+    },
+    {
+        "id": "659900",
+        "n": "Biologisch PLUS Runderchipolata 5 st",
+        "l": "biologisch-plus-runderchipolata-5-st-tray-225-gram-659900",
+        "p": 3.99,
+        "s": "tray 225 gram"
+    },
+    {
+        "id": "659902",
+        "n": "Biologisch PLUS Rundergehakt",
+        "l": "biologisch-plus-rundergehakt-tray-500-gram-659902",
+        "p": 6.49,
+        "s": "tray 500 gram"
+    },
+    {
         "id": "659906",
         "n": "Bio+ Volle kwark",
         "l": "bio-volle-kwark-beker-500-gram-659906",
         "p": 2.49,
         "s": "beker 500 gram"
+    },
+    {
+        "id": "659908",
+        "n": "Biologisch PLUS Filetlapjes 2st",
+        "l": "biologisch-plus-filetlapjes-2st-220-gram-659908",
+        "p": 3.95,
+        "s": "220 gram"
     },
     {
         "id": "660072",
@@ -76230,13 +76552,6 @@
         "s": "tube 100 ml"
     },
     {
-        "id": "681034",
-        "n": "Reese's Peanut butter cups mini's",
-        "l": "reese-s-peanut-butter-cups-mini-s-zak-90-gram-681034",
-        "p": 2.37,
-        "s": "zak 90 gram"
-    },
-    {
         "id": "681036",
         "n": "Go-Tan Wok Egg Noodles",
         "l": "go-tan-wok-egg-noodles-zak-250-gram-681036",
@@ -77497,13 +77812,6 @@
         "s": "pak 375 gram"
     },
     {
-        "id": "690284",
-        "n": "PLUS Granenbiscuit Choco Fairtrade",
-        "l": "plus-granenbiscuit-choco-fairtrade-pak-195-gram-690284",
-        "p": 1.22,
-        "s": "pak 195 gram"
-    },
-    {
         "id": "690818",
         "n": "Uit de keuken van PLUS Krieltjes met kruiden",
         "l": "uit-de-keuken-van-plus-krieltjes-met-kruiden-250-gram-690818",
@@ -77875,6 +78183,27 @@
         "s": "doos 120 stuks"
     },
     {
+        "id": "693396",
+        "n": "John West Makreel water",
+        "l": "john-west-makreel-water-blik-115-gram-693396",
+        "p": 1.95,
+        "s": "blik 115 gram"
+    },
+    {
+        "id": "693398",
+        "n": "John West Makreel tomaat",
+        "l": "john-west-makreel-tomaat-blik-115-gram-693398",
+        "p": 1.95,
+        "s": "blik 115 gram"
+    },
+    {
+        "id": "693400",
+        "n": "John West Makreel zonnebloemolie",
+        "l": "john-west-makreel-zonnebloemolie-blik-115-gram-693400",
+        "p": 1.95,
+        "s": "blik 115 gram"
+    },
+    {
         "id": "693426",
         "n": "PLUS Cranberry pat\u00e9",
         "l": "plus-cranberry-pat-pak-75-gram-693426",
@@ -77887,6 +78216,13 @@
         "l": "plus-cremepat-pak-75-gram-693428",
         "p": 1.4,
         "s": "pak 75 gram"
+    },
+    {
+        "id": "693446",
+        "n": "John West Tonijnstukken olijfolie",
+        "l": "john-west-tonijnstukken-olijfolie-set-3-stuks-693446",
+        "p": 8.59,
+        "s": "set 3 stuks"
     },
     {
         "id": "693452",
@@ -77950,6 +78286,13 @@
         "l": "plus-roquefort-50-120-gram-693476",
         "p": 3.15,
         "s": "120 gram"
+    },
+    {
+        "id": "693478",
+        "n": "PLUS Fourme d'ambert 50+",
+        "l": "plus-fourme-d-ambert-50-110-gram-693478",
+        "p": 2.36,
+        "s": "110 gram"
     },
     {
         "id": "693482",
@@ -78762,13 +79105,6 @@
         "l": "g-woon-doperwten-en-wortelen-pot-680-gram-699389",
         "p": 1.19,
         "s": "pot 680 gram"
-    },
-    {
-        "id": "699391",
-        "n": "G'woon Granenbiscuit Choco Fairtrade",
-        "l": "g-woon-granenbiscuit-choco-fairtrade-box-195-gram-699391",
-        "p": 1.22,
-        "s": "box 195 gram"
     },
     {
         "id": "699393",
@@ -79807,6 +80143,20 @@
         "s": "zak 165 gram"
     },
     {
+        "id": "713659",
+        "n": "PLUS Tortilla chips nacho cheese",
+        "l": "plus-tortilla-chips-nacho-cheese-zak-165-gram-713659",
+        "p": 1.2,
+        "s": "zak 165 gram"
+    },
+    {
+        "id": "713661",
+        "n": "PLUS Tortilla chips sweet chili",
+        "l": "plus-tortilla-chips-sweet-chili-zak-165-gram-713661",
+        "p": 1.2,
+        "s": "zak 165 gram"
+    },
+    {
         "id": "714199",
         "n": "Silvo Kerrie",
         "l": "silvo-kerrie-zak-11-gram-714199",
@@ -80567,6 +80917,13 @@
         "n": "Pr\u00e9sident Roombrie 60+",
         "l": "pr-sident-roombrie-60-100-gram-716760",
         "p": 2.1,
+        "s": "100 gram"
+    },
+    {
+        "id": "716762",
+        "n": "PLUS Brie 60+",
+        "l": "plus-brie-60-100-gram-716762",
+        "p": 1.2,
         "s": "100 gram"
     },
     {
@@ -81662,13 +82019,6 @@
         "s": "fles 100 cl"
     },
     {
-        "id": "724372",
-        "n": "Bio+ Appelmoes",
-        "l": "bio-appelmoes-pot-360-gram-724372",
-        "p": 1.22,
-        "s": "pot 360 gram"
-    },
-    {
         "id": "724374",
         "n": "Bonduelle Rode kidneybonen 2 mini's",
         "l": "bonduelle-rode-kidneybonen-2-mini-s-blik-160-gram-724374",
@@ -82082,6 +82432,13 @@
         "s": "pak 450 gram"
     },
     {
+        "id": "725672",
+        "n": "PLUS Leverkaas",
+        "l": "plus-leverkaas-pak-150-gram-725672",
+        "p": 2.36,
+        "s": "pak 150 gram"
+    },
+    {
         "id": "725721",
         "n": "Energy + FILTER TIPS MENTHOL",
         "l": "energy-filter-tips-menthol-pak-100-stuks-725721",
@@ -82344,13 +82701,6 @@
         "id": "726860",
         "n": "Feestelijk PLUS Paaseitjes Melk\/Puur\/Wit Fairtrade",
         "l": "feestelijk-plus-paaseitjes-melk-puur-wit-fairtrade-zak-175-gram-726860",
-        "p": 2.99,
-        "s": "zak 175 gram"
-    },
-    {
-        "id": "726864",
-        "n": "Feestelijk PLUS Chocolade haasjes Fairtrade",
-        "l": "feestelijk-plus-chocolade-haasjes-fairtrade-zak-175-gram-726864",
         "p": 2.99,
         "s": "zak 175 gram"
     },
@@ -82661,20 +83011,6 @@
         "l": "wagner-sensazione-pizza-pollo-doos-370-gram-729029",
         "p": 3.99,
         "s": "doos 370 gram"
-    },
-    {
-        "id": "729038",
-        "n": "Douwe Egberts Ice cappuccino ijskoffie",
-        "l": "douwe-egberts-ice-cappuccino-ijskoffie-blik-250-ml-729038",
-        "p": 1.29,
-        "s": "blik 250 ml"
-    },
-    {
-        "id": "729044",
-        "n": "Douwe Egberts Ice mocha latte ijskoffie",
-        "l": "douwe-egberts-ice-mocha-latte-ijskoffie-blik-250-ml-729044",
-        "p": 1.29,
-        "s": "blik 250 ml"
     },
     {
         "id": "729137",
@@ -83118,13 +83454,6 @@
         "s": "pot 150 ml"
     },
     {
-        "id": "732579",
-        "n": "Sanex Deoroller sensitive",
-        "l": "sanex-deoroller-sensitive-rol-50-ml-732579",
-        "p": 3.99,
-        "s": "rol 50 ml"
-    },
-    {
         "id": "732738",
         "n": "Alpro Sojadrink rode vruchten",
         "l": "alpro-sojadrink-rode-vruchten-pak-1-liter-732738",
@@ -83559,6 +83888,27 @@
         "s": "fles 150 cl"
     },
     {
+        "id": "736901",
+        "n": "John West Tonijnstukken olijfolie duopack 2x60g",
+        "l": "john-west-tonijnstukken-olijfolie-duopack-2x60g-blik-120-gram-736901",
+        "p": 4.19,
+        "s": "blik 120 gram"
+    },
+    {
+        "id": "736903",
+        "n": "John West Tonijnstukken in water duopack 2x60g",
+        "l": "john-west-tonijnstukken-in-water-duopack-2x60g-blik-120-gram-736903",
+        "p": 3.69,
+        "s": "blik 120 gram"
+    },
+    {
+        "id": "736929",
+        "n": "John West Gegrilde sardines",
+        "l": "john-west-gegrilde-sardines-blik-100-gram-736929",
+        "p": 1.49,
+        "s": "blik 100 gram"
+    },
+    {
         "id": "736934",
         "n": "Coca-Cola Zero sugar cafe\u00efnevrij",
         "l": "coca-cola-zero-sugar-cafe-nevrij-fles-150-cl-736934",
@@ -83655,13 +84005,6 @@
         "l": "brand-weizen-set-180-cl-738898",
         "p": 7.29,
         "s": "set 180 cl"
-    },
-    {
-        "id": "738900",
-        "n": "Brand Weizen",
-        "l": "brand-weizen-fles-30-cl-738900",
-        "p": 1.22,
-        "s": "fles 30 cl"
     },
     {
         "id": "738967",
@@ -84000,13 +84343,6 @@
         "s": "zak 300 gram"
     },
     {
-        "id": "741374",
-        "n": "Elvee Marshmallows",
-        "l": "elvee-marshmallows-zak-500-gram-741374",
-        "p": 3.99,
-        "s": "zak 500 gram"
-    },
-    {
         "id": "741428",
         "n": "Dr. Oetker Mug cake stracciatella",
         "l": "dr-oetker-mug-cake-stracciatella-zak-60-gram-741428",
@@ -84112,34 +84448,6 @@
         "s": "fles 75 cl"
     },
     {
-        "id": "741962",
-        "n": "Just 0 Red wine",
-        "l": "https:\/\/www.plus.nl\/wijn\/just-0-red-wine-fles-75-cl-741962",
-        "p": 3.99,
-        "s": "fles 75 cl"
-    },
-    {
-        "id": "741970",
-        "n": "Just 0 Rose wine",
-        "l": "https:\/\/www.plus.nl\/wijn\/just-0-rose-wine-fles-75-cl-741970",
-        "p": 3.99,
-        "s": "fles 75 cl"
-    },
-    {
-        "id": "741974",
-        "n": "Just 0 Sparkling wine",
-        "l": "https:\/\/www.plus.nl\/wijn\/just-0-sparkling-wine-fles-75-cl-741974",
-        "p": 3.99,
-        "s": "fles 75 cl"
-    },
-    {
-        "id": "741976",
-        "n": "Just 0 White wine",
-        "l": "https:\/\/www.plus.nl\/wijn\/just-0-white-wine-fles-75-cl-741976",
-        "p": 3.99,
-        "s": "fles 75 cl"
-    },
-    {
         "id": "742021",
         "n": "Lotus Biscoff Speculoospasta crunchy",
         "l": "lotus-biscoff-speculoospasta-crunchy-pot-400-gram-742021",
@@ -84173,13 +84481,6 @@
         "l": "plus-filet-americain-carpaccio-bak-150-gram-742113",
         "p": 2.99,
         "s": "bak 150 gram"
-    },
-    {
-        "id": "742143",
-        "n": "Verkade kookchocolade",
-        "l": "verkade-kookchocolade-pak-200-gram-742143",
-        "p": 3.99,
-        "s": "pak 200 gram"
     },
     {
         "id": "742237",
@@ -84847,13 +85148,6 @@
         "s": "fles 75 cl"
     },
     {
-        "id": "746760",
-        "n": "Zuydpunt Chenin Viognier",
-        "l": "https:\/\/www.plus.nl\/wijn\/zuydpunt-chenin-viognier-fles-75-cl-746760",
-        "p": 3.99,
-        "s": "fles 75 cl"
-    },
-    {
         "id": "746789",
         "n": "Heinz Sandwich spread naturel",
         "l": "heinz-sandwich-spread-naturel-pot-300-gram-746789",
@@ -85120,20 +85414,6 @@
         "s": "zak 1.000 gram"
     },
     {
-        "id": "750458",
-        "n": "Unox Vega ballen in sat\u00e9saus",
-        "l": "unox-vega-ballen-in-sat-saus-blik-420-gram-750458",
-        "p": 3.99,
-        "s": "blik 420 gram"
-    },
-    {
-        "id": "750460",
-        "n": "Unox Vega ballen in tomatensaus",
-        "l": "unox-vega-ballen-in-tomatensaus-blik-420-gram-750460",
-        "p": 3.99,
-        "s": "blik 420 gram"
-    },
-    {
         "id": "750494",
         "n": "G'woon Appelmoes 0%",
         "l": "g-woon-appelmoes-0-pot-360-gram-750494",
@@ -85307,13 +85587,6 @@
         "l": "glade-continu-relaxing-zen-stuk-1-stuks-752691",
         "p": 1.45,
         "s": "stuk 1 stuks"
-    },
-    {
-        "id": "752693",
-        "n": "Air Wick Neutralizer Lavender & Lily Valley",
-        "l": "air-wick-neutralizer-lavender-lily-valley-fles-237-ml-752693",
-        "p": 3.99,
-        "s": "fles 237 ml"
     },
     {
         "id": "752701",
@@ -85946,13 +86219,6 @@
         "s": "tube 170 ml"
     },
     {
-        "id": "757338",
-        "n": "Bolsius Dinerkaars",
-        "l": "bolsius-dinerkaars-doos-10-stuks-757338",
-        "p": 3.99,
-        "s": "doos 10 stuks"
-    },
-    {
         "id": "757407",
         "n": "Weight Care Afslankshake Vanille",
         "l": "weight-care-afslankshake-vanille-blik-324-gram-757407",
@@ -86093,13 +86359,6 @@
         "s": "blister 10 stuks"
     },
     {
-        "id": "758703",
-        "n": "G'woon Brokjes in gelei multipack junior",
-        "l": "g-woon-brokjes-in-gelei-multipack-junior-box-1200-gram-758703",
-        "p": 3.99,
-        "s": "box 1.200 gram"
-    },
-    {
         "id": "758707",
         "n": "G'woon Variatie vlees multipack vlees sr.",
         "l": "g-woon-variatie-vlees-multipack-vlees-sr-box-1200-gram-758707",
@@ -86118,13 +86377,6 @@
         "n": "G'woon Brokjes senior in gelei multipack",
         "l": "g-woon-brokjes-senior-in-gelei-multipack-box-1200-gram-758711",
         "p": 4.29,
-        "s": "box 1.200 gram"
-    },
-    {
-        "id": "758713",
-        "n": "G'woon Filets in gelei vis multipack",
-        "l": "g-woon-filets-in-gelei-vis-multipack-box-1200-gram-758713",
-        "p": 3.99,
         "s": "box 1.200 gram"
     },
     {
@@ -86506,6 +86758,20 @@
         "s": "can 75 gram"
     },
     {
+        "id": "761373",
+        "n": "John West Tonijnstukken in water 3-pack",
+        "l": "john-west-tonijnstukken-in-water-3-pack-blik-435-gram-761373",
+        "p": 7.29,
+        "s": "blik 435 gram"
+    },
+    {
+        "id": "761376",
+        "n": "John West Tonijnstukken in zonnebloemolie 3-pack",
+        "l": "john-west-tonijnstukken-in-zonnebloemolie-3-pack-blik-435-gram-761376",
+        "p": 7.39,
+        "s": "blik 435 gram"
+    },
+    {
         "id": "761486",
         "n": "Frutesse Rinse appelstroop beker",
         "l": "frutesse-rinse-appelstroop-beker-stuk-450-gram-761486",
@@ -86777,13 +87043,6 @@
         "l": "unox-good-noodles-rund-doos-63-gram-765525",
         "p": 1.85,
         "s": "doos 63 gram"
-    },
-    {
-        "id": "765529",
-        "n": "Unox Soep in blik kip",
-        "l": "unox-soep-in-blik-kip-blik-1300-ml-765529",
-        "p": 3.99,
-        "s": "blik 1.300 ml"
     },
     {
         "id": "765563",
@@ -88165,13 +88424,6 @@
         "s": "doos 200 gram"
     },
     {
-        "id": "775617",
-        "n": "Silvo Pap rijst",
-        "l": "silvo-pap-rijst-pak-400-gram-775617",
-        "p": 1.22,
-        "s": "pak 400 gram"
-    },
-    {
         "id": "775640",
         "n": "PLUS Chocoladereep Melk Hazelnoot Fairtrade",
         "l": "plus-chocoladereep-melk-hazelnoot-fairtrade-reep-180-gram-775640",
@@ -88478,6 +88730,13 @@
         "l": "plus-mini-stol-amandelspijs-zak-1-stuks-777743",
         "p": 0.65,
         "s": "zak 1 stuks"
+    },
+    {
+        "id": "777790",
+        "n": "John West Haringfilets in tomatensaus  MSC",
+        "l": "john-west-haringfilets-in-tomatensaus-msc-blik-170-gram-777790",
+        "p": 1.59,
+        "s": "blik 170 gram"
     },
     {
         "id": "777794",
@@ -89572,6 +89831,13 @@
         "s": "zak 570 ml"
     },
     {
+        "id": "787852",
+        "n": "Keulen Preskop plakje",
+        "l": "keulen-preskop-plakje-stuk-300-gram-787852",
+        "p": 3.99,
+        "s": "stuk 300 gram"
+    },
+    {
         "id": "787969",
         "n": "Coppenrath & Wiese Appelstrudel",
         "l": "coppenrath-wiese-appelstrudel-doos-600-gram-787969",
@@ -89835,6 +90101,13 @@
         "n": "Bolsius Rustiek stompkaars 130\/68 Velvet Red",
         "l": "bolsius-rustiek-stompkaars-130-68-velvet-red-stuk-1-stuks-790481",
         "p": 3.89,
+        "s": "stuk 1 stuks"
+    },
+    {
+        "id": "790487",
+        "n": "Bolsius Rustiek Shine stompkaars 190\/68 Misty",
+        "l": "bolsius-rustiek-shine-stompkaars-190-68-misty-stuk-1-stuks-790487",
+        "p": 3.99,
         "s": "stuk 1 stuks"
     },
     {
@@ -90328,6 +90601,13 @@
         "s": "bus 95 gram"
     },
     {
+        "id": "794958",
+        "n": "Saitaku Japenese style mayo original SQ",
+        "l": "saitaku-japenese-style-mayo-original-sq-fles-160-gram-794958",
+        "p": 3.99,
+        "s": "fles 160 gram"
+    },
+    {
         "id": "794960",
         "n": "Go-Tan Stemgember",
         "l": "go-tan-stemgember-bus-240-gram-794960",
@@ -90440,6 +90720,13 @@
         "s": "pak 175 gram"
     },
     {
+        "id": "795486",
+        "n": "PLUS Pistache Melange  (gez)",
+        "l": "plus-pistache-melange-gez-pak-150-gram-795486",
+        "p": 3.99,
+        "s": "pak 150 gram"
+    },
+    {
         "id": "795488",
         "n": "PLUS Pecannoten (gez)",
         "l": "plus-pecannoten-gez-pak-115-gram-795488",
@@ -90515,6 +90802,13 @@
         "l": "plus-schotel-eierkoeken-vrije-uitloopei-zak-4-stuks-796549",
         "p": 2.29,
         "s": "zak 4 stuks"
+    },
+    {
+        "id": "796552",
+        "n": "PLUS Mandarijnen GVP",
+        "l": "plus-mandarijnen-gvp-net-1500-gram-796552",
+        "p": 3.99,
+        "s": "net 1.500 gram"
     },
     {
         "id": "796640",
@@ -91014,6 +91308,13 @@
         "s": "zak 20 stuks"
     },
     {
+        "id": "801711",
+        "n": "3G Professioneel Eco vloeibare ontstopper",
+        "l": "3g-professioneel-eco-vloeibare-ontstopper-flacon-500-ml-801711",
+        "p": 3.99,
+        "s": "flacon 500 ml"
+    },
+    {
         "id": "801717",
         "n": "PLUS Aardappelblokjes Italiaanse stijl",
         "l": "plus-aardappelblokjes-italiaanse-stijl-zak-450-gram-801717",
@@ -91124,6 +91425,13 @@
         "l": "nature-valley-sweet-en-salty-nut-chocolade-doos-150-gram-802635",
         "p": 2.99,
         "s": "doos 150 gram"
+    },
+    {
+        "id": "802762",
+        "n": "Ohropax Oordopjes mini soft",
+        "l": "ohropax-oordopjes-mini-soft-pak-10-stuks-802762",
+        "p": 3.99,
+        "s": "pak 10 stuks"
     },
     {
         "id": "802764",
@@ -91455,6 +91763,13 @@
         "s": "pak 125 gram"
     },
     {
+        "id": "806954",
+        "n": "Royal Club Shandy 6pack",
+        "l": "royal-club-shandy-6pack-set-198-cl-806954",
+        "p": 3.99,
+        "s": "set 198 cl"
+    },
+    {
         "id": "806957",
         "n": "Pepsi Cola Max",
         "l": "pepsi-cola-max-fles-100-cl-806957",
@@ -91670,6 +91985,20 @@
         "l": "grand-italia-tortellini-formaggi-zak-440-gram-808007",
         "p": 5.29,
         "s": "zak 440 gram"
+    },
+    {
+        "id": "808009",
+        "n": "Grand'Italia Tartufo saus",
+        "l": "grand-italia-tartufo-saus-pot-260-gram-808009",
+        "p": 3.99,
+        "s": "pot 260 gram"
+    },
+    {
+        "id": "808011",
+        "n": "Grand'Italia Romana saus",
+        "l": "grand-italia-romana-saus-pot-260-gram-808011",
+        "p": 3.99,
+        "s": "pot 260 gram"
     },
     {
         "id": "808017",
@@ -92414,6 +92743,13 @@
         "s": "zak 8 stuks"
     },
     {
+        "id": "813811",
+        "n": "Folat Basics Balloons 8 inch",
+        "l": "folat-basics-balloons-8-inch-zak-1-stuks-813811",
+        "p": 3.99,
+        "s": "zak 1 stuks"
+    },
+    {
         "id": "813813",
         "n": "Folat Letterslinger Staniol Happy Birthday",
         "l": "folat-letterslinger-staniol-happy-birthday-zak-1-stuks-813813",
@@ -92531,6 +92867,20 @@
         "l": "g-woon-belgisch-zeebanket-fairtrade-box-250-gram-814604",
         "p": 1.99,
         "s": "box 250 gram"
+    },
+    {
+        "id": "814610",
+        "n": "Ital Sandwich Focaccia met praga ham en zachte kaas",
+        "l": "ital-sandwich-focaccia-met-praga-ham-en-zachte-kaas-zak-210-gram-814610",
+        "p": 3.99,
+        "s": "zak 210 gram"
+    },
+    {
+        "id": "814612",
+        "n": "Ital Sandwich Focaccia prosciutto crudo mozzarella",
+        "l": "ital-sandwich-focaccia-prosciutto-crudo-mozzarella-zak-200-gram-814612",
+        "p": 3.99,
+        "s": "zak 200 gram"
     },
     {
         "id": "814614",
@@ -92678,6 +93028,13 @@
         "l": "mentos-mega-rainbow-rol-4-pack-pak-150-gram-815401",
         "p": 4.99,
         "s": "pak 150 gram"
+    },
+    {
+        "id": "815403",
+        "n": "Mentos World Flavours 8-pack",
+        "l": "mentos-world-flavours-8-pack-pak-300-gram-815403",
+        "p": 3.99,
+        "s": "pak 300 gram"
     },
     {
         "id": "815407",
@@ -94640,13 +94997,6 @@
         "s": "doos 57 gram"
     },
     {
-        "id": "824952",
-        "n": "G'woon Soep in zak kippensoep",
-        "l": "g-woon-soep-in-zak-kippensoep-zak-570-ml-824952",
-        "p": 2.37,
-        "s": "zak 570 ml"
-    },
-    {
         "id": "824954",
         "n": "G'woon Soep in zak zoete aardappelsoep",
         "l": "g-woon-soep-in-zak-zoete-aardappelsoep-zak-580-ml-824954",
@@ -95564,13 +95914,6 @@
         "s": "doos 54 gram"
     },
     {
-        "id": "830303",
-        "n": "Best For Your Friend Hooi",
-        "l": "best-for-your-friend-hooi-zak-999-gram-830303",
-        "p": 2.19,
-        "s": "zak 999 gram"
-    },
-    {
         "id": "830343",
         "n": "Schoondal Classic White",
         "l": "https:\/\/www.plus.nl\/wijn\/schoondal-classic-white-fles-75-cl-830343",
@@ -96285,13 +96628,6 @@
         "s": "pak 20 stuks"
     },
     {
-        "id": "838523",
-        "n": "Andr\u00e9lon Bad Douche Fris Verkwikkend",
-        "l": "andr-lon-bad-douche-fris-verkwikkend-flacon-750-ml-838523",
-        "p": 3.85,
-        "s": "flacon 750 ml"
-    },
-    {
         "id": "838527",
         "n": "Crystal Clear Peach Koolzuurhoudend",
         "l": "crystal-clear-peach-koolzuurhoudend-fles-150-cl-838527",
@@ -96430,13 +96766,6 @@
         "l": "mascotte-hulzen-gold-200-doos-200-stuks-839725",
         "p": 1.95,
         "s": "doos 200 stuks"
-    },
-    {
-        "id": "839727",
-        "n": "Andr\u00e9lon Bad Douche Verzorgend Voedend",
-        "l": "andr-lon-bad-douche-verzorgend-voedend-flacon-750-ml-839727",
-        "p": 3.45,
-        "s": "flacon 750 ml"
     },
     {
         "id": "839774",
@@ -97706,13 +98035,6 @@
         "s": "doos 40 stuks"
     },
     {
-        "id": "854488",
-        "n": "Grolsch Kanon",
-        "l": "grolsch-kanon-fles-30-cl-854488",
-        "p": 1.22,
-        "s": "fles 30 cl"
-    },
-    {
         "id": "854615",
         "n": "Melkan Bigarde roer naturel 3.5% vet",
         "l": "melkan-bigarde-roer-naturel-3-5-vet-beker-500-gram-854615",
@@ -97914,13 +98236,6 @@
         "l": "komo-vuilniszak-50-liter-rol-20-stuks-856845",
         "p": 1.89,
         "s": "rol 20 stuks"
-    },
-    {
-        "id": "856849",
-        "n": "New Way Inlegkruisjes large",
-        "l": "new-way-inlegkruisjes-large-pak-28-stuks-856849",
-        "p": 1.22,
-        "s": "pak 28 stuks"
     },
     {
         "id": "856853",
@@ -98402,7 +98717,7 @@
         "id": "863795",
         "n": "PLUS Meergranenbiscuit appel",
         "l": "plus-meergranenbiscuit-appel-pak-225-gram-863795",
-        "p": 1.02,
+        "p": 1.09,
         "s": "pak 225 gram"
     },
     {
@@ -99517,6 +99832,13 @@
         "l": "conimex-marinade-sate-zak-38-gram-879719",
         "p": 0.95,
         "s": "zak 38 gram"
+    },
+    {
+        "id": "879815",
+        "n": "Hak Appelmoes met kaneel",
+        "l": "hak-appelmoes-met-kaneel-pot-355-gram-879815",
+        "p": 2.36,
+        "s": "pot 355 gram"
     },
     {
         "id": "879837",
@@ -100681,13 +101003,6 @@
         "s": "zak 40 gram"
     },
     {
-        "id": "891185",
-        "n": "Silvo Kruidenmix gehakt Mexico",
-        "l": "silvo-kruidenmix-gehakt-mexico-zak-40-gram-891185",
-        "p": 1.24,
-        "s": "zak 40 gram"
-    },
-    {
         "id": "891187",
         "n": "Silvo Mix hamburger",
         "l": "silvo-mix-hamburger-zak-38-gram-891187",
@@ -100707,13 +101022,6 @@
         "l": "silvo-mix-kip-pikant-zak-25-gram-891191",
         "p": 1.34,
         "s": "zak 25 gram"
-    },
-    {
-        "id": "891193",
-        "n": "Silvo Kruidenmix gehakt sat\u00e9",
-        "l": "silvo-kruidenmix-gehakt-sat-zak-45-gram-891193",
-        "p": 1.24,
-        "s": "zak 45 gram"
     },
     {
         "id": "891195",
@@ -105455,13 +105763,6 @@
         "s": "zak 320 gram"
     },
     {
-        "id": "928471",
-        "n": "Bio+ Volkorenbroodjes",
-        "l": "bio-volkorenbroodjes-zak-360-gram-928471",
-        "p": 2.39,
-        "s": "zak 360 gram"
-    },
-    {
         "id": "928473",
         "n": "Bio+ Baguette meergranen",
         "l": "bio-baguette-meergranen-zak-250-gram-928473",
@@ -106085,13 +106386,6 @@
         "s": "doos 3 stuks"
     },
     {
-        "id": "933217",
-        "n": "PLUS Choco eierkoeken - fairtrade",
-        "l": "plus-choco-eierkoeken-fairtrade-zak-310-gram-933217",
-        "p": 2.39,
-        "s": "zak 310 gram"
-    },
-    {
         "id": "933227",
         "n": "PLUS Roomboter kano's",
         "l": "plus-roomboter-kano-s-pak-275-gram-933227",
@@ -106258,13 +106552,6 @@
         "l": "haribo-goudberen-zak-375-gram-933669",
         "p": 3.89,
         "s": "zak 375 gram"
-    },
-    {
-        "id": "933681",
-        "n": "Paulaner Hefe-weissbier",
-        "l": "paulaner-hefe-weissbier-fles-50-cl-933681",
-        "p": 2.39,
-        "s": "fles 50 cl"
     },
     {
         "id": "933696",
@@ -106509,13 +106796,6 @@
         "n": "Ecover Wasverzachter Gardennia",
         "l": "ecover-wasverzachter-gardennia-fles-1-liter-935085",
         "p": 4.89,
-        "s": "fles 1 liter"
-    },
-    {
-        "id": "935089",
-        "n": "Ecover Vloeibaar wasmiddel Zwart",
-        "l": "ecover-vloeibaar-wasmiddel-zwart-fles-1-liter-935089",
-        "p": 7.49,
         "s": "fles 1 liter"
     },
     {
@@ -107583,13 +107863,6 @@
         "s": "stuk 1 stuks"
     },
     {
-        "id": "947379",
-        "n": "Klene Suikervrij muntdrop",
-        "l": "klene-suikervrij-muntdrop-zak-100-gram-947379",
-        "p": 2.39,
-        "s": "zak 100 gram"
-    },
-    {
         "id": "947381",
         "n": "Klene Suikervrij zoute ovaaltjes",
         "l": "klene-suikervrij-zoute-ovaaltjes-zak-110-gram-947381",
@@ -107805,13 +108078,6 @@
         "l": "plus-toiletpapier-3-laags-recycled-zak-8-rol-948986",
         "p": 3.29,
         "s": "zak 8 rol"
-    },
-    {
-        "id": "949228",
-        "n": "PLUS Ring Westfaalse cervelaat",
-        "l": "plus-ring-westfaalse-cervelaat-tray-150-gram-949228",
-        "p": 2.39,
-        "s": "tray 150 gram"
     },
     {
         "id": "949242",
@@ -108663,9 +108929,9 @@
     {
         "id": "959124",
         "n": "Pets Unlimited Steak fillet duck",
-        "l": "pets-unlimited-steak-fillet-duck-zak-100-gram-959124",
+        "l": "pets-unlimited-steak-fillet-duck-zak-99-gram-959124",
         "p": 2.19,
-        "s": "zak 100 gram"
+        "s": "zak 99 gram"
     },
     {
         "id": "959128",
@@ -109268,13 +109534,6 @@
         "l": "neutral-babydoekjes-pak-52-stuks-963164",
         "p": 3.19,
         "s": "pak 52 stuks"
-    },
-    {
-        "id": "963172",
-        "n": "Kompaan Levensgenieter NEIPA 4,5%",
-        "l": "kompaan-levensgenieter-neipa-4-5-blik-33-cl-963172",
-        "p": 2.39,
-        "s": "blik 33 cl"
     },
     {
         "id": "963174",
@@ -110642,13 +110901,6 @@
         "s": "pak 150 cl"
     },
     {
-        "id": "969770",
-        "n": "Paco Filterkoffie rood",
-        "l": "paco-filterkoffie-rood-pak-500-gram-969770",
-        "p": 2.39,
-        "s": "pak 500 gram"
-    },
-    {
         "id": "969772",
         "n": "Fairtrade Original Woksaus teriyaki",
         "l": "fairtrade-original-woksaus-teriyaki-fles-150-ml-969772",
@@ -110705,13 +110957,6 @@
         "s": "fles 255 gram"
     },
     {
-        "id": "969805",
-        "n": "Lee kum kee Premium light soy sauce",
-        "l": "lee-kum-kee-premium-light-soy-sauce-fles-150-ml-969805",
-        "p": 2.39,
-        "s": "fles 150 ml"
-    },
-    {
         "id": "969809",
         "n": "Fanta Watermelon zero",
         "l": "fanta-watermelon-zero-fles-150-cl-969809",
@@ -110738,6 +110983,13 @@
         "l": "bolletje-echte-beschuit-rol-125-gram-969857",
         "p": 1.09,
         "s": "rol 125 gram"
+    },
+    {
+        "id": "969859",
+        "n": "Bolletje Volkoren beschuit",
+        "l": "bolletje-volkoren-beschuit-rol-155-gram-969859",
+        "p": 1.2,
+        "s": "rol 155 gram"
     },
     {
         "id": "969869",
@@ -111011,20 +111263,6 @@
         "l": "melkan-drink-0-vet-framboos-pak-1-liter-973940",
         "p": 1.29,
         "s": "pak 1 liter"
-    },
-    {
-        "id": "973970",
-        "n": "PLUS Fruitbiscuit naturel",
-        "l": "plus-fruitbiscuit-naturel-pak-218-gram-973970",
-        "p": 1.21,
-        "s": "pak 218 gram"
-    },
-    {
-        "id": "973974",
-        "n": "PLUS Fruitbiscuit bosvruchten",
-        "l": "plus-fruitbiscuit-bosvruchten-pak-218-gram-973974",
-        "p": 1.21,
-        "s": "pak 218 gram"
     },
     {
         "id": "973992",
@@ -112063,20 +112301,6 @@
         "s": "beker 500 gram"
     },
     {
-        "id": "984291",
-        "n": "Campina Vlaflip vanille",
-        "l": "campina-vlaflip-vanille-pak-1-liter-984291",
-        "p": 2.39,
-        "s": "pak 1 liter"
-    },
-    {
-        "id": "984458",
-        "n": "Campina Vlaflip framboos",
-        "l": "campina-vlaflip-framboos-pak-1-liter-984458",
-        "p": 2.39,
-        "s": "pak 1 liter"
-    },
-    {
         "id": "984497",
         "n": "Supermalt Alcoholvrij mout drank",
         "l": "supermalt-alcoholvrij-mout-drank-fles-33-cl-984497",
@@ -112196,13 +112420,6 @@
         "s": "pak 180 gram"
     },
     {
-        "id": "987087",
-        "n": "Campina Slagroomvla vanille",
-        "l": "campina-slagroomvla-vanille-pak-1-liter-987087",
-        "p": 2.39,
-        "s": "pak 1 liter"
-    },
-    {
         "id": "987124",
         "n": "Campina Karnemelk bosvruchten",
         "l": "campina-karnemelk-bosvruchten-pak-1-liter-987124",
@@ -112299,13 +112516,6 @@
         "l": "plus-koffiekoeken-pak-250-gram-988351",
         "p": 0.99,
         "s": "pak 250 gram"
-    },
-    {
-        "id": "988359",
-        "n": "PLUS Kletsmajoors",
-        "l": "plus-kletsmajoors-pak-185-gram-988359",
-        "p": 2.39,
-        "s": "pak 185 gram"
     },
     {
         "id": "988361",
@@ -112509,20 +112719,6 @@
         "l": "maggi-doseerjus-naturel-kuipje-180-gram-991511",
         "p": 2.89,
         "s": "kuipje 180 gram"
-    },
-    {
-        "id": "991669",
-        "n": "Coca-Cola light",
-        "l": "coca-cola-light-fles-1500-ml-991669",
-        "p": 2.39,
-        "s": "fles 1.500 ml"
-    },
-    {
-        "id": "991673",
-        "n": "Coca-Cola regular",
-        "l": "coca-cola-regular-fles-1500-ml-991673",
-        "p": 2.39,
-        "s": "fles 1.500 ml"
     },
     {
         "id": "991700",
@@ -113152,13 +113348,6 @@
         "n": "Johma Huzarensalade",
         "l": "johma-huzarensalade-bak-500-gram-997194",
         "p": 2.05,
-        "s": "bak 500 gram"
-    },
-    {
-        "id": "997197",
-        "n": "Johma Rundvleessalade",
-        "l": "johma-rundvleessalade-bak-500-gram-997197",
-        "p": 2.39,
         "s": "bak 500 gram"
     },
     {
