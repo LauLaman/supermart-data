@@ -91,13 +91,6 @@
         "s": "28 g"
     },
     {
-        "id": "1000",
-        "n": "Super Vitamine C 1000 mg capsules, 60 stuks",
-        "l": "super-vitamine-c-1000-mg-capsules-60-stuks-371910STK",
-        "p": 9.99,
-        "s": ""
-    },
-    {
         "id": "1000g",
         "n": "Wijko Sat\u00e9saus voordeelverpakking geconcentreerd 1000g",
         "l": "wijko-satesaus-voordeelverpakking-geconcentreerd-1000g-480504BAK",
@@ -110,13 +103,6 @@
         "l": "yoki-drinkyoghurt-aardbei-1000ml-294187PAK",
         "p": 1.25,
         "s": "1000 ml"
-    },
-    {
-        "id": "1001",
-        "n": "L'Or\u00e9al Paris Elvive Extraordinary Oil Coco 1001 Haarmasker 300ml",
-        "l": "l-oreal-paris-elvive-extraordinary-oil-coco-1001-haarmasker-300ml-504977POT",
-        "p": 7.99,
-        "s": "300 ml"
     },
     {
         "id": "100cl",
@@ -159,6 +145,27 @@
         "l": "john-player-special-100s-blue-20-410460PAK",
         "p": 7.4,
         "s": ""
+    },
+    {
+        "id": "11",
+        "n": "Toko Lien Boemboe Speciaal Verse Kruidenmix Sajoer Lodeh Nr 11 100g",
+        "l": "toko-lien-boemboe-speciaal-verse-kruidenmix-sajoer-lodeh-nr-11-100g-26102ZK",
+        "p": 1.06,
+        "s": "100 gram"
+    },
+    {
+        "id": "12",
+        "n": "Zwitsal Billendoekjes Sensitive 12 x 57 Stuks",
+        "l": "zwitsal-billendoekjes-sensitive-12-x-57-stuks-198671DSL",
+        "p": 28.68,
+        "s": "684 stuks"
+    },
+    {
+        "id": "13",
+        "n": "Rummo Linguine 13 500g",
+        "l": "rummo-linguine-13-500g-214034PAK",
+        "p": 2.29,
+        "s": "500 g"
     },
     {
         "id": "101",
@@ -371,13 +378,6 @@
         "s": "8 g"
     },
     {
-        "id": "11",
-        "n": "Toko Lien Boemboe Speciaal Verse Kruidenmix Sajoer Lodeh Nr 11 100g",
-        "l": "toko-lien-boemboe-speciaal-verse-kruidenmix-sajoer-lodeh-nr-11-100g-26102ZK",
-        "p": 1.06,
-        "s": "100 gram"
-    },
-    {
         "id": "110",
         "n": "Romed Alcoholdoekjes in Dispenser 110 Stuks",
         "l": "romed-alcoholdoekjes-in-dispenser-110-stuks-447794POT",
@@ -504,13 +504,6 @@
         "s": "11 g"
     },
     {
-        "id": "12",
-        "n": "Zwitsal Billendoekjes Sensitive 12 x 57 Stuks",
-        "l": "zwitsal-billendoekjes-sensitive-12-x-57-stuks-198671DSL",
-        "p": 28.68,
-        "s": "684 stuks"
-    },
-    {
         "id": "120",
         "n": "Sportveters zwart 120 cm 1 paar",
         "l": "sportveters-zwart-120-cm-1-paar-508816STK",
@@ -553,6 +546,13 @@
         "s": ""
     },
     {
+        "id": "121g",
+        "n": "Huls Boerenjongens met Kruidnagel 121g",
+        "l": "huls-boerenjongens-met-kruidnagel-121g-187259STK",
+        "p": 2.9,
+        "s": "121 g"
+    },
+    {
         "id": "122g",
         "n": "Johny Longknife ca. 122g",
         "l": "johny-longknife-ca-122g-478755KGR",
@@ -567,18 +567,25 @@
         "s": ""
     },
     {
+        "id": "1000",
+        "n": "Super Vitamine C 1000 mg capsules, 60 stuks",
+        "l": "super-vitamine-c-1000-mg-capsules-60-stuks-371910STK",
+        "p": 9.99,
+        "s": ""
+    },
+    {
+        "id": "1001",
+        "n": "L'Or\u00e9al Paris Elvive Extraordinary Oil Coco 1001 Haarmasker 300ml",
+        "l": "l-oreal-paris-elvive-extraordinary-oil-coco-1001-haarmasker-300ml-504977POT",
+        "p": 7.99,
+        "s": "300 ml"
+    },
+    {
         "id": "1200",
         "n": "Jumbo Zoetjes 1200 Stuks",
         "l": "jumbo-zoetjes-1200-stuks-459896STK",
         "p": 0.95,
         "s": "72 g"
-    },
-    {
-        "id": "121g",
-        "n": "Huls Boerenjongens met Kruidnagel 121g",
-        "l": "huls-boerenjongens-met-kruidnagel-121g-187259STK",
-        "p": 2.9,
-        "s": "121 g"
     },
     {
         "id": "12329STK",
@@ -761,13 +768,6 @@
         "l": "felix-original-gevogelte-selectie-in-saus-kattenvoer-12x85g-419417PAK",
         "p": 4.79,
         "s": "12 x 85 g"
-    },
-    {
-        "id": "13",
-        "n": "Rummo Linguine 13 500g",
-        "l": "rummo-linguine-13-500g-214034PAK",
-        "p": 2.29,
-        "s": "500 g"
     },
     {
         "id": "1300ml",
@@ -1155,13 +1155,6 @@
         "s": "144 g"
     },
     {
-        "id": "15",
-        "n": "Yakult Plus 15-pack",
-        "l": "yakult-plus-15-pack-202806STK",
-        "p": 6.57,
-        "s": "15 x 65 ml"
-    },
-    {
         "id": "145",
         "n": "John West tonijnstukken in zonnebloemolie MSC 145 gram",
         "l": "john-west-tonijnstukken-in-zonnebloemolie-msc-145-gram-367318DS",
@@ -1272,6 +1265,13 @@
         "l": "jumbo-gummi-foam-snoep-uitdeelzakjes-14x-20g-439024ZK",
         "p": 2.37,
         "s": "280 g"
+    },
+    {
+        "id": "15",
+        "n": "Yakult Plus 15-pack",
+        "l": "yakult-plus-15-pack-202806STK",
+        "p": 6.57,
+        "s": "15 x 65 ml"
     },
     {
         "id": "150",
@@ -3248,31 +3248,10 @@
         "s": "198 g"
     },
     {
-        "id": "199",
-        "n": "Barilla Collezione Lasagne all'Uovo n. 199 500g",
-        "l": "barilla-collezione-lasagne-all-uovo-n-199-500g-304401PAK",
-        "p": 4.99,
-        "s": "500 g"
-    },
-    {
         "id": "199692PAK",
         "n": "Westmalle Trappist",
         "l": "westmalle-trappist-199692PAK",
         "p": 7.99,
-        "s": ""
-    },
-    {
-        "id": "19cm",
-        "n": "HEMA Rustiek Kaars 19cm",
-        "l": "hema-rustiek-kaars-19cm-379008STK",
-        "p": 4.5,
-        "s": ""
-    },
-    {
-        "id": "19g",
-        "n": "Wit 19g",
-        "l": "wit-19g-14189STK",
-        "p": 8.9,
         "s": ""
     },
     {
@@ -3337,6 +3316,27 @@
         "l": "zwitsal-vochtige-washandjes-goedemorgen-6-x-20-stuks-75183PAK",
         "p": 3.95,
         "s": "20 stuks"
+    },
+    {
+        "id": "199",
+        "n": "Barilla Collezione Lasagne all'Uovo n. 199 500g",
+        "l": "barilla-collezione-lasagne-all-uovo-n-199-500g-304401PAK",
+        "p": 4.99,
+        "s": "500 g"
+    },
+    {
+        "id": "19cm",
+        "n": "HEMA Rustiek Kaars 19cm",
+        "l": "hema-rustiek-kaars-19cm-379008STK",
+        "p": 4.5,
+        "s": ""
+    },
+    {
+        "id": "19g",
+        "n": "Wit 19g",
+        "l": "wit-19g-14189STK",
+        "p": 8.9,
+        "s": ""
     },
     {
         "id": "200",
@@ -3461,7 +3461,7 @@
         "id": "201663STK",
         "n": "Tic Tac Festival 2 x T100 (duopack)",
         "l": "tic-tac-festival-2-x-t100-duopack-201663STK",
-        "p": 3.97,
+        "p": 4.15,
         "s": "98 g"
     },
     {
@@ -4193,27 +4193,6 @@
         "s": "216 g"
     },
     {
-        "id": "217264PAK",
-        "n": "Roosvicee Multivit Kids Bosfruit, 1, 5L",
-        "l": "roosvicee-multivit-kids-bosfruit-1,5l-217264PAK",
-        "p": 1.87,
-        "s": "1,5 L"
-    },
-    {
-        "id": "218227FLS",
-        "n": "Coebergh Red Fruit 0, 75L",
-        "l": "coebergh-red-fruit-0,75l-218227FLS",
-        "p": 7.23,
-        "s": "75 CL"
-    },
-    {
-        "id": "22",
-        "n": "Vapona Green Action Vloeibare Navulling 22, 5ml",
-        "l": "vapona-green-action-vloeibare-navulling-22-5ml-233331STK",
-        "p": 6.78,
-        "s": "22,5 ml"
-    },
-    {
         "id": "217",
         "n": "Flemmings Broodje Frikandel Dutch Classic 2 Stuks 217, 5g",
         "l": "flemmings-broodje-frikandel-dutch-classic-2-stuks-217,5g-487046TRA",
@@ -4221,11 +4200,25 @@
         "s": "217,5 g"
     },
     {
+        "id": "217264PAK",
+        "n": "Roosvicee Multivit Kids Bosfruit, 1, 5L",
+        "l": "roosvicee-multivit-kids-bosfruit-1,5l-217264PAK",
+        "p": 1.87,
+        "s": "1,5 L"
+    },
+    {
         "id": "218",
         "n": "Flemmings\u00ae Hotdog American Style 2 Stuks 218, 5g",
         "l": "flemmings-hotdog-american-style-2-stuks-218,5g-487045TRA",
         "p": 1.74,
         "s": "218,5 g"
+    },
+    {
+        "id": "218227FLS",
+        "n": "Coebergh Red Fruit 0, 75L",
+        "l": "coebergh-red-fruit-0,75l-218227FLS",
+        "p": 7.23,
+        "s": "75 CL"
     },
     {
         "id": "218905STK",
@@ -4261,6 +4254,13 @@
         "l": "nicotinell-pleister-tts-21mg-7st-476115DS",
         "p": 23.29,
         "s": ""
+    },
+    {
+        "id": "22",
+        "n": "Vapona Green Action Vloeibare Navulling 22, 5ml",
+        "l": "vapona-green-action-vloeibare-navulling-22-5ml-233331STK",
+        "p": 6.78,
+        "s": "22,5 ml"
     },
     {
         "id": "220137DS",
@@ -6090,6 +6090,13 @@
         "s": "3 x 100 g"
     },
     {
+        "id": "3000",
+        "n": "Oral-B Pro 3 - 3000 - Zwarte Elektrische Tandenborstel Ontworpen Door Braun",
+        "l": "oral-b-pro-3-3000-zwarte-elektrische-tandenborstel-ontworpen-door-braun-446757DS",
+        "p": 79.19,
+        "s": ""
+    },
+    {
         "id": "300140STK",
         "n": "Jumbo - Wit Brood",
         "l": "jumbo-wit-brood-300140STK",
@@ -6240,7 +6247,7 @@
         "id": "300201STK",
         "n": "Waldkorn - Meergranen Brood - Half",
         "l": "waldkorn-meergranen-brood-half-300201STK",
-        "p": 1.09,
+        "p": 1.11,
         "s": ""
     },
     {
@@ -7322,62 +7329,6 @@
         "s": "337 g"
     },
     {
-        "id": "34",
-        "n": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Stralend Wit 34 Wasbeurten",
-        "l": "robijn-klein-krachtig-classics-vloeibaar-wasmiddel-stralend-wit-34-wasbeurten-474822FLS",
-        "p": 17.81,
-        "s": "1.19 L"
-    },
-    {
-        "id": "35",
-        "n": "Wecare Reep Caramel Nougat Flavour 35 g Wikkel",
-        "l": "wecare-reep-caramel-nougat-flavour-35-g-wikkel-469697PAK",
-        "p": 1.75,
-        "s": "35 g"
-    },
-    {
-        "id": "36",
-        "n": "Wasknijpers kunststof, 36 stuks",
-        "l": "wasknijpers-kunststof-36-stuks-72880ZK",
-        "p": 1.38,
-        "s": ""
-    },
-    {
-        "id": "37",
-        "n": "Sheba Perfect Portions in Saus Tonijn Kattenvoer 6 x 37, 5g",
-        "l": "sheba-perfect-portions-in-saus-tonijn-kattenvoer-6-x-37,5g-449921PAK",
-        "p": 3.36,
-        "s": "6 x 37.5 g"
-    },
-    {
-        "id": "38",
-        "n": "WC-Eend Active Clean Marine Wave Voordeelpak 2 x 38, 6g",
-        "l": "wc-eend-active-clean-marine-wave-voordeelpak-2-x-38,6g-411766BLS",
-        "p": 4.99,
-        "s": "2 x 38,6 g"
-    },
-    {
-        "id": "39",
-        "n": "Pall Mall Red Giga 39 Stuks",
-        "l": "pall-mall-red-giga-39-stuks-510620PAK",
-        "p": 12.6,
-        "s": ""
-    },
-    {
-        "id": "338",
-        "n": "LiGA Evergreen Koeken Krenten met Volkorengranen 338 g - Voordeelverpakking XL",
-        "l": "liga-evergreen-koeken-krenten-met-volkorengranen-338-g-voordeelverpakking-xl-404868DS",
-        "p": 2.8,
-        "s": "338 g"
-    },
-    {
-        "id": "3000",
-        "n": "Oral-B Pro 3 - 3000 - Zwarte Elektrische Tandenborstel Ontworpen Door Braun",
-        "l": "oral-b-pro-3-3000-zwarte-elektrische-tandenborstel-ontworpen-door-braun-446757DS",
-        "p": 79.19,
-        "s": ""
-    },
-    {
         "id": "338006STK",
         "n": "Bananen en Mandarijnen",
         "l": "bananen-en-mandarijnen-338006STK",
@@ -7423,7 +7374,7 @@
         "id": "339409PAK",
         "n": "Pedigree Jumbone Medium Kauwstaaf - Rund & Gevogelte - Hondensnack - 2 Stuks",
         "l": "pedigree-jumbone-medium-kauwstaaf-rund-gevogelte-hondensnack-2-stuks-339409PAK",
-        "p": 2.33,
+        "p": 2.56,
         "s": "180 g"
     },
     {
@@ -7483,11 +7434,11 @@
         "s": "33 Gram"
     },
     {
-        "id": "340",
-        "n": "Skippy Pindakaas Creamy 340 gram",
-        "l": "skippy-pindakaas-creamy-340-gram-515345POT",
-        "p": 4.36,
-        "s": "340 g"
+        "id": "34",
+        "n": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Stralend Wit 34 Wasbeurten",
+        "l": "robijn-klein-krachtig-classics-vloeibaar-wasmiddel-stralend-wit-34-wasbeurten-474822FLS",
+        "p": 17.81,
+        "s": "1.19 L"
     },
     {
         "id": "340188ZK",
@@ -7689,7 +7640,7 @@
         "id": "349847STK",
         "n": "Robijn Spa Sensation Wasmiddel en Wasverzachter",
         "l": "robijn-spa-sensation-wasmiddel-en-wasverzachter-349847STK",
-        "p": 16.51,
+        "p": 17.01,
         "s": ""
     },
     {
@@ -7712,6 +7663,27 @@
         "l": "swiffer-vloerreiniger-droge-vloerdoekjes-navullingen-34x-528628DS",
         "p": 9.89,
         "s": ""
+    },
+    {
+        "id": "35",
+        "n": "Wecare Reep Caramel Nougat Flavour 35 g Wikkel",
+        "l": "wecare-reep-caramel-nougat-flavour-35-g-wikkel-469697PAK",
+        "p": 1.75,
+        "s": "35 g"
+    },
+    {
+        "id": "338",
+        "n": "LiGA Evergreen Koeken Krenten met Volkorengranen 338 g - Voordeelverpakking XL",
+        "l": "liga-evergreen-koeken-krenten-met-volkorengranen-338-g-voordeelverpakking-xl-404868DS",
+        "p": 2.8,
+        "s": "338 g"
+    },
+    {
+        "id": "340",
+        "n": "Skippy Pindakaas Creamy 340 gram",
+        "l": "skippy-pindakaas-creamy-340-gram-515345POT",
+        "p": 4.36,
+        "s": "340 g"
     },
     {
         "id": "350",
@@ -7801,7 +7773,7 @@
         "id": "351703STK",
         "n": "Campina Vla Pakket",
         "l": "campina-vla-pakket-351703STK",
-        "p": 4.02,
+        "p": 4.2,
         "s": ""
     },
     {
@@ -8197,6 +8169,13 @@
         "s": ""
     },
     {
+        "id": "36",
+        "n": "Wasknijpers kunststof, 36 stuks",
+        "l": "wasknijpers-kunststof-36-stuks-72880ZK",
+        "p": 1.38,
+        "s": ""
+    },
+    {
         "id": "360",
         "n": "Nuby Wondercup 360- 300ml",
         "l": "nuby-wondercup-360-300ml-356950STK",
@@ -8531,6 +8510,13 @@
         "l": "vitakraft-cat-stick-classic-zalm-6-stuks-36g-369687PAK",
         "p": 2.66,
         "s": "36 g"
+    },
+    {
+        "id": "37",
+        "n": "Sheba Perfect Portions in Saus Tonijn Kattenvoer 6 x 37, 5g",
+        "l": "sheba-perfect-portions-in-saus-tonijn-kattenvoer-6-x-37,5g-449921PAK",
+        "p": 3.36,
+        "s": "6 x 37.5 g"
     },
     {
         "id": "370117PAK",
@@ -8893,7 +8879,7 @@
         "id": "378104STK",
         "n": "HEMA Teennagelknipper met Nagelvijl",
         "l": "hema-teennagelknipper-met-nagelvijl-378104STK",
-        "p": 2.6,
+        "p": 2.25,
         "s": ""
     },
     {
@@ -9161,6 +9147,13 @@
         "l": "maltesers-37gr-354879ZK",
         "p": 1.19,
         "s": "37 g"
+    },
+    {
+        "id": "38",
+        "n": "WC-Eend Active Clean Marine Wave Voordeelpak 2 x 38, 6g",
+        "l": "wc-eend-active-clean-marine-wave-voordeelpak-2-x-38,6g-411766BLS",
+        "p": 4.99,
+        "s": "2 x 38,6 g"
     },
     {
         "id": "380080STK",
@@ -9593,7 +9586,7 @@
         "id": "38g",
         "n": "Verstegen Zwarte Peper Gemalen 38g",
         "l": "verstegen-zwarte-peper-gemalen-38g-237963STK",
-        "p": 2.8,
+        "p": 2.96,
         "s": "38 g"
     },
     {
@@ -9615,6 +9608,13 @@
         "n": "Huishouddoekjes 38x28 cm, 3 stuks",
         "l": "huishouddoekjes-38x28-cm-3-stuks-354853STK",
         "p": 2.38,
+        "s": ""
+    },
+    {
+        "id": "39",
+        "n": "Pall Mall Red Giga 39 Stuks",
+        "l": "pall-mall-red-giga-39-stuks-510620PAK",
+        "p": 12.6,
         "s": ""
     },
     {
@@ -10319,8 +10319,8 @@
     },
     {
         "id": "411140STK",
-        "n": "Oliebollen Pakket",
-        "l": "oliebollen-pakket-411140STK",
+        "n": "Oliebollen Bakpakket",
+        "l": "oliebollen-bakpakket-411140STK",
         "p": 20.54,
         "s": ""
     },
@@ -10405,7 +10405,7 @@
         "id": "414266ZK",
         "n": "Venco Honingdrop Zacht Zoet XL Verpakking",
         "l": "venco-honingdrop-zacht-zoet-xl-verpakking-414266ZK",
-        "p": 2.61,
+        "p": 2.72,
         "s": ""
     },
     {
@@ -11091,7 +11091,7 @@
         "id": "426714STK",
         "n": "LiGa Tussendoor Pakket",
         "l": "liga-tussendoor-pakket-426714STK",
-        "p": 4.35,
+        "p": 4.93,
         "s": ""
     },
     {
@@ -12750,7 +12750,7 @@
         "id": "441093STK",
         "n": "Breaker Pakket",
         "l": "breaker-pakket-441093STK",
-        "p": 6.22,
+        "p": 6.25,
         "s": ""
     },
     {
@@ -13114,7 +13114,7 @@
         "id": "444814STK",
         "n": "Hollandse Aardbeien & Frambozen",
         "l": "hollandse-aardbeien-frambozen-444814STK",
-        "p": 5.92,
+        "p": 6.12,
         "s": ""
     },
     {
@@ -13436,7 +13436,7 @@
         "id": "449952STK",
         "n": "Maggi Jachtsaus met Sperziebonen en Hamlapjes 3-4 Personen",
         "l": "maggi-jachtsaus-met-sperziebonen-en-hamlapjes-3-4-personen-449952STK",
-        "p": 6.31,
+        "p": 7.46,
         "s": ""
     },
     {
@@ -13646,7 +13646,7 @@
         "id": "454094DS",
         "n": "Brew Monkey Bierbrouwpakket Tripel Basis",
         "l": "brew-monkey-bierbrouwpakket-tripel-basis-454094DS",
-        "p": 35.99,
+        "p": 38.99,
         "s": ""
     },
     {
@@ -14507,7 +14507,7 @@
         "id": "473764STK",
         "n": "Liga Evergreen Koekjes Pakket",
         "l": "liga-evergreen-koekjes-pakket-473764STK",
-        "p": 3.86,
+        "p": 4.54,
         "s": ""
     },
     {
@@ -15275,8 +15275,8 @@
     },
     {
         "id": "484105STK",
-        "n": "Knutsel Pietenhuis",
-        "l": "knutsel-pietenhuis-484105STK",
+        "n": "Sinterklaas Knutsel Pietenhuis",
+        "l": "sinterklaas-knutsel-pietenhuis-484105STK",
         "p": 2.99,
         "s": ""
     },
@@ -15310,29 +15310,29 @@
     },
     {
         "id": "484119STK",
-        "n": "Pubquiz",
-        "l": "pubquiz-484119STK",
+        "n": "Sinterklaas Schoencadeau Pubquiz",
+        "l": "sinterklaas-schoencadeau-pubquiz-484119STK",
         "p": 2.99,
         "s": ""
     },
     {
         "id": "484122STK",
-        "n": "Groeidier Dinosaurus 3+",
-        "l": "groeidier-dinosaurus-3-484122STK",
+        "n": "Sinterklaas Schoencadeau Groeidier Dinosaurus",
+        "l": "sinterklaas-schoencadeau-groeidier-dinosaurus-484122STK",
         "p": 2.99,
         "s": ""
     },
     {
         "id": "484128STK",
-        "n": "Knijpknuffel Cheetah",
-        "l": "knijpknuffel-cheetah-484128STK",
+        "n": "Sinterklaas Schoencadeau Knijpknuffel Cheetah",
+        "l": "sinterklaas-schoencadeau-knijpknuffel-cheetah-484128STK",
         "p": 3.49,
         "s": ""
     },
     {
         "id": "484135STK",
-        "n": "Diamond Painting Set",
-        "l": "diamond-painting-set-484135STK",
+        "n": "Sinterklaas Schoencadeau Diamond Painting Set",
+        "l": "sinterklaas-schoencadeau-diamond-painting-set-484135STK",
         "p": 4.99,
         "s": ""
     },
@@ -17746,10 +17746,10 @@
     },
     {
         "id": "519712STK",
-        "n": "HEMA EIERDOPJE BLAUW",
-        "l": "hema-eierdopje-blauw-519712STK",
+        "n": "HEMA Eierdopje Porto",
+        "l": "hema-eierdopje-porto-519712STK",
         "p": 2.25,
-        "s": "51 g"
+        "s": ""
     },
     {
         "id": "51g",
@@ -18420,7 +18420,7 @@
         "id": "538325STK",
         "n": "Jumbo Cola Regular en Zero",
         "l": "jumbo-cola-regular-en-zero-538325STK",
-        "p": 0.3,
+        "p": 0.6,
         "s": ""
     },
     {
@@ -19922,13 +19922,6 @@
         "s": ""
     },
     {
-        "id": "800",
-        "n": "Vitamine C kauwtabletten, 800 stuks",
-        "l": "vitamine-c-kauwtabletten-800-stuks-88065STK",
-        "p": 16.59,
-        "s": ""
-    },
-    {
         "id": "820g",
         "n": "Jumbo Halve Perziken op Siroop 820g",
         "l": "jumbo-halve-perziken-op-siroop-820g-166366BLK",
@@ -20048,13 +20041,6 @@
         "s": "850 g"
     },
     {
-        "id": "851",
-        "n": "Silan Passie voor Rozen Wasverzachter 851 ml - 37 Wasbeurten",
-        "l": "silan-passie-voor-rozen-wasverzachter-851-ml-37-wasbeurten-496339DS",
-        "p": 4.74,
-        "s": "851 ml"
-    },
-    {
         "id": "85523STK",
         "n": "Jumbo Witlof Fijn 4 Stuks",
         "l": "jumbo-witlof-fijn-4-stuks-85523STK",
@@ -20172,6 +20158,20 @@
         "l": "rummo-lenta-lavorazione-casarecce-n-88-500g-355229STK",
         "p": 2.29,
         "s": "500 g"
+    },
+    {
+        "id": "800",
+        "n": "Vitamine C kauwtabletten, 800 stuks",
+        "l": "vitamine-c-kauwtabletten-800-stuks-88065STK",
+        "p": 16.59,
+        "s": ""
+    },
+    {
+        "id": "851",
+        "n": "Silan Passie voor Rozen Wasverzachter 851 ml - 37 Wasbeurten",
+        "l": "silan-passie-voor-rozen-wasverzachter-851-ml-37-wasbeurten-496339DS",
+        "p": 4.74,
+        "s": "851 ml"
     },
     {
         "id": "880",
