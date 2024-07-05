@@ -448,6 +448,13 @@
         "s": "1 liter"
     },
     {
+        "id": "ajax-allesreiniger-fris7",
+        "n": "Ajax Allesreiniger fris",
+        "l": "ajax-allesreiniger-fris7",
+        "p": 2.85,
+        "s": "1.25 liter"
+    },
+    {
         "id": "ajax-allesreiniger-hibiscus",
         "n": "Ajax Allesreiniger hibiscus",
         "l": "ajax-allesreiniger-hibiscus",
@@ -1008,6 +1015,13 @@
         "s": "1 liter"
     },
     {
+        "id": "alpro-sojadrink-houdbaar",
+        "n": "Alpro Sojadrink Houdbaar",
+        "l": "alpro-sojadrink-houdbaar",
+        "p": 1.55,
+        "s": "1 liter"
+    },
+    {
         "id": "alpro-sojadrink-light",
         "n": "Alpro Sojadrink Light",
         "l": "alpro-sojadrink-light",
@@ -1125,20 +1139,6 @@
         "l": "always-dailies-inlegkruisjes-long-plus-extra-protect",
         "p": 2.46,
         "s": "22 stuks"
-    },
-    {
-        "id": "always-discreet-liners-long-plus",
-        "n": "Always Discreet liners long plus",
-        "l": "always-discreet-liners-long-plus",
-        "p": 3.77,
-        "s": "24 stuks"
-    },
-    {
-        "id": "always-discreet-liners-normal-plus",
-        "n": "Always Discreet liners normal plus",
-        "l": "always-discreet-liners-normal-plus",
-        "p": 3.77,
-        "s": "28 stuks"
     },
     {
         "id": "always-discreet-maandverband-normal-voor-urineverlies",
@@ -1680,10 +1680,24 @@
         "s": "300 milliliter"
     },
     {
+        "id": "andr-lon-shampoo-zomer-blond",
+        "n": "Andr\u00e9lon Shampoo Zomer Blond",
+        "l": "andr-lon-shampoo-zomer-blond",
+        "p": 4.39,
+        "s": "300 milliliter"
+    },
+    {
         "id": "andr-lon-special-conditioner-alo-vera-repair",
         "n": "Andr\u00e9lon Special Conditioner Alo\u00eb Vera Repair",
         "l": "andr-lon-special-conditioner-alo-vera-repair",
         "p": 6.02,
+        "s": "300 milliliter"
+    },
+    {
+        "id": "andr-lon-special-conditioner-keratine-repair",
+        "n": "Andr\u00e9lon Special Conditioner Keratine Repair",
+        "l": "andr-lon-special-conditioner-keratine-repair",
+        "p": 5.78,
         "s": "300 milliliter"
     },
     {
@@ -3920,13 +3934,6 @@
         "s": "1.5 kilo"
     },
     {
-        "id": "best-for-your-friend-hondenbrokken-lam-1-5-kg",
-        "n": "Best for your friend Hondenbrokken lam 1,5 kg",
-        "l": "best-for-your-friend-hondenbrokken-lam-1-5-kg",
-        "p": 6.49,
-        "s": "1.5 kilo"
-    },
-    {
         "id": "best-for-your-friend-hondenbrokken-zalm-1-5-kg",
         "n": "Best for your friend Hondenbrokken zalm 1,5 kg",
         "l": "best-for-your-friend-hondenbrokken-zalm-1-5-kg",
@@ -4429,6 +4436,13 @@
         "l": "bio-biologische-rinse-appelstroop",
         "p": 3.19,
         "s": "330 gram"
+    },
+    {
+        "id": "bio-biologische-rode-kool-met-appel1",
+        "n": "Bio+ Biologische rode kool met appel",
+        "l": "bio-biologische-rode-kool-met-appel1",
+        "p": 1.36,
+        "s": "450 gram"
     },
     {
         "id": "bio-biologische-rode-kool2",
@@ -6377,6 +6391,13 @@
         "s": "5 stuks"
     },
     {
+        "id": "bros-krakende-mousse-4-pak",
+        "n": "Bros Krakende mousse 4-pak",
+        "l": "bros-krakende-mousse-4-pak",
+        "p": 1.87,
+        "s": "228 gram"
+    },
+    {
         "id": "bros-melkchocolade-mousse-4-pak",
         "n": "Bros Melkchocolade mousse 4-pak",
         "l": "bros-melkchocolade-mousse-4-pak",
@@ -7920,6 +7941,13 @@
         "id": "capri-sun-multivitamin-200-ml-pouch-10-pack",
         "n": "Capri Sun Multivitamin 200 ml pouch 10-pack",
         "l": "capri-sun-multivitamin-200-ml-pouch-10-pack",
+        "p": 3.55,
+        "s": "2 liter"
+    },
+    {
+        "id": "capri-sun-orange-200ml-pouch-10-pack",
+        "n": "Capri Sun Orange 200ml pouch 10-pack",
+        "l": "capri-sun-orange-200ml-pouch-10-pack",
         "p": 3.55,
         "s": "2 liter"
     },
@@ -11613,18 +11641,18 @@
         "s": "250 milliliter"
     },
     {
-        "id": "dettol-handzeep-original",
-        "n": "Dettol Handzeep original",
-        "l": "dettol-handzeep-original",
-        "p": 2.99,
-        "s": "250 milliliter"
-    },
-    {
         "id": "dettol-handzeep-sensitive",
         "n": "Dettol Handzeep sensitive",
         "l": "dettol-handzeep-sensitive",
         "p": 2.99,
         "s": "250 milliliter"
+    },
+    {
+        "id": "dettol-hygiene-wipes-voordeel",
+        "n": "Dettol Hygiene wipes voordeel",
+        "l": "dettol-hygiene-wipes-voordeel",
+        "p": 4.3,
+        "s": "80 stuks"
     },
     {
         "id": "dettol-hygienische-doekjes",
@@ -12339,13 +12367,6 @@
         "l": "dove-shower-silk-glow1",
         "p": 8.99,
         "s": "750 milliliter"
-    },
-    {
-        "id": "dove-verzorgende-douchecr-me-nourishing-care-oil",
-        "n": "Dove Verzorgende Douchecr\u00e8me Nourishing Care & Oil",
-        "l": "dove-verzorgende-douchecr-me-nourishing-care-oil",
-        "p": 4.49,
-        "s": "250 milliliter"
     },
     {
         "id": "dove-zeep-pomp-cream-wash",
@@ -13083,13 +13104,6 @@
         "s": "170 gram"
     },
     {
-        "id": "dubbel-drank-ananas-guave",
-        "n": "Dubbel Drank Ananas & guave",
-        "l": "dubbel-drank-ananas-guave",
-        "p": 1.49,
-        "s": "1 liter"
-    },
-    {
         "id": "dubbel-drank-dubbeldrank-mango-guanabana",
         "n": "Dubbel Drank Dubbeldrank mango & guanabana",
         "l": "dubbel-drank-dubbeldrank-mango-guanabana",
@@ -13312,6 +13326,13 @@
         "l": "dumil-luierzakjes",
         "p": 1.95,
         "s": "100 stuks"
+    },
+    {
+        "id": "dumil-pedaalemmerzakken-25-liter",
+        "n": "Dumil Pedaalemmerzakken 25 liter",
+        "l": "dumil-pedaalemmerzakken-25-liter",
+        "p": 0.79,
+        "s": "40 stuks"
     },
     {
         "id": "duni-servetten-creme-3-laags",
@@ -13683,6 +13704,13 @@
         "l": "ecover-waspoeder-universal",
         "p": 9.3,
         "s": "1.2 kilo"
+    },
+    {
+        "id": "ecover-wasverzachter-gardenia",
+        "n": "Ecover Wasverzachter gardenia",
+        "l": "ecover-wasverzachter-gardenia",
+        "p": 4.79,
+        "s": "1.001 liter"
     },
     {
         "id": "ecover-wc-reiniger-den-munt",
@@ -14231,6 +14259,13 @@
         "s": "125 gram"
     },
     {
+        "id": "euroma-basilicum-vriesdroog",
+        "n": "Euroma Basilicum vriesdroog",
+        "l": "euroma-basilicum-vriesdroog",
+        "p": 2.73,
+        "s": "9 gram"
+    },
+    {
         "id": "euroma-bieslook-vriesdroog",
         "n": "Euroma Bieslook vriesdroog",
         "l": "euroma-bieslook-vriesdroog",
@@ -14516,6 +14551,13 @@
         "l": "fanta-orange-mini-8-x-150ml-blik",
         "p": 3.89,
         "s": "1.2 liter"
+    },
+    {
+        "id": "fanta-orange-no-sugar-1-5l-pet-fles-4-pack",
+        "n": "Fanta Orange no sugar 1,5l pet fles 4-pack",
+        "l": "fanta-orange-no-sugar-1-5l-pet-fles-4-pack",
+        "p": 8.36,
+        "s": "6 liter"
     },
     {
         "id": "fanta-orange2",
@@ -14901,13 +14943,6 @@
         "l": "finish-glansspoelmiddel",
         "p": 2.89,
         "s": "400 milliliter"
-    },
-    {
-        "id": "finish-machinereiniger-original",
-        "n": "Finish Machinereiniger original",
-        "l": "finish-machinereiniger-original",
-        "p": 3.32,
-        "s": "250 milliliter"
     },
     {
         "id": "finish-power-all-in-1-citroen-vaatwastabletten",
@@ -15428,6 +15463,13 @@
         "s": "1.093 kilo"
     },
     {
+        "id": "fresh-amp-easy-verspakket-curry-madras",
+        "n": "Fresh & easy Verspakket curry madras",
+        "l": "fresh-amp-easy-verspakket-curry-madras",
+        "p": 5.39,
+        "s": "1.09 kilo"
+    },
+    {
         "id": "fresh-amp-easy-verspakket-erwtensoep",
         "n": "Fresh & easy Verspakket erwtensoep",
         "l": "fresh-amp-easy-verspakket-erwtensoep",
@@ -15902,6 +15944,13 @@
         "l": "fuze-tea-green-tea-apple-kiwi1",
         "p": 2.15,
         "s": "1.5 liter"
+    },
+    {
+        "id": "fuze-tea-green-tea-kamille",
+        "n": "Fuze tea Green tea kamille",
+        "l": "fuze-tea-green-tea-kamille",
+        "p": 2.49,
+        "s": "1 liter"
     },
     {
         "id": "fuze-tea-green-tea-lemon",
@@ -17570,13 +17619,6 @@
         "s": "1 stuk"
     },
     {
-        "id": "g-apos-woon-continu-victorian-rose",
-        "n": "G'woon Continu victorian rose",
-        "l": "g-apos-woon-continu-victorian-rose",
-        "p": 0.83,
-        "s": "1 stuk"
-    },
-    {
         "id": "g-apos-woon-cornets-aardbei",
         "n": "G'woon Cornets aardbei",
         "l": "g-apos-woon-cornets-aardbei",
@@ -17617,13 +17659,6 @@
         "l": "g-apos-woon-cranberrymix-ongezouten",
         "p": 2.16,
         "s": "200 gram"
-    },
-    {
-        "id": "g-apos-woon-cranberrysap",
-        "n": "G'woon Cranberrysap",
-        "l": "g-apos-woon-cranberrysap",
-        "p": 0.98,
-        "s": "1 liter"
     },
     {
         "id": "g-apos-woon-creme-brulee-koekjes",
@@ -17841,13 +17876,6 @@
         "l": "g-apos-woon-doperwten-wortelen-extra-fijn",
         "p": 0.85,
         "s": "200 gram"
-    },
-    {
-        "id": "g-apos-woon-doperwten-wortelen-extra-fijn1",
-        "n": "G'woon Doperwten wortelen extra fijn",
-        "l": "g-apos-woon-doperwten-wortelen-extra-fijn1",
-        "p": 1.04,
-        "s": "400 gram"
     },
     {
         "id": "g-apos-woon-doperwten-wortelen-extra-fijn2",
@@ -20454,13 +20482,6 @@
         "s": "1.5 liter"
     },
     {
-        "id": "g-apos-woon-muntdrop",
-        "n": "G'woon Muntdrop",
-        "l": "g-apos-woon-muntdrop",
-        "p": 1.29,
-        "s": "400 gram"
-    },
-    {
         "id": "g-apos-woon-natuurazijn-wit1",
         "n": "G'woon Natuurazijn wit",
         "l": "g-apos-woon-natuurazijn-wit1",
@@ -22575,13 +22596,6 @@
         "s": "4 stuks"
     },
     {
-        "id": "g-apos-woon-toiletreiniger-eco",
-        "n": "G'woon Toiletreiniger eco",
-        "l": "g-apos-woon-toiletreiniger-eco",
-        "p": 1.68,
-        "s": "750 milliliter"
-    },
-    {
         "id": "g-apos-woon-toiletreiniger-lavendel1",
         "n": "G'woon Toiletreiniger lavendel",
         "l": "g-apos-woon-toiletreiniger-lavendel1",
@@ -23779,13 +23793,6 @@
         "s": "300 milliliter"
     },
     {
-        "id": "garnier-miccellaire-reinigingsdoekjes",
-        "n": "Garnier Miccellaire reinigingsdoekjes",
-        "l": "garnier-miccellaire-reinigingsdoekjes",
-        "p": 2.99,
-        "s": "25 stuks"
-    },
-    {
         "id": "garnier-micellair-water-allesin1",
         "n": "Garnier Micellair water allesin1",
         "l": "garnier-micellair-water-allesin1",
@@ -24115,6 +24122,13 @@
         "s": "100 milliliter"
     },
     {
+        "id": "go-tan-chili-saus-extra-hot",
+        "n": "Go-Tan Chili saus extra hot",
+        "l": "go-tan-chili-saus-extra-hot",
+        "p": 2.33,
+        "s": "270 milliliter"
+    },
+    {
         "id": "go-tan-chilli-sauce-sweet",
         "n": "Go-Tan Chilli sauce sweet",
         "l": "go-tan-chilli-sauce-sweet",
@@ -24269,13 +24283,6 @@
         "s": "250 milliliter"
     },
     {
-        "id": "gouda-apos-s-glorie-halvarine1",
-        "n": "Gouda's Glorie Halvarine",
-        "l": "gouda-apos-s-glorie-halvarine1",
-        "p": 2.29,
-        "s": "500 gram"
-    },
-    {
         "id": "gouda-apos-s-glorie-mayonaise",
         "n": "Gouda's Glorie Mayonaise",
         "l": "gouda-apos-s-glorie-mayonaise",
@@ -24367,6 +24374,13 @@
         "s": "680 gram"
     },
     {
+        "id": "gourmet-gold-luxe-mix",
+        "n": "Gourmet Gold Luxe Mix",
+        "l": "gourmet-gold-luxe-mix",
+        "p": 4.45,
+        "s": "680 gram"
+    },
+    {
         "id": "gourmet-gold-luxe-mix-kattenvoer-nat-vis-vlees",
         "n": "Gourmet Gold Luxe Mix kattenvoer nat vis\/vlees",
         "l": "gourmet-gold-luxe-mix-kattenvoer-nat-vis-vlees",
@@ -24379,13 +24393,6 @@
         "l": "gourmet-gold-luxe-mix-kattenvoer-nat-zeevis",
         "p": 0.59,
         "s": "85 gram"
-    },
-    {
-        "id": "gourmet-gold-luxe-mix1",
-        "n": "Gourmet Gold Luxe Mix",
-        "l": "gourmet-gold-luxe-mix1",
-        "p": 4.45,
-        "s": "680 gram"
     },
     {
         "id": "gourmet-gold-mousse-kattenvoer-nat-met-rund",
@@ -24468,15 +24475,15 @@
         "id": "gourmet-perle-mini-filets-kattenvoer-mix",
         "n": "Gourmet Perle Mini Filets kattenvoer mix",
         "l": "gourmet-perle-mini-filets-kattenvoer-mix",
-        "p": 2.79,
-        "s": "340 gram"
-    },
-    {
-        "id": "gourmet-perle-mini-filets-kattenvoer-mix1",
-        "n": "Gourmet Perle Mini Filets kattenvoer mix",
-        "l": "gourmet-perle-mini-filets-kattenvoer-mix1",
         "p": 6.89,
         "s": "1.02 kilo"
+    },
+    {
+        "id": "gourmet-perle-mini-filets-kattenvoer-mix2",
+        "n": "Gourmet Perle Mini Filets kattenvoer mix",
+        "l": "gourmet-perle-mini-filets-kattenvoer-mix2",
+        "p": 2.79,
+        "s": "340 gram"
     },
     {
         "id": "gourmet-perle-mini-filets-kattenvoer-vis-vlees",
@@ -24867,6 +24874,13 @@
         "id": "grand-sud-merlot",
         "n": "Grand Sud Merlot",
         "l": "grand-sud-merlot",
+        "p": 5.99,
+        "s": "1 liter"
+    },
+    {
+        "id": "grand-sud-merlot-rose",
+        "n": "Grand Sud Merlot rose",
+        "l": "grand-sud-merlot-rose",
         "p": 5.99,
         "s": "1 liter"
     },
@@ -26408,13 +26422,6 @@
         "n": "Heinz Mayonaise",
         "l": "heinz-mayonaise2",
         "p": 2.59,
-        "s": "400 milliliter"
-    },
-    {
-        "id": "heinz-polpa",
-        "n": "Heinz Polpa",
-        "l": "heinz-polpa",
-        "p": 1.02,
         "s": "400 milliliter"
     },
     {
@@ -28714,13 +28721,6 @@
         "s": "108 gram"
     },
     {
-        "id": "hoogvliet-ensalada-pesto-oude-kaas",
-        "n": "Hoogvliet Ensalada pesto oude kaas",
-        "l": "hoogvliet-ensalada-pesto-oude-kaas",
-        "p": 1.99,
-        "s": "100 gram"
-    },
-    {
         "id": "hoogvliet-erwtensoep2",
         "n": "Hoogvliet Erwtensoep",
         "l": "hoogvliet-erwtensoep2",
@@ -29622,6 +29622,13 @@
         "l": "hoogvliet-ijsbergsla-naturel",
         "p": 1.05,
         "s": "200 gram"
+    },
+    {
+        "id": "hoogvliet-ijsbergsla-naturel-voordeelzak",
+        "n": "Hoogvliet IJsbergsla naturel voordeelzak",
+        "l": "hoogvliet-ijsbergsla-naturel-voordeelzak",
+        "p": 1.95,
+        "s": "400 gram"
     },
     {
         "id": "hoogvliet-ijsbergsla-naturel2",
@@ -30532,6 +30539,13 @@
         "l": "hoogvliet-meloen-blokjes",
         "p": 2.25,
         "s": "225 gram"
+    },
+    {
+        "id": "hoogvliet-mergpijp1",
+        "n": "Hoogvliet Mergpijp",
+        "l": "hoogvliet-mergpijp1",
+        "p": 1.99,
+        "s": "2 stuks"
     },
     {
         "id": "hoogvliet-mexicaanse-roerbakgroenten",
@@ -32067,13 +32081,6 @@
         "s": "200 gram"
     },
     {
-        "id": "hoogvliet-slavinken8",
-        "n": "Hoogvliet Slavinken",
-        "l": "hoogvliet-slavinken8",
-        "p": 3.49,
-        "s": "400 gram"
-    },
-    {
         "id": "hoogvliet-smeerbare-kruidenboter",
         "n": "Hoogvliet Smeerbare kruidenboter",
         "l": "hoogvliet-smeerbare-kruidenboter",
@@ -32380,6 +32387,13 @@
         "l": "hoogvliet-suikerbrood6",
         "p": 1.99,
         "s": "400 gram"
+    },
+    {
+        "id": "hoogvliet-sukadelappen2",
+        "n": "Hoogvliet Sukadelappen",
+        "l": "hoogvliet-sukadelappen2",
+        "p": 6.61,
+        "s": "450 gram"
     },
     {
         "id": "hoogvliet-sukadelappen3",
@@ -33605,13 +33619,6 @@
         "l": "iglo-green-cuisine-veggie-sticks",
         "p": 3.42,
         "s": "284 gram"
-    },
-    {
-        "id": "iglo-ocean-cuisine-kibbeling-traditioneel",
-        "n": "Iglo Ocean Cuisine Kibbeling Traditioneel",
-        "l": "iglo-ocean-cuisine-kibbeling-traditioneel",
-        "p": 4.06,
-        "s": "245 gram"
     },
     {
         "id": "iglo-ocean-cuisine-lekkerbekjes-in-bierbeslag",
@@ -37310,13 +37317,6 @@
         "s": "20 stuks"
     },
     {
-        "id": "l-apos-or-espresso-limited-creations-koffcups",
-        "n": "L'OR Espresso Limited Creations Koffcups",
-        "l": "l-apos-or-espresso-limited-creations-koffcups",
-        "p": 4.17,
-        "s": "10 stuks"
-    },
-    {
         "id": "l-apos-or-espresso-onyx-koffiebonen",
         "n": "L'OR Espresso Onyx Koffiebonen",
         "l": "l-apos-or-espresso-onyx-koffiebonen",
@@ -39830,6 +39830,13 @@
         "s": "250 milliliter"
     },
     {
+        "id": "lux-showergel-freesia-tea-tree-oil",
+        "n": "Lux Showergel freesia & tea tree oil",
+        "l": "lux-showergel-freesia-tea-tree-oil",
+        "p": 3.38,
+        "s": "250 milliliter"
+    },
+    {
         "id": "lux-showergel-paradise-rosehip",
         "n": "Lux Showergel paradise & rosehip",
         "l": "lux-showergel-paradise-rosehip",
@@ -40204,6 +40211,13 @@
         "id": "maggi-jus-pikant",
         "n": "Maggi Jus pikant",
         "l": "maggi-jus-pikant",
+        "p": 0.67,
+        "s": "18 gram"
+    },
+    {
+        "id": "maggi-jus-rundvlees",
+        "n": "Maggi Jus rundvlees",
+        "l": "maggi-jus-rundvlees",
         "p": 0.67,
         "s": "18 gram"
     },
@@ -41535,13 +41549,6 @@
         "n": "Melkan Karnemelk",
         "l": "melkan-karnemelk1",
         "p": 1.2,
-        "s": "1 liter"
-    },
-    {
-        "id": "melkan-kefir-naturel",
-        "n": "Melkan Kefir naturel",
-        "l": "melkan-kefir-naturel",
-        "p": 1.27,
         "s": "1 liter"
     },
     {
@@ -42901,13 +42908,6 @@
         "l": "milner-30-jong-stuk",
         "p": 6.79,
         "s": "450 gram"
-    },
-    {
-        "id": "milner-30-jong-voordeel-plakken",
-        "n": "Milner 30+ Jong Voordeel Plakken",
-        "l": "milner-30-jong-voordeel-plakken",
-        "p": 5.49,
-        "s": "300 gram"
     },
     {
         "id": "milner-30-komijn-plakken",
@@ -45927,13 +45927,6 @@
         "s": "500 gram"
     },
     {
-        "id": "optimel-magere-kwark-vanille-0-vet",
-        "n": "Optimel Magere kwark vanille 0% vet",
-        "l": "optimel-magere-kwark-vanille-0-vet",
-        "p": 2.35,
-        "s": "500 gram"
-    },
-    {
         "id": "optimel-magere-vla-vanillesmaak-0-vet",
         "n": "Optimel Magere vla vanillesmaak 0% vet",
         "l": "optimel-magere-vla-vanillesmaak-0-vet",
@@ -46669,6 +46662,13 @@
         "s": "68 stuks"
     },
     {
+        "id": "pampers-premium-protection-maat-6",
+        "n": "Pampers Premium protection maat 6",
+        "l": "pampers-premium-protection-maat-6",
+        "p": 31.79,
+        "s": "60 stuks"
+    },
+    {
         "id": "pampers-premium-protection-pants-maat-5",
         "n": "Pampers Premium protection pants maat 5",
         "l": "pampers-premium-protection-pants-maat-5",
@@ -47401,13 +47401,6 @@
         "n": "Persil Megapearls color",
         "l": "persil-megapearls-color1",
         "p": 8.39,
-        "s": "1 kilo"
-    },
-    {
-        "id": "persil-megaperls-power1",
-        "n": "Persil Megaperls power",
-        "l": "persil-megaperls-power1",
-        "p": 8.45,
         "s": "1 kilo"
     },
     {
@@ -48202,6 +48195,13 @@
         "s": "2.8 kilo"
     },
     {
+        "id": "purina-beneful-original-hondenvoer-met-rund1",
+        "n": "Purina Beneful Original hondenvoer met rund",
+        "l": "purina-beneful-original-hondenvoer-met-rund1",
+        "p": 4.15,
+        "s": "1.4 kilo"
+    },
+    {
         "id": "purina-dentalife-daily-oral-care-hondensnack-medium",
         "n": "Purina Dentalife Daily Oral Care hondensnack medium",
         "l": "purina-dentalife-daily-oral-care-hondensnack-medium",
@@ -48335,6 +48335,13 @@
         "s": "800 gram"
     },
     {
+        "id": "quaker-cruesli-aardbei-zero",
+        "n": "Quaker Cruesli aardbei zero",
+        "l": "quaker-cruesli-aardbei-zero",
+        "p": 3.69,
+        "s": "400 gram"
+    },
+    {
         "id": "quaker-cruesli-appel-rozijn1",
         "n": "Quaker Cruesli appel rozijn",
         "l": "quaker-cruesli-appel-rozijn1",
@@ -48438,13 +48445,6 @@
         "l": "quaker-granola-balans-naturel",
         "p": 3.89,
         "s": "375 gram"
-    },
-    {
-        "id": "quaker-granola-noten",
-        "n": "Quaker Granola noten",
-        "l": "quaker-granola-noten",
-        "p": 3.89,
-        "s": "350 gram"
     },
     {
         "id": "quaker-havermout-granola-naturel",
@@ -49161,13 +49161,6 @@
         "s": "250 milliliter"
     },
     {
-        "id": "remia-salata-caesar-dressing",
-        "n": "Remia Salata Caesar Dressing",
-        "l": "remia-salata-caesar-dressing",
-        "p": 1.9,
-        "s": "250 milliliter"
-    },
-    {
         "id": "remia-salata-honing-mosterd-0-",
         "n": "Remia Salata honing mosterd 0%",
         "l": "remia-salata-honing-mosterd-0-",
@@ -49333,6 +49326,13 @@
         "n": "Rivella Cranberry",
         "l": "rivella-cranberry2",
         "p": 1.99,
+        "s": "1.5 liter"
+    },
+    {
+        "id": "rivella-framboos",
+        "n": "Rivella Framboos",
+        "l": "rivella-framboos",
+        "p": 2.34,
         "s": "1.5 liter"
     },
     {
@@ -49567,13 +49567,6 @@
         "s": "665 milliliter"
     },
     {
-        "id": "robijn-wasmiddel-klein-krachtig-paradise-secret",
-        "n": "Robijn Wasmiddel klein&krachtig paradise secret",
-        "l": "robijn-wasmiddel-klein-krachtig-paradise-secret",
-        "p": 11.75,
-        "s": "665 milliliter"
-    },
-    {
         "id": "robijn-wasmiddel-klein-krachtig-pink-sensation",
         "n": "Robijn Wasmiddel klein&krachtig pink sensation",
         "l": "robijn-wasmiddel-klein-krachtig-pink-sensation",
@@ -49607,6 +49600,13 @@
         "l": "robijn-wasmiddel-vloeibaar-color3",
         "p": 25.49,
         "s": "3 liter"
+    },
+    {
+        "id": "robijn-wasmiddeldoekjes-black-velvet",
+        "n": "Robijn Wasmiddeldoekjes black velvet",
+        "l": "robijn-wasmiddeldoekjes-black-velvet",
+        "p": 9.79,
+        "s": "16 stuks"
     },
     {
         "id": "robijn-wasmiddeldoekjes-color",
@@ -49648,6 +49648,13 @@
         "n": "Robijn Wasverzachter Spa Sensation 30 wasbeurten",
         "l": "robijn-wasverzachter-spa-sensation-30-wasbeurten",
         "p": 4.99,
+        "s": "750 milliliter"
+    },
+    {
+        "id": "robijn-wasverzachter-stip-en-streep",
+        "n": "Robijn Wasverzachter stip en streep",
+        "l": "robijn-wasverzachter-stip-en-streep",
+        "p": 4.69,
         "s": "750 milliliter"
     },
     {
@@ -52127,13 +52134,6 @@
         "l": "snelle-jelle-kruidkoek-naturel-repen",
         "p": 2.49,
         "s": "5 stuks"
-    },
-    {
-        "id": "snelle-jelle-kruidkoek-naturel-tussendoor",
-        "n": "Snelle Jelle Kruidkoek naturel tussendoor",
-        "l": "snelle-jelle-kruidkoek-naturel-tussendoor",
-        "p": 2.24,
-        "s": "6 stuks"
     },
     {
         "id": "snelle-jelle-kruidkoek-rozijn-repen",
@@ -55272,13 +55272,6 @@
         "s": "400 gram"
     },
     {
-        "id": "unox-knaks-kaas",
-        "n": "Unox Knaks kaas",
-        "l": "unox-knaks-kaas",
-        "p": 2.99,
-        "s": "400 gram"
-    },
-    {
         "id": "unox-knaks-kip",
         "n": "Unox Knaks Kip",
         "l": "unox-knaks-kip",
@@ -55867,6 +55860,13 @@
         "s": "1 kilo"
     },
     {
+        "id": "van-gilse-lichte-basterdsuiker",
+        "n": "Van Gilse Lichte basterdsuiker",
+        "l": "van-gilse-lichte-basterdsuiker",
+        "p": 1.05,
+        "s": "600 gram"
+    },
+    {
         "id": "van-gilse-midi-suikerklontjes",
         "n": "Van Gilse Midi suikerklontjes",
         "l": "van-gilse-midi-suikerklontjes",
@@ -56439,6 +56439,13 @@
         "l": "verkade-meesterbaksels-karamel",
         "p": 1.79,
         "s": "160 gram"
+    },
+    {
+        "id": "verkade-mokka-sticks",
+        "n": "Verkade Mokka sticks",
+        "l": "verkade-mokka-sticks",
+        "p": 1.75,
+        "s": "150 gram"
     },
     {
         "id": "verkade-nizza-kaneel",
@@ -57736,6 +57743,13 @@
         "s": "4 stuks"
     },
     {
+        "id": "vitakraft-catstick-kalkoen-lam",
+        "n": "Vitakraft Catstick Kalkoen & Lam",
+        "l": "vitakraft-catstick-kalkoen-lam",
+        "p": 2.19,
+        "s": "6 stuks"
+    },
+    {
         "id": "vitakraft-catstick-zalm",
         "n": "Vitakraft Catstick Zalm",
         "l": "vitakraft-catstick-zalm",
@@ -58394,13 +58408,6 @@
         "s": "100 gram"
     },
     {
-        "id": "wecare-fudge-caramel",
-        "n": "WeCare Fudge caramel",
-        "l": "wecare-fudge-caramel",
-        "p": 2.93,
-        "s": "60 gram"
-    },
-    {
         "id": "wecare-reep-caramel-nougat",
         "n": "WeCare Reep caramel nougat",
         "l": "wecare-reep-caramel-nougat",
@@ -58931,6 +58938,13 @@
         "l": "wilhelmina-pepermunt",
         "p": 1.65,
         "s": "3 rol"
+    },
+    {
+        "id": "wilhelmina-pepermunt2",
+        "n": "Wilhelmina Pepermunt",
+        "l": "wilhelmina-pepermunt2",
+        "p": 1.19,
+        "s": "200 gram"
     },
     {
         "id": "william-lawson-s-whisky-cola",
@@ -59549,13 +59563,6 @@
         "s": "20 stuks"
     },
     {
-        "id": "zonnatura-groene-thee-echinacea",
-        "n": "Zonnatura Groene thee echinacea",
-        "l": "zonnatura-groene-thee-echinacea",
-        "p": 2.44,
-        "s": "20 stuks"
-    },
-    {
         "id": "zonnatura-groene-thee-gember",
         "n": "Zonnatura Groene thee gember",
         "l": "zonnatura-groene-thee-gember",
@@ -59589,13 +59596,6 @@
         "l": "zonnatura-haverzemelen",
         "p": 2.69,
         "s": "350 gram"
-    },
-    {
-        "id": "zonnatura-ideaal-gewicht",
-        "n": "Zonnatura Ideaal gewicht",
-        "l": "zonnatura-ideaal-gewicht",
-        "p": 2.44,
-        "s": "20 stuks"
     },
     {
         "id": "zonnatura-knijpfruit-appel-aardbei",
@@ -59813,6 +59813,13 @@
         "l": "zonnatura-theinevrije",
         "p": 2.44,
         "s": "20 stuks"
+    },
+    {
+        "id": "zonnatura-volkoren-havermoutpap",
+        "n": "Zonnatura Volkoren havermoutpap",
+        "l": "zonnatura-volkoren-havermoutpap",
+        "p": 1.99,
+        "s": "500 gram"
     },
     {
         "id": "zonnatura-wortelsap",
