@@ -56,6 +56,13 @@
         "s": "208 g"
     },
     {
+        "id": "09mm",
+        "n": "GUM\u00ae BI-DIRECTION Ragers 0.9mm",
+        "l": "gum-bi-direction-ragers-09mm-326656STK",
+        "p": 5.49,
+        "s": "6 stuks"
+    },
+    {
         "id": "10",
         "n": "Zainab Plain Pappadums 10 Stuks",
         "l": "zainab-plain-pappadums-10-stuks-524784DS",
@@ -70,25 +77,11 @@
         "s": "33 CL"
     },
     {
-        "id": "09mm",
-        "n": "GUM\u00ae BI-DIRECTION Ragers 0.9mm",
-        "l": "gum-bi-direction-ragers-09mm-326656STK",
-        "p": 5.49,
-        "s": "6 stuks"
-    },
-    {
         "id": "100",
         "n": "Zonnatura Bio 100% Venkel Kruideninfusie 20 Stuks",
         "l": "zonnatura-bio-100-venkel-kruideninfusie-20-stuks-317455DS",
         "p": 2.47,
         "s": "28 g"
-    },
-    {
-        "id": "1000",
-        "n": "Seepje Natuurlijk Wasmiddel Universeel Sprankelende Jasmijn 1000 ml 23 Wasbeurten",
-        "l": "seepje-natuurlijk-wasmiddel-universeel-sprankelende-jasmijn-1000-ml-23-wasbeurten-471359FLS",
-        "p": 10.88,
-        "s": "1000 ml"
     },
     {
         "id": "1000g",
@@ -105,32 +98,11 @@
         "s": "1000 ml"
     },
     {
-        "id": "100cl",
-        "n": "Ramiro Mayor Montilla Pale Dry 100cl",
-        "l": "ramiro-mayor-montilla-pale-dry-100cl-33005FLS",
-        "p": 5.49,
-        "s": "100 cl"
-    },
-    {
-        "id": "100g",
-        "n": "Zwitsal Talkpoeder Navulling 100g",
-        "l": "zwitsal-talkpoeder-navulling-100g-193158ZK",
-        "p": 2.27,
-        "s": "100 g"
-    },
-    {
         "id": "100gr",
         "n": "Pet's Unlimited Denta Chew Medium 100Gr",
         "l": "pet-s-unlimited-denta-chew-medium-100gr-449914STK",
         "p": 2.29,
         "s": ""
-    },
-    {
-        "id": "100ml",
-        "n": "Zwitsal Zinkzalf 0% Parfum en 3% Panthenol 100ml",
-        "l": "zwitsal-zinkzalf-0-parfum-en-3-panthenol-100ml-148639TUB",
-        "p": 5.95,
-        "s": "100 ml"
     },
     {
         "id": "100s",
@@ -147,6 +119,41 @@
         "s": "250 g"
     },
     {
+        "id": "1000",
+        "n": "Seepje Natuurlijk Wasmiddel Universeel Sprankelende Jasmijn 1000 ml 23 Wasbeurten",
+        "l": "seepje-natuurlijk-wasmiddel-universeel-sprankelende-jasmijn-1000-ml-23-wasbeurten-471359FLS",
+        "p": 10.88,
+        "s": "1000 ml"
+    },
+    {
+        "id": "1001",
+        "n": "L'Or\u00e9al Paris Elvive Extraordinary Oil Coco 1001 Haarmasker 300ml",
+        "l": "l-oreal-paris-elvive-extraordinary-oil-coco-1001-haarmasker-300ml-504977POT",
+        "p": 7.99,
+        "s": "300 ml"
+    },
+    {
+        "id": "100cl",
+        "n": "Ramiro Mayor Montilla Pale Dry 100cl",
+        "l": "ramiro-mayor-montilla-pale-dry-100cl-33005FLS",
+        "p": 5.49,
+        "s": "100 cl"
+    },
+    {
+        "id": "100g",
+        "n": "Zwitsal Talkpoeder Navulling 100g",
+        "l": "zwitsal-talkpoeder-navulling-100g-193158ZK",
+        "p": 2.27,
+        "s": "100 g"
+    },
+    {
+        "id": "100ml",
+        "n": "Zwitsal Zinkzalf 0% Parfum en 3% Panthenol 100ml",
+        "l": "zwitsal-zinkzalf-0-parfum-en-3-panthenol-100ml-148639TUB",
+        "p": 5.95,
+        "s": "100 ml"
+    },
+    {
         "id": "101799BLK",
         "n": "Hoppe Vieux Cola 0, 25L",
         "l": "hoppe-vieux-cola-0,25l-101799BLK",
@@ -155,8 +162,8 @@
     },
     {
         "id": "101g",
-        "n": "Honig Mix voor Italiaanse Tomatensoep 101g",
-        "l": "honig-mix-voor-italiaanse-tomatensoep-101g-521385DS",
+        "n": "Honig Maaltijdmix voor Italiaanse Tomatensoep 101g",
+        "l": "honig-maaltijdmix-voor-italiaanse-tomatensoep-101g-521385DS",
         "p": 1.63,
         "s": "101 g"
     },
@@ -217,13 +224,6 @@
         "s": "105 g"
     },
     {
-        "id": "1001",
-        "n": "L'Or\u00e9al Paris Elvive Extraordinary Oil Coco 1001 Haarmasker 300ml",
-        "l": "l-oreal-paris-elvive-extraordinary-oil-coco-1001-haarmasker-300ml-504977POT",
-        "p": 7.99,
-        "s": "300 ml"
-    },
-    {
         "id": "105g",
         "n": "Jumbo Sweet Mint Gum 105g",
         "l": "jumbo-sweet-mint-gum-105g-443760POT",
@@ -248,7 +248,7 @@
         "id": "1063g",
         "n": "Elite Chocolate Sensation 1063g",
         "l": "elite-chocolate-sensation-1063g-483728DS",
-        "p": 17.43,
+        "p": 19.61,
         "s": ""
     },
     {
@@ -262,8 +262,15 @@
         "id": "107g",
         "n": "Honig Mix voor Franse Champignonsoep 107g",
         "l": "honig-mix-voor-franse-champignonsoep-107g-521353DS",
-        "p": 1.77,
+        "p": 1.99,
         "s": "107 g"
+    },
+    {
+        "id": "108",
+        "n": "Pampers Baby-Dry Maat 5, 108 luiers, Tot 12 Uur Bescherming, 11kg-16kg",
+        "l": "pampers-baby-dry-maat-5-108-luiers-tot-12-uur-bescherming-11kg-16kg-536770ZK",
+        "p": 39.99,
+        "s": ""
     },
     {
         "id": "108g",
@@ -290,7 +297,7 @@
         "id": "10kg",
         "n": "Wijko Sat\u00e9saus kant en klaar 10kg",
         "l": "wijko-satesaus-kant-en-klaar-10kg-516978EM",
-        "p": 49.59,
+        "p": 49.69,
         "s": "10 KG"
     },
     {
@@ -350,13 +357,6 @@
         "s": "100 gram"
     },
     {
-        "id": "108",
-        "n": "Pampers Baby-Dry Maat 5, 108 luiers, Tot 12 Uur Bescherming, 11kg-16kg",
-        "l": "pampers-baby-dry-maat-5-108-luiers-tot-12-uur-bescherming-11kg-16kg-536770ZK",
-        "p": 39.99,
-        "s": ""
-    },
-    {
         "id": "110",
         "n": "Romed Alcoholdoekjes in Dispenser 110 Stuks",
         "l": "romed-alcoholdoekjes-in-dispenser-110-stuks-447794POT",
@@ -413,6 +413,13 @@
         "s": "111 g"
     },
     {
+        "id": "112",
+        "n": "Pampers Baby-Dry Maat 4+, 112 luiers, Tot 12 Uur Bescherming, 10kg-15kg",
+        "l": "pampers-baby-dry-maat-4-112-luiers-tot-12-uur-bescherming-10kg-15kg-482782STK",
+        "p": 40.85,
+        "s": ""
+    },
+    {
         "id": "112g",
         "n": "Honig Mix voor Tomaten Cr\u00e8mesoep 112g",
         "l": "honig-mix-voor-tomaten-cremesoep-112g-531421DS",
@@ -439,6 +446,27 @@
         "l": "sportlife-smashmint-suikervrij-kauwgom-pot-114g-433680POT",
         "p": 4.31,
         "s": "114 g"
+    },
+    {
+        "id": "1199g",
+        "n": "Rioba Biscuits Mix 1199g",
+        "l": "rioba-biscuits-mix-1199g-445443DS",
+        "p": 13.07,
+        "s": "1199 g"
+    },
+    {
+        "id": "12",
+        "n": "Zwitsal Billendoekjes Sensitive 12 x 57 Stuks",
+        "l": "zwitsal-billendoekjes-sensitive-12-x-57-stuks-198671DSL",
+        "p": 30.24,
+        "s": "684 stuks"
+    },
+    {
+        "id": "115",
+        "n": "Look O Look Zure Streken Mix Zuur Snoep Zak 115 gram Zure matten",
+        "l": "look-o-look-zure-streken-mix-zuur-snoep-zak-115-gram-zure-matten-439574ZK",
+        "p": 2.07,
+        "s": "115 g"
     },
     {
         "id": "115g",
@@ -476,13 +504,6 @@
         "s": "118 ml"
     },
     {
-        "id": "1199g",
-        "n": "Rioba Biscuits Mix 1199g",
-        "l": "rioba-biscuits-mix-1199g-445443DS",
-        "p": 11.98,
-        "s": "1199 g"
-    },
-    {
         "id": "11g",
         "n": "Vitakraft Vita Naturals Sticks Rund 2 x 11g",
         "l": "vitakraft-vita-naturals-sticks-rund-2-x-11g-513193STK",
@@ -497,11 +518,18 @@
         "s": ""
     },
     {
-        "id": "12",
-        "n": "Zwitsal Billendoekjes Sensitive 12 x 57 Stuks",
-        "l": "zwitsal-billendoekjes-sensitive-12-x-57-stuks-198671DSL",
-        "p": 30.24,
-        "s": "684 stuks"
+        "id": "120",
+        "n": "Sorbo Home Essential Sportveters Zwart 120 CmPaar",
+        "l": "sorbo-home-essential-sportveters-zwart-120-cmpaar-508816STK",
+        "p": 2.05,
+        "s": ""
+    },
+    {
+        "id": "1200",
+        "n": "Jumbo Zoetjes 1200 Stuks",
+        "l": "jumbo-zoetjes-1200-stuks-459896STK",
+        "p": 0.99,
+        "s": "72 g"
     },
     {
         "id": "1200mg",
@@ -595,6 +623,13 @@
         "s": "124 g"
     },
     {
+        "id": "125",
+        "n": "Panadol Junior zetpillen 125 mg, 10 stuks",
+        "l": "panadol-junior-zetpillen-125-mg-10-stuks-426652PAK",
+        "p": 4.89,
+        "s": ""
+    },
+    {
         "id": "1250ml",
         "n": "Jumbo Allesreiniger Ruby 1250ml",
         "l": "jumbo-allesreiniger-ruby-1250ml-447832FLS",
@@ -628,6 +663,13 @@
         "l": "viennetta-vanille-mini-ijs-125ml-81074DS",
         "p": 1.45,
         "s": "125 ml"
+    },
+    {
+        "id": "126",
+        "n": "Fairtrade Original Rietsuikerklontjes 126 Stuks 500g",
+        "l": "fairtrade-original-rietsuikerklontjes-126-stuks-500g-17527DS",
+        "p": 2.96,
+        "s": "500 g"
     },
     {
         "id": "126164BLK",
@@ -689,7 +731,7 @@
         "id": "12kg",
         "n": "Hela Kruiden Ketchup Curry Original 12kg",
         "l": "hela-kruiden-ketchup-curry-original-12kg-445594STK",
-        "p": 35.49,
+        "p": 47.62,
         "s": "12 kg"
     },
     {
@@ -840,123 +882,11 @@
         "s": "134 x 134 g"
     },
     {
-        "id": "14",
-        "n": "Yogi & Yousef's Vers Dadels 14 Stuks",
-        "l": "yogi-yousef-s-vers-dadels-14-stuks-443146DS",
-        "p": 2.49,
-        "s": "14 stuks"
-    },
-    {
-        "id": "15",
-        "n": "Yakult Plus 15-pack",
-        "l": "yakult-plus-15-pack-202806STK",
-        "p": 6.99,
-        "s": "15 x 65 ml"
-    },
-    {
-        "id": "16",
-        "n": "Zed Candy Sour Flavour Jawbreaker 16 Stuks 132g",
-        "l": "zed-candy-sour-flavour-jawbreaker-16-stuks-132g-349843STK",
-        "p": 0.94,
-        "s": "132 g"
-    },
-    {
-        "id": "17",
-        "n": "Persil Universal Megaperls Wasmiddel - 17 Wasbeurten",
-        "l": "persil-universal-megaperls-wasmiddel-17-wasbeurten-428736ZK",
-        "p": 8.9,
-        "s": "1.02 kg"
-    },
-    {
-        "id": "18",
-        "n": "Tommee Tippee Sangenic Creche Cassette 18 pack",
-        "l": "tommee-tippee-sangenic-creche-cassette-18-pack-436665STK",
-        "p": 108.84,
-        "s": ""
-    },
-    {
-        "id": "19",
-        "n": "Stimorol Max Splash kauwgom Strawberry Lime Suikervrij 3 x 19, 8g",
-        "l": "stimorol-max-splash-kauwgom-strawberry-lime-suikervrij-3-x-19,8g-545748PAK",
-        "p": 2.96,
-        "s": "3 x 19.8 g"
-    },
-    {
-        "id": "20",
-        "n": "Zwitsal Vochtige Washandjes Goedemorgen 20 Stuks",
-        "l": "zwitsal-vochtige-washandjes-goedemorgen-20-stuks-75183PAK",
-        "p": 4.25,
-        "s": "20 stuks"
-    },
-    {
-        "id": "21",
-        "n": "Unox Cup-a-Soup Tomaten Cr\u00e8me 21 x 175ml",
-        "l": "unox-cup-a-soup-tomaten-creme-21-x-175ml-446942PAK",
-        "p": 10.89,
-        "s": "21 x 18 g"
-    },
-    {
-        "id": "22",
-        "n": "Pampers Harmonie Maat 3, 22 Luiers, 6kg-10kg",
-        "l": "pampers-harmonie-maat-3-22-luiers-6kg-10kg-390746ZK",
-        "p": 12.86,
-        "s": ""
-    },
-    {
-        "id": "112",
-        "n": "Pampers Baby-Dry Maat 4+, 112 luiers, Tot 12 Uur Bescherming, 10kg-15kg",
-        "l": "pampers-baby-dry-maat-4-112-luiers-tot-12-uur-bescherming-10kg-15kg-482782STK",
-        "p": 40.85,
-        "s": ""
-    },
-    {
-        "id": "115",
-        "n": "Look O Look Zure Streken Mix Zuur Snoep Zak 115 gram Zure matten",
-        "l": "look-o-look-zure-streken-mix-zuur-snoep-zak-115-gram-zure-matten-439574ZK",
-        "p": 2.07,
-        "s": "115 g"
-    },
-    {
-        "id": "120",
-        "n": "Sorbo Home Essential Sportveters Zwart 120 CmPaar",
-        "l": "sorbo-home-essential-sportveters-zwart-120-cmpaar-508816STK",
-        "p": 2.05,
-        "s": ""
-    },
-    {
-        "id": "124",
-        "n": "Pampers Baby-Dry Maat 3, 124 Luiers, Tot 12 Uur Bescherming, 6kg-10kg",
-        "l": "pampers-baby-dry-maat-3-124-luiers-tot-12-uur-bescherming-6kg-10kg-482783STK",
-        "p": 40.75,
-        "s": ""
-    },
-    {
-        "id": "125",
-        "n": "Panadol Junior zetpillen 125 mg, 10 stuks",
-        "l": "panadol-junior-zetpillen-125-mg-10-stuks-426652PAK",
-        "p": 4.89,
-        "s": ""
-    },
-    {
-        "id": "126",
-        "n": "Fairtrade Original Rietsuikerklontjes 126 Stuks 500g",
-        "l": "fairtrade-original-rietsuikerklontjes-126-stuks-500g-17527DS",
-        "p": 2.96,
-        "s": "500 g"
-    },
-    {
         "id": "135",
         "n": "Pets Unlimited delidrink kip (135 ml)",
         "l": "pets-unlimited-delidrink-kip-135-ml-520520STK",
         "p": 0.98,
         "s": ""
-    },
-    {
-        "id": "1200",
-        "n": "Jumbo Zoetjes 1200 Stuks",
-        "l": "jumbo-zoetjes-1200-stuks-459896STK",
-        "p": 0.99,
-        "s": "72 g"
     },
     {
         "id": "13554STK",
@@ -997,7 +927,7 @@
         "id": "136030PAK",
         "n": "Jumbo Multifruit Mild Sap 1, 5L",
         "l": "jumbo-multifruit-mild-sap-1,5l-136030PAK",
-        "p": 2.09,
+        "p": 1.79,
         "s": "1,5 L"
     },
     {
@@ -1020,13 +950,6 @@
         "l": "nairn-s-glutenvrij-originele-volkorencrackers-137g-472616DS",
         "p": 2.66,
         "s": "137 g"
-    },
-    {
-        "id": "138",
-        "n": "HEMA Tafelkleed 138 x 220cm",
-        "l": "hema-tafelkleed-138-x-220cm-482232STK",
-        "p": 5.25,
-        "s": ""
     },
     {
         "id": "138392BAK",
@@ -1078,11 +1001,11 @@
         "s": "13 g"
     },
     {
-        "id": "140",
-        "n": "Tempo XXL Light tissuebox 140 Stuks",
-        "l": "tempo-xxl-light-tissuebox-140-stuks-445092DS",
-        "p": 3.3,
-        "s": "261 g"
+        "id": "14",
+        "n": "Yogi & Yousef's Vers Dadels 14 Stuks",
+        "l": "yogi-yousef-s-vers-dadels-14-stuks-443146DS",
+        "p": 2.49,
+        "s": "14 stuks"
     },
     {
         "id": "1400g",
@@ -1197,13 +1120,6 @@
         "s": "143 g"
     },
     {
-        "id": "144",
-        "n": "Pampers Aqua Pure Babydoekjes  6 x 144 = 864 Babydoekjes",
-        "l": "pampers-aqua-pure-babydoekjes-6-x-144-864-babydoekjes-459656DSL",
-        "p": 40.92,
-        "s": ""
-    },
-    {
         "id": "144098FLS",
         "n": "Sun d'Or Siroop Framboos 1 Liter",
         "l": "sun-d-or-siroop-framboos-1-liter-144098FLS",
@@ -1216,13 +1132,6 @@
         "l": "penotti-wafelreep-144g-510257PAK",
         "p": 2.43,
         "s": "144 g"
-    },
-    {
-        "id": "145",
-        "n": "John West tonijnstukken in zonnebloemolie MSC 145 gram",
-        "l": "john-west-tonijnstukken-in-zonnebloemolie-msc-145-gram-367318DS",
-        "p": 2.99,
-        "s": "145 g"
     },
     {
         "id": "145781STK",
@@ -1309,13 +1218,6 @@
         "s": "14 g"
     },
     {
-        "id": "14kg",
-        "n": "Pampers Premium Protection Maat 4, Luiers x23, 9kg-14kg",
-        "l": "pampers-premium-protection-maat-4-luiers-x23,9kg-14kg-482314STK",
-        "p": 12.86,
-        "s": ""
-    },
-    {
         "id": "14mg",
         "n": "Nicotinell Pleister TTS20, helpt je te stoppen met roken 14mg, 7stuks",
         "l": "nicotinell-pleister-tts20-helpt-je-te-stoppen-met-roken-14mg-7stuks-476114DS",
@@ -1323,11 +1225,11 @@
         "s": ""
     },
     {
-        "id": "150",
-        "n": "Werther's Original Roomsnoepjes Soft Caramel Zak, 150 gram",
-        "l": "werther-s-original-roomsnoepjes-soft-caramel-zak-150-gram-303922ZK",
-        "p": 1.73,
-        "s": "150 g"
+        "id": "15",
+        "n": "Yakult Plus 15-pack",
+        "l": "yakult-plus-15-pack-202806STK",
+        "p": 6.99,
+        "s": "15 x 65 ml"
     },
     {
         "id": "1500g",
@@ -1386,18 +1288,18 @@
         "s": "30 ml"
     },
     {
-        "id": "152909STK",
-        "n": "Nestl\u00e9 Crunch witte chocolade reep",
-        "l": "nestle-crunch-witte-chocolade-reep-152909STK",
-        "p": 1.38,
-        "s": "100 g"
-    },
-    {
         "id": "152g",
         "n": "Maredsous Dubbelroom Romig 8 Stuks 152g",
         "l": "maredsous-dubbelroom-romig-8-stuks-152g-441088KP",
         "p": 2.7,
         "s": "152 g"
+    },
+    {
+        "id": "153063DS",
+        "n": "Jumbo Honden Kauwsticks Denta 4 stuks",
+        "l": "jumbo-honden-kauwsticks-denta-4-stuks-153063DS",
+        "p": 3.59,
+        "s": "4 x 180 g"
     },
     {
         "id": "153454DS",
@@ -1687,11 +1589,11 @@
         "s": ""
     },
     {
-        "id": "160",
-        "n": "Verkade Mini Nizza Kokos 160 g e",
-        "l": "verkade-mini-nizza-kokos-160-g-e-431208PAK",
-        "p": 1.97,
-        "s": "160 g"
+        "id": "16",
+        "n": "Zed Candy Sour Flavour Jawbreaker 16 Stuks 132g",
+        "l": "zed-candy-sour-flavour-jawbreaker-16-stuks-132g-349843STK",
+        "p": 0.94,
+        "s": "132 g"
     },
     {
         "id": "160376PAK",
@@ -1876,13 +1778,6 @@
         "s": "2 Stuks"
     },
     {
-        "id": "165",
-        "n": "Metro Professional Houten mes 165 mm - 100 Stuks",
-        "l": "metro-professional-houten-mes-165-mm-100-stuks-478548DS",
-        "p": 5.43,
-        "s": "100 stuks"
-    },
-    {
         "id": "165349STK",
         "n": "Jumbo Rode Grapefruit 3 Stuks",
         "l": "jumbo-rode-grapefruit-3-stuks-165349STK",
@@ -2030,13 +1925,6 @@
         "s": "168 g"
     },
     {
-        "id": "169",
-        "n": "Fruittella Lange Jan Uitdeel snoep SnoepmixZak 169 gram",
-        "l": "fruittella-lange-jan-uitdeel-snoep-snoepmixzak-169-gram-379156ZK",
-        "p": 2.23,
-        "s": "169 g"
-    },
-    {
         "id": "169337PAK",
         "n": "Jumbo Vulkoeken 6 stuks",
         "l": "jumbo-vulkoeken-6-stuks-169337PAK",
@@ -2072,13 +1960,6 @@
         "s": "16 g"
     },
     {
-        "id": "16kg",
-        "n": "Pampers Premium Protection Maat 5, Luiers x19, 11kg-16kg",
-        "l": "pampers-premium-protection-maat-5-luiers-x19,11kg-16kg-482315STK",
-        "p": 10.88,
-        "s": ""
-    },
-    {
         "id": "16x",
         "n": "Dreft Platinum Plus All In One Vaatwastabletten Anti-dofheidstechnologie 16X",
         "l": "dreft-platinum-plus-all-in-one-vaatwastabletten-anti-dofheidstechnologie-16x-528649ZK",
@@ -2086,11 +1967,11 @@
         "s": ""
     },
     {
-        "id": "170",
-        "n": "John West wilde roze zalm zonder vel en graat MSC 170 gram",
-        "l": "john-west-wilde-roze-zalm-zonder-vel-en-graat-msc-170-gram-305325BLK",
-        "p": 7.22,
-        "s": "170 g"
+        "id": "17",
+        "n": "Persil Universal Megaperls Wasmiddel - 17 Wasbeurten",
+        "l": "persil-universal-megaperls-wasmiddel-17-wasbeurten-428736ZK",
+        "p": 8.9,
+        "s": "1.02 kg"
     },
     {
         "id": "170165ZK",
@@ -2122,9 +2003,9 @@
     },
     {
         "id": "170g",
-        "n": "Zuivelhoeve Boer'n yoghurt\u00ae honing & muesli 170g",
-        "l": "zuivelhoeve-boer-n-yoghurt-honing-muesli-170g-478233CUP",
-        "p": 1.97,
+        "n": "Zuivelhoeve Boer'n yoghurt\u00ae Naturel & Muesli 170g",
+        "l": "zuivelhoeve-boer-n-yoghurt-naturel-muesli-170g-478209CUP",
+        "p": 1.93,
         "s": "170 g"
     },
     {
@@ -2173,7 +2054,7 @@
         "id": "172079PAK",
         "n": "Campina vanille vla 1, 5L",
         "l": "campina-vanille-vla-1,5l-172079PAK",
-        "p": 2.35,
+        "p": 2.69,
         "s": "1,5 liter"
     },
     {
@@ -2205,13 +2086,6 @@
         "s": "172 g"
     },
     {
-        "id": "173",
-        "n": "Rummo Lasagne All'Uovo N\u00b0 173 500g",
-        "l": "rummo-lasagne-all-uovo-n-173-500g-492831DS",
-        "p": 2.59,
-        "s": "500 g"
-    },
-    {
         "id": "173151PAK",
         "n": "Jumbo Roze Koeken 6 Stuks",
         "l": "jumbo-roze-koeken-6-stuks-173151PAK",
@@ -2238,13 +2112,6 @@
         "l": "cornet-oaked-sterk-blond-speciaal-bier-fles-174917DS",
         "p": 7.42,
         "s": "4 x 330 ML"
-    },
-    {
-        "id": "175",
-        "n": "Werther's Original Klassieke Roomsnoepjes Zak, 175 gram",
-        "l": "werther-s-original-klassieke-roomsnoepjes-zak-175-gram-500076ZK",
-        "p": 1.73,
-        "s": "175 g"
     },
     {
         "id": "175725BLK",
@@ -2338,6 +2205,13 @@
         "s": "38,6 g"
     },
     {
+        "id": "177856STK",
+        "n": "Excilor Kalknagel behandeling kwastje",
+        "l": "excilor-kalknagel-behandeling-kwastje-177856STK",
+        "p": 22.79,
+        "s": ""
+    },
+    {
         "id": "177889STK",
         "n": "Microlax Oplossing (laxeermiddel), 4 stuks",
         "l": "microlax-oplossing-laxeermiddel-4-stuks-177889STK",
@@ -2371,6 +2245,83 @@
         "l": "xylifresh-white-menthol-ice-sugar-free-gum-3-x-17g-182116STK",
         "p": 3.46,
         "s": "3 x 17 g"
+    },
+    {
+        "id": "18",
+        "n": "Tommee Tippee Sangenic Creche Cassette 18 pack",
+        "l": "tommee-tippee-sangenic-creche-cassette-18-pack-436665STK",
+        "p": 108.84,
+        "s": ""
+    },
+    {
+        "id": "138",
+        "n": "HEMA Tafelkleed 138 x 220cm",
+        "l": "hema-tafelkleed-138-x-220cm-482232STK",
+        "p": 5.25,
+        "s": ""
+    },
+    {
+        "id": "140",
+        "n": "Tempo XXL Light tissuebox 140 Stuks",
+        "l": "tempo-xxl-light-tissuebox-140-stuks-445092DS",
+        "p": 3.3,
+        "s": "261 g"
+    },
+    {
+        "id": "145",
+        "n": "John West tonijnstukken in zonnebloemolie MSC 145 gram",
+        "l": "john-west-tonijnstukken-in-zonnebloemolie-msc-145-gram-367318DS",
+        "p": 2.99,
+        "s": "145 g"
+    },
+    {
+        "id": "150",
+        "n": "Werther's Original Roomsnoepjes Soft Caramel Zak, 150 gram",
+        "l": "werther-s-original-roomsnoepjes-soft-caramel-zak-150-gram-303922ZK",
+        "p": 1.73,
+        "s": "150 g"
+    },
+    {
+        "id": "160",
+        "n": "Verkade Mini Nizza Kokos 160 g e",
+        "l": "verkade-mini-nizza-kokos-160-g-e-431208PAK",
+        "p": 1.97,
+        "s": "160 g"
+    },
+    {
+        "id": "165",
+        "n": "Metro Professional Houten mes 165 mm - 100 Stuks",
+        "l": "metro-professional-houten-mes-165-mm-100-stuks-478548DS",
+        "p": 5.43,
+        "s": "100 stuks"
+    },
+    {
+        "id": "169",
+        "n": "Fruittella Lange Jan Uitdeel snoep SnoepmixZak 169 gram",
+        "l": "fruittella-lange-jan-uitdeel-snoep-snoepmixzak-169-gram-379156ZK",
+        "p": 2.23,
+        "s": "169 g"
+    },
+    {
+        "id": "170",
+        "n": "John West wilde roze zalm zonder vel en graat MSC 170 gram",
+        "l": "john-west-wilde-roze-zalm-zonder-vel-en-graat-msc-170-gram-305325BLK",
+        "p": 7.22,
+        "s": "170 g"
+    },
+    {
+        "id": "173",
+        "n": "Rummo Lasagne All'Uovo N\u00b0 173 500g",
+        "l": "rummo-lasagne-all-uovo-n-173-500g-492831DS",
+        "p": 2.59,
+        "s": "500 g"
+    },
+    {
+        "id": "175",
+        "n": "Werther's Original Klassieke Roomsnoepjes Zak, 175 gram",
+        "l": "werther-s-original-klassieke-roomsnoepjes-zak-175-gram-500076ZK",
+        "p": 1.73,
+        "s": "175 g"
     },
     {
         "id": "180",
@@ -2420,20 +2371,6 @@
         "l": "natterman-voor-alle-hoest-kindersiroop-180ml-179063STK",
         "p": 13.89,
         "s": ""
-    },
-    {
-        "id": "181012PAK",
-        "n": "La Trappe Trappist Blond",
-        "l": "la-trappe-trappist-blond-181012PAK",
-        "p": 7.91,
-        "s": "6 x 30 cl"
-    },
-    {
-        "id": "181851FLS",
-        "n": "Hooghoudt Limonade Siroop Citroen 0, 7L",
-        "l": "hooghoudt-limonade-siroop-citroen-0,7l-181851FLS",
-        "p": 2.89,
-        "s": "0,7 L."
     },
     {
         "id": "181852FLS",
@@ -2555,13 +2492,6 @@
         "s": "275 g"
     },
     {
-        "id": "185549STK",
-        "n": "Jumbo Roomboter Cakejes 8 Stuks",
-        "l": "jumbo-roomboter-cakejes-8-stuks-185549STK",
-        "p": 2.05,
-        "s": "320 g"
-    },
-    {
         "id": "185550STK",
         "n": "Jumbo Caisse Cakejes Vanille 6 Stuks",
         "l": "jumbo-caisse-cakejes-vanille-6-stuks-185550STK",
@@ -2574,6 +2504,13 @@
         "l": "jumbo-caisse-cakejes-chocolade-6-stuks-185551STK",
         "p": 3.39,
         "s": "240 g"
+    },
+    {
+        "id": "185586PAK",
+        "n": "Jumbo Mini Crackers Naturel 8 x 5 Stuks",
+        "l": "jumbo-mini-crackers-naturel-8-x-5-stuks-185586PAK",
+        "p": 1.29,
+        "s": "250 g"
     },
     {
         "id": "185954STK",
@@ -2814,6 +2751,13 @@
         "s": "2 x 18 ml"
     },
     {
+        "id": "19",
+        "n": "Stimorol Max Splash kauwgom Strawberry Lime Suikervrij 3 x 19, 8g",
+        "l": "stimorol-max-splash-kauwgom-strawberry-lime-suikervrij-3-x-19,8g-545748PAK",
+        "p": 2.96,
+        "s": "3 x 19.8 g"
+    },
+    {
         "id": "190",
         "n": "Klene Zeezout Waterwerken Zoute Drop Zak 190 gram",
         "l": "klene-zeezout-waterwerken-zoute-drop-zak-190-gram-454943ZK",
@@ -3024,6 +2968,13 @@
         "s": ""
     },
     {
+        "id": "197058DS",
+        "n": "Jumbo Kippenbouillon 8 Stuks",
+        "l": "jumbo-kippenbouillon-8-stuks-197058DS",
+        "p": 0.45,
+        "s": "80 g"
+    },
+    {
         "id": "197135DS",
         "n": "Jumbo Groentebouillon 8 Stuks",
         "l": "jumbo-groentebouillon-8-stuks-197135DS",
@@ -3078,6 +3029,13 @@
         "l": "pepsi-max-lemon-flavour-0,33l-197675BLK",
         "p": 0.64,
         "s": "0,33 L"
+    },
+    {
+        "id": "197703DS",
+        "n": "Jumbo Oven Rundvlees Kroketten 4 Stuks",
+        "l": "jumbo-oven-rundvlees-kroketten-4-stuks-197703DS",
+        "p": 2.75,
+        "s": "320 g"
     },
     {
         "id": "197g",
@@ -3167,7 +3125,7 @@
         "id": "1g",
         "n": "Jumbo Vanillestokje 1g",
         "l": "jumbo-vanillestokje-1g-397989STK",
-        "p": 3.33,
+        "p": 3.39,
         "s": "1 g"
     },
     {
@@ -3227,10 +3185,17 @@
         "s": "80 stuks"
     },
     {
+        "id": "20",
+        "n": "Zwitsal Vochtige Washandjes Goedemorgen 20 Stuks",
+        "l": "zwitsal-vochtige-washandjes-goedemorgen-20-stuks-75183PAK",
+        "p": 4.25,
+        "s": "20 stuks"
+    },
+    {
         "id": "200",
         "n": "Van Gilse Suikersticks 200 x 5g",
         "l": "van-gilse-suikersticks-200-x-5g-445447DS",
-        "p": 3.37,
+        "p": 4.68,
         "s": "1 Kg"
     },
     {
@@ -3281,6 +3246,13 @@
         "l": "magnum-ijs-mini-classic-almond-white-200033DS",
         "p": 6.78,
         "s": "442 g"
+    },
+    {
+        "id": "2000g",
+        "n": "Metro Chef Noten Borrel Mix 2000g",
+        "l": "metro-chef-noten-borrel-mix-2000g-445501EM",
+        "p": 13.29,
+        "s": "2000 g"
     },
     {
         "id": "200847FLS",
@@ -3395,13 +3367,6 @@
         "s": "250 g"
     },
     {
-        "id": "203",
-        "n": "Fruittella Mini Uitdeel snoep Snoepmix Zak 203 gram",
-        "l": "fruittella-mini-uitdeel-snoep-snoepmix-zak-203-gram-379053ZK",
-        "p": 2.27,
-        "s": "203 g"
-    },
-    {
         "id": "2016",
         "n": "Verbandtrommel BHV Norm 2016",
         "l": "verbandtrommel-bhv-norm-2016-449259STK",
@@ -3491,6 +3456,13 @@
         "l": "jumbo-creme-brulee-202g-535632CUP",
         "p": 1.79,
         "s": "202 g"
+    },
+    {
+        "id": "203",
+        "n": "Fruittella Mini Uitdeel snoep Snoepmix Zak 203 gram",
+        "l": "fruittella-mini-uitdeel-snoep-snoepmix-zak-203-gram-379053ZK",
+        "p": 2.27,
+        "s": "203 g"
     },
     {
         "id": "203072PAK",
@@ -3692,7 +3664,7 @@
         "id": "206421STK",
         "n": "Campina yoghurt mager 1, 5L",
         "l": "campina-yoghurt-mager-1,5l-206421STK",
-        "p": 2.19,
+        "p": 2.39,
         "s": "1,5 Liter"
     },
     {
@@ -3825,8 +3797,15 @@
         "id": "20x",
         "n": "Lay's Chips Paprika 20x 40gr",
         "l": "lay-s-chips-paprika-20x-40gr-446936DS",
-        "p": 9.36,
+        "p": 11.76,
         "s": "20 x 40 g"
+    },
+    {
+        "id": "21",
+        "n": "Unox Cup-a-Soup Tomaten Cr\u00e8me 21 x 175ml",
+        "l": "unox-cup-a-soup-tomaten-creme-21-x-175ml-446942PAK",
+        "p": 11.44,
+        "s": "21 x 18 g"
     },
     {
         "id": "210085STK",
@@ -3948,6 +3927,13 @@
         "s": ""
     },
     {
+        "id": "214870STK",
+        "n": "Vliegenmepper vierkant gekleurd assorti",
+        "l": "vliegenmepper-vierkant-gekleurd-assorti-214870STK",
+        "p": 0.99,
+        "s": ""
+    },
+    {
         "id": "215",
         "n": "Look O Look Top Mix Uitdeel snoep Zak 215 gram",
         "l": "look-o-look-top-mix-uitdeel-snoep-zak-215-gram-100713ZK",
@@ -4060,13 +4046,6 @@
         "s": "1,5 L"
     },
     {
-        "id": "217593STK",
-        "n": "Jumbo Roze Koeken 6 Stuks",
-        "l": "jumbo-roze-koeken-6-stuks-217593STK",
-        "p": 1.59,
-        "s": "330 g"
-    },
-    {
         "id": "218",
         "n": "Flemmings\u00ae Hotdog American Style 2 Stuks 218, 5g",
         "l": "flemmings-hotdog-american-style-2-stuks-218,5g-487045TRA",
@@ -4107,6 +4086,13 @@
         "l": "tork-gevouwen-papieren-handdoekjes-21x2856-stuks-h2-120288-445563DS",
         "p": 74.04,
         "s": "21 stuks"
+    },
+    {
+        "id": "22",
+        "n": "Pampers Harmonie Maat 3, 22 Luiers, 6kg-10kg",
+        "l": "pampers-harmonie-maat-3-22-luiers-6kg-10kg-390746ZK",
+        "p": 12.86,
+        "s": ""
     },
     {
         "id": "220",
@@ -4721,7 +4707,7 @@
         "id": "240",
         "n": "Van Oordt Fruitbeleg Aardbei 240 x 15g",
         "l": "van-oordt-fruitbeleg-aardbei-240-x-15g-445660DS",
-        "p": 34.32,
+        "p": 36.94,
         "s": "240 x 15 g"
     },
     {
@@ -4868,7 +4854,7 @@
         "id": "24x500ml",
         "n": "Spa IntensBruisend Natuurlijk Mineraalwate 24x500ML",
         "l": "spa-intensbruisend-natuurlijk-mineraalwate-24x500ml-554062TRA",
-        "p": 15.25,
+        "p": 19.18,
         "s": "24 x 50 cl"
     },
     {
@@ -5236,13 +5222,6 @@
         "s": "18 g"
     },
     {
-        "id": "274253STK",
-        "n": "Whiskas Sticks - Kip - Kattensnack - 3 Stuks",
-        "l": "whiskas-sticks-kip-kattensnack-3-stuks-274253STK",
-        "p": 1.15,
-        "s": "18 g"
-    },
-    {
         "id": "275g",
         "n": "Venco Zwartwitjes Drop 275g",
         "l": "venco-zwartwitjes-drop-275g-433668ZK",
@@ -5345,6 +5324,13 @@
         "n": "Pets Unlimited Chewy Bone eend (medium), 2 stuks",
         "l": "pets-unlimited-chewy-bone-eend-medium-2-stuks-283313STK",
         "p": 2.69,
+        "s": ""
+    },
+    {
+        "id": "283554STK",
+        "n": "Jumbo Kip Siam Pakket",
+        "l": "jumbo-kip-siam-pakket-283554STK",
+        "p": 1.75,
         "s": ""
     },
     {
@@ -5524,9 +5510,9 @@
     },
     {
         "id": "290g",
-        "n": "Sebahat Tahin Sesambrei 290g",
-        "l": "sebahat-tahin-sesambrei-290g-535537POT",
-        "p": 3.19,
+        "n": "Tapas Geroosterde Hele Paprika's 290g",
+        "l": "tapas-geroosterde-hele-paprika-s-290g-551740POT",
+        "p": 1.95,
         "s": "290 g"
     },
     {
@@ -5652,7 +5638,7 @@
         "id": "296",
         "n": "Miniatures Mix 296 Stuks 3000g",
         "l": "miniatures-mix-296-stuks-3000g-462688STK",
-        "p": 36.61,
+        "p": 37.05,
         "s": "3000 g"
     },
     {
@@ -5731,13 +5717,6 @@
         "l": "jumbo-diepvries-italiaanse-bollen-4-stuks-297614ZK",
         "p": 3.16,
         "s": "540 gram"
-    },
-    {
-        "id": "297868PAK",
-        "n": "Alpro Haver-Amandeldrink Houdbaar 1 Liter",
-        "l": "alpro-haver-amandeldrink-houdbaar-1-liter-297868PAK",
-        "p": 3.16,
-        "s": "1 L"
     },
     {
         "id": "29g",
@@ -5862,7 +5841,7 @@
         "id": "300",
         "n": "Rioba Koffiemelk 300 x 7, 5g",
         "l": "rioba-koffiemelk-300-x-7,5g-445465DS",
-        "p": 13.49,
+        "p": 14.05,
         "s": "300 x 7,5 g"
     },
     {
@@ -6450,7 +6429,7 @@
         "id": "306034ZK",
         "n": "Jumbo Friszoet & Sappig Elstar Voordeel 1, 5kg",
         "l": "jumbo-friszoet-sappig-elstar-voordeel-1,5kg-306034ZK",
-        "p": 2.69,
+        "p": 2.55,
         "s": "1.5 KILO"
     },
     {
@@ -6854,8 +6833,8 @@
     },
     {
         "id": "324gr",
-        "n": "Quaker Oats Express Naturel 324gr",
-        "l": "quaker-oats-express-naturel-324gr-120904KST",
+        "n": "Quaker Oats Express Naturel Havermout 324gr",
+        "l": "quaker-oats-express-naturel-havermout-324gr-120904KST",
         "p": 2.56,
         "s": "324 Gram"
     },
@@ -6863,7 +6842,7 @@
         "id": "325",
         "n": "Hero Jam Minder Zoet Aardbeien 325 g pot",
         "l": "hero-jam-minder-zoet-aardbeien-325-g-pot-513021POT",
-        "p": 2.89,
+        "p": 2.86,
         "s": "325 g"
     },
     {
@@ -7007,13 +6986,6 @@
         "s": "330 ml"
     },
     {
-        "id": "333g",
-        "n": "Snickers Mini's Chocolade uitdeelzak 333g",
-        "l": "snickers-mini-s-chocolade-uitdeelzak-333g-509021ZK",
-        "p": 2.69,
-        "s": "333 g"
-    },
-    {
         "id": "335g",
         "n": "Red Band Winegummix XL Snoep 335g",
         "l": "red-band-winegummix-xl-snoep-335g-544347ZK",
@@ -7119,6 +7091,13 @@
         "s": "1,5 L"
     },
     {
+        "id": "339710PAK",
+        "n": "Pedigree Rodeo Duo - Kip & Bacon - Hondensnacks - 7 stuks",
+        "l": "pedigree-rodeo-duo-kip-bacon-hondensnacks-7-stuks-339710PAK",
+        "p": 2.07,
+        "s": "123 g"
+    },
+    {
         "id": "33cl",
         "n": "Westmalle Trappist Dubbel Flessen 4 x 33cl",
         "l": "westmalle-trappist-dubbel-flessen-4-x-33cl-412077PAK",
@@ -7129,7 +7108,7 @@
         "id": "33cm",
         "n": "ARO Servetten 33cm 500 Stuks",
         "l": "aro-servetten-33cm-500-stuks-552179DS",
-        "p": 3.29,
+        "p": 3.93,
         "s": "500 g"
     },
     {
@@ -7171,7 +7150,7 @@
         "id": "340432STK",
         "n": "Jumbo No Bake Cheesecake met Philadelphia",
         "l": "jumbo-no-bake-cheesecake-met-philadelphia-340432STK",
-        "p": 11.47,
+        "p": 11.67,
         "s": ""
     },
     {
@@ -7346,7 +7325,7 @@
         "id": "349793STK",
         "n": "Jumbo Toiletpapier en Keukenrollen",
         "l": "jumbo-toiletpapier-en-keukenrollen-349793STK",
-        "p": 9.97,
+        "p": 6.59,
         "s": ""
     },
     {
@@ -7374,13 +7353,20 @@
         "id": "35",
         "n": "Wecare Reep Caramel Nougat Flavour 35 g Wikkel",
         "l": "wecare-reep-caramel-nougat-flavour-35-g-wikkel-469697PAK",
-        "p": 1.8,
+        "p": 1.95,
         "s": "35 g"
     },
     {
+        "id": "350",
+        "n": "Hero Fruitspread Zwarte Kersen 350 g pot",
+        "l": "hero-fruitspread-zwarte-kersen-350-g-pot-513016POT",
+        "p": 2.96,
+        "s": "350 g"
+    },
+    {
         "id": "350198STK",
-        "n": "Jumbo Engelse Scones met Rozijnen 6 Stuks",
-        "l": "jumbo-engelse-scones-met-rozijnen-6-stuks-350198STK",
+        "n": "Jumbo - Scones met Rozijnen - 6 Stuks",
+        "l": "jumbo-scones-met-rozijnen-6-stuks-350198STK",
         "p": 2.99,
         "s": "6 stuks"
     },
@@ -7413,18 +7399,18 @@
         "s": "350 ml"
     },
     {
-        "id": "351197PAK",
-        "n": "NUTS melk chocolade karamel hazelnoot 5-pack",
-        "l": "nuts-melk-chocolade-karamel-hazelnoot-5-pack-351197PAK",
-        "p": 2.66,
-        "s": "5 x 30 g"
-    },
-    {
         "id": "351199PAK",
         "n": "KITKAT Chunky White 4-pack",
         "l": "kitkat-chunky-white-4-pack-351199PAK",
         "p": 2.56,
         "s": "40 g"
+    },
+    {
+        "id": "351672STK",
+        "n": "Jumbo Snackgroente",
+        "l": "jumbo-snackgroente-351672STK",
+        "p": 8.67,
+        "s": ""
     },
     {
         "id": "351705STK",
@@ -7591,7 +7577,7 @@
         "id": "355149STK",
         "n": "Robijn Wasmiddel en Wasverzachter - Kleur",
         "l": "robijn-wasmiddel-en-wasverzachter-kleur-355149STK",
-        "p": 11.6,
+        "p": 23.47,
         "s": ""
     },
     {
@@ -7796,6 +7782,13 @@
         "l": "strepsils-sinaasappel-vitamine-c-36-zuigtabletten-471641STK",
         "p": 9.4,
         "s": "36 zuigtabletten"
+    },
+    {
+        "id": "360",
+        "n": "Nuby Wondercup 360- 300ml",
+        "l": "nuby-wondercup-360-300ml-356950STK",
+        "p": 10.99,
+        "s": ""
     },
     {
         "id": "360161STK",
@@ -8099,20 +8092,6 @@
         "s": "302 Gram"
     },
     {
-        "id": "350",
-        "n": "Hero Fruitspread Zwarte Kersen 350 g pot",
-        "l": "hero-fruitspread-zwarte-kersen-350-g-pot-513016POT",
-        "p": 3.39,
-        "s": "350 g"
-    },
-    {
-        "id": "360",
-        "n": "Nuby Wondercup 360- 300ml",
-        "l": "nuby-wondercup-360-300ml-356950STK",
-        "p": 10.99,
-        "s": ""
-    },
-    {
         "id": "370117PAK",
         "n": "Jumbo Green Ice Tea Raspberry & Pomegranate 1, 5L",
         "l": "jumbo-green-ice-tea-raspberry-pomegranate-1,5l-370117PAK",
@@ -8239,6 +8218,13 @@
         "s": ""
     },
     {
+        "id": "375023STK",
+        "n": "Jumbo Komkommer en Snacktomaatjes",
+        "l": "jumbo-komkommer-en-snacktomaatjes-375023STK",
+        "p": 3.38,
+        "s": ""
+    },
+    {
         "id": "375966DS",
         "n": "Consenza Glutenvrije Kip Loempia's 2 Stuks",
         "l": "consenza-glutenvrije-kip-loempia-s-2-stuks-375966DS",
@@ -8326,7 +8312,7 @@
         "id": "377578POT",
         "n": "Hero Appelstroop Minder Zoet",
         "l": "hero-appelstroop-minder-zoet-377578POT",
-        "p": 3.29,
+        "p": 3.16,
         "s": "380 g"
     },
     {
@@ -8813,13 +8799,6 @@
         "s": ""
     },
     {
-        "id": "384662DS",
-        "n": "CHOCLAIT CHIPS melk chocolade",
-        "l": "choclait-chips-melk-chocolade-384662DS",
-        "p": 2.27,
-        "s": "115 g"
-    },
-    {
         "id": "384957STK",
         "n": "Jumbo Mango XXL",
         "l": "jumbo-mango-xxl-384957STK",
@@ -8967,6 +8946,27 @@
         "s": ""
     },
     {
+        "id": "387736STK",
+        "n": "HEMA Geurkaars Spice",
+        "l": "hema-geurkaars-spice-387736STK",
+        "p": 4,
+        "s": ""
+    },
+    {
+        "id": "387737STK",
+        "n": "HEMA Geurkaars Linen",
+        "l": "hema-geurkaars-linen-387737STK",
+        "p": 4,
+        "s": ""
+    },
+    {
+        "id": "387738STK",
+        "n": "HEMA Geurkaars Blossom",
+        "l": "hema-geurkaars-blossom-387738STK",
+        "p": 4,
+        "s": ""
+    },
+    {
         "id": "387739STK",
         "n": "HEMA Geurkaars Dawn in Glazen Pot",
         "l": "hema-geurkaars-dawn-in-glazen-pot-387739STK",
@@ -9061,7 +9061,7 @@
         "id": "38ml",
         "n": "Dr. Oetker Vanille Aroma 38ml",
         "l": "dr-oetker-vanille-aroma-38ml-142108FLS",
-        "p": 1.25,
+        "p": 1.28,
         "s": "38 ml"
     },
     {
@@ -9089,14 +9089,14 @@
         "id": "390g",
         "n": "Sch\u00e4r Pizza Veggie Glutenvrij 390g",
         "l": "schar-pizza-veggie-glutenvrij-390g-342216DS",
-        "p": 3.79,
+        "p": 3.99,
         "s": "390 g"
     },
     {
         "id": "390ml",
         "n": "Aardappel Anders Tuinkruiden - Knoflook 390ML",
         "l": "aardappel-anders-tuinkruiden-knoflook-390ml-170147POT",
-        "p": 2.89,
+        "p": 2.99,
         "s": "390 ml"
     },
     {
@@ -9154,6 +9154,13 @@
         "l": "pets-unlimited-natvoeding-hond-kip-395-gram-532989TRA",
         "p": 2.49,
         "s": ""
+    },
+    {
+        "id": "395g",
+        "n": "Jumbo Vegan Tempeh Naturel 395g",
+        "l": "jumbo-vegan-tempeh-naturel-395g-387045BAK",
+        "p": 2.38,
+        "s": "395 g"
     },
     {
         "id": "395gr",
@@ -9236,7 +9243,7 @@
         "id": "3g",
         "n": "Jumbo Chili aan stuk Gedroogd 3g",
         "l": "jumbo-chili-aan-stuk-gedroogd-3g-182383STK",
-        "p": 1.39,
+        "p": 1.49,
         "s": "3 g"
     },
     {
@@ -9261,17 +9268,10 @@
         "s": "3 L"
     },
     {
-        "id": "3m",
-        "n": "Folat Papieren Hartjes Slinger 1 Stuk 3m",
-        "l": "folat-papieren-hartjes-slinger-1-stuk-3m-552373ZK",
-        "p": 1.49,
-        "s": "3 m"
-    },
-    {
         "id": "3st",
-        "n": "Sorbo Multi Hygienic Cloth 3st",
-        "l": "sorbo-multi-hygienic-cloth-3st-529965STK",
-        "p": 3.15,
+        "n": "Trio Sticks Medium 3St",
+        "l": "trio-sticks-medium-3st-226732STK",
+        "p": 2.27,
         "s": ""
     },
     {
@@ -9448,6 +9448,13 @@
         "l": "hema-champagneglazen-herbruikbaar-4-stuks-405693ZK",
         "p": 3.5,
         "s": "4 stuks"
+    },
+    {
+        "id": "405g",
+        "n": "Jumbo Brokken in Saus met Zalm & Kabeljauw 405g",
+        "l": "jumbo-brokken-in-saus-met-zalm-kabeljauw-405g-449919BLK",
+        "p": 0.79,
+        "s": "405 g"
     },
     {
         "id": "406100STK",
@@ -9684,7 +9691,7 @@
         "id": "411397STK",
         "n": "MonChou Taart met HAK Taart & Vlaaifruit en Bastogne",
         "l": "monchou-taart-met-hak-taart-vlaaifruit-en-bastogne-411397STK",
-        "p": 8.58,
+        "p": 12.07,
         "s": ""
     },
     {
@@ -9842,10 +9849,24 @@
         "s": "350 g"
     },
     {
+        "id": "417065DS",
+        "n": "Venus Comfortglide Breeze Navulmesjes x4",
+        "l": "venus-comfortglide-breeze-navulmesjes-x4-417065DS",
+        "p": 18.99,
+        "s": ""
+    },
+    {
         "id": "417068DS",
         "n": "Venus Swirl Navulmesjes Voor Vrouwen X3",
         "l": "venus-swirl-navulmesjes-voor-vrouwen-x3-417068DS",
         "p": 18.49,
+        "s": ""
+    },
+    {
+        "id": "417508STK",
+        "n": "Gillette ProGlide Navulmesjes Voor Scheersysteem Voor Mannen, 3 Stuks",
+        "l": "gillette-proglide-navulmesjes-voor-scheersysteem-voor-mannen-3-stuks-417508STK",
+        "p": 19.79,
         "s": ""
     },
     {
@@ -9989,20 +10010,6 @@
         "s": "3 stuks"
     },
     {
-        "id": "420150ZK",
-        "n": "Bros Mini melk chocolade uitdeelzak",
-        "l": "bros-mini-melk-chocolade-uitdeelzak-420150ZK",
-        "p": 2.93,
-        "s": "208 g"
-    },
-    {
-        "id": "420152ZK",
-        "n": "LION Mini melk chocolade uitdeelzak",
-        "l": "lion-mini-melk-chocolade-uitdeelzak-420152ZK",
-        "p": 3.26,
-        "s": "15 x 18 g"
-    },
-    {
         "id": "420501",
         "n": "Tork Milde Vloeibare Zeep Premium S1 1 L navulling - 420501",
         "l": "tork-milde-vloeibare-zeep-premium-s1-1-l-navulling-420501-446995FLS",
@@ -10057,27 +10064,6 @@
         "l": "nescafe-gold-ice-cappuccino-oploskoffie-6-x-7-zakjes-420905DS",
         "p": 3.36,
         "s": "7 x 15,5 g"
-    },
-    {
-        "id": "420940DS",
-        "n": "Pickwick Herbal Super Blends Immunity Kruidenthee",
-        "l": "pickwick-herbal-super-blends-immunity-kruidenthee-420940DS",
-        "p": 2.07,
-        "s": "15 x 1,5 g"
-    },
-    {
-        "id": "420941DS",
-        "n": "Pickwick Herbal Super Blends Energy Kruidenthee",
-        "l": "pickwick-herbal-super-blends-energy-kruidenthee-420941DS",
-        "p": 2.07,
-        "s": "15 x 1,5 g"
-    },
-    {
-        "id": "420942DS",
-        "n": "Pickwick Herbal Super Blends Shine Kruidenthee",
-        "l": "pickwick-herbal-super-blends-shine-kruidenthee-420942DS",
-        "p": 2.07,
-        "s": "15 x 1,5 g"
     },
     {
         "id": "420943DS",
@@ -10279,7 +10265,7 @@
         "id": "424544STK",
         "n": "Campina Vlaflip, Vla Framboos en Chocoladevla",
         "l": "campina-vlaflip-vla-framboos-en-chocoladevla-424544STK",
-        "p": 6.43,
+        "p": 6.45,
         "s": ""
     },
     {
@@ -10433,7 +10419,7 @@
         "id": "426687STK",
         "n": "Borrel Pakket Chips & Borrelnootjes",
         "l": "borrel-pakket-chips-borrelnootjes-426687STK",
-        "p": 6.86,
+        "p": 6.79,
         "s": ""
     },
     {
@@ -10510,7 +10496,7 @@
         "id": "426g",
         "n": "Jumbo Steenoven Gebakken Pizza Margherita 426g",
         "l": "jumbo-steenoven-gebakken-pizza-margherita-426g-375661DS",
-        "p": 4.09,
+        "p": 4.49,
         "s": "426 g"
     },
     {
@@ -10850,6 +10836,13 @@
         "s": "1.5 L"
     },
     {
+        "id": "428591BLK",
+        "n": "Taksi Tintel Tropisch Fruit 0, 25L",
+        "l": "taksi-tintel-tropisch-fruit-0,25l-428591BLK",
+        "p": 0.65,
+        "s": "0,25 L"
+    },
+    {
         "id": "428592PAK",
         "n": "Taksi Sinaasappel 0, 2L",
         "l": "taksi-sinaasappel-0,2l-428592PAK",
@@ -10944,7 +10937,7 @@
         "id": "429064PAK",
         "n": "Tempo Natural & Soft 8 x 9 zakdoekjes",
         "l": "tempo-natural-soft-8-x-9-zakdoekjes-429064PAK",
-        "p": 2.49,
+        "p": 2.47,
         "s": "179 g"
     },
     {
@@ -11371,7 +11364,7 @@
         "id": "430g",
         "n": "Weetabix 430g",
         "l": "weetabix-430g-514567STK",
-        "p": 3.95,
+        "p": 4.29,
         "s": "430 g"
     },
     {
@@ -11543,13 +11536,6 @@
         "s": "1.5 kg"
     },
     {
-        "id": "432705PAK",
-        "n": "La Trappe Witte Trappist",
-        "l": "la-trappe-witte-trappist-432705PAK",
-        "p": 6.79,
-        "s": "4 x 33 cl"
-    },
-    {
         "id": "432796FLS",
         "n": "Raak Gazeuse Campagnepils 0, 75L",
         "l": "raak-gazeuse-campagnepils-0,75l-432796FLS",
@@ -11581,7 +11567,7 @@
         "id": "433610STK",
         "n": "Jumbo Kroketten, Frikandellen en Kaassoufl\u00e9s",
         "l": "jumbo-kroketten-frikandellen-en-kaassoufles-433610STK",
-        "p": 5.18,
+        "p": 7.93,
         "s": ""
     },
     {
@@ -11959,7 +11945,7 @@
         "id": "441094STK",
         "n": "Douwe Egberts Snelfilterkoffie Rood met Koffiemelk",
         "l": "douwe-egberts-snelfilterkoffie-rood-met-koffiemelk-441094STK",
-        "p": 6.91,
+        "p": 9.07,
         "s": ""
     },
     {
@@ -12183,7 +12169,7 @@
         "id": "441717STK",
         "n": "Jumbo Mini Tompoucen, Chocolade- & Slagroomsoesjes",
         "l": "jumbo-mini-tompoucen-chocolade-slagroomsoesjes-441717STK",
-        "p": 6.62,
+        "p": 6.42,
         "s": ""
     },
     {
@@ -12211,7 +12197,7 @@
         "id": "441736STK",
         "n": "Piccolini Salami en Tomaat-Mozzarella 2 x 9 stuks",
         "l": "piccolini-salami-en-tomaat-mozzarella-2-x-9-stuks-441736STK",
-        "p": 4.84,
+        "p": 6.52,
         "s": ""
     },
     {
@@ -12253,7 +12239,7 @@
         "id": "442788STK",
         "n": "Duyvis Borrelnootjes Provencale en Cocktail",
         "l": "duyvis-borrelnootjes-provencale-en-cocktail-442788STK",
-        "p": 4.95,
+        "p": 4.88,
         "s": ""
     },
     {
@@ -12386,21 +12372,21 @@
         "id": "445422STK",
         "n": "Aro Keukenpapier 1 Laags 6 Rollen",
         "l": "aro-keukenpapier-1-laags-6-rollen-445422STK",
-        "p": 26.29,
+        "p": 31.81,
         "s": "6 rollen"
     },
     {
         "id": "445446DS",
         "n": "Rioba Biscuits Premium Chocolate Mix 1, 061kg",
         "l": "rioba-biscuits-premium-chocolate-mix-1,061kg-445446DS",
-        "p": 15.09,
+        "p": 16.45,
         "s": "1061 g"
     },
     {
         "id": "445470BAK",
         "n": "Metro Chef Noten Party Mix 2, 5kg",
         "l": "metro-chef-noten-party-mix-2,5kg-445470BAK",
-        "p": 17.59,
+        "p": 19.17,
         "s": "2500 g"
     },
     {
@@ -12414,7 +12400,7 @@
         "id": "445519DS",
         "n": "Pane Panini Tonno 5 Stuks",
         "l": "pane-panini-tonno-5-stuks-445519DS",
-        "p": 9.99,
+        "p": 10.89,
         "s": "5 stuks"
     },
     {
@@ -12428,21 +12414,21 @@
         "id": "445528EM",
         "n": "Metro Chef Notenmelange 2, 5kg",
         "l": "metro-chef-notenmelange-2,5kg-445528EM",
-        "p": 31.6,
+        "p": 32.69,
         "s": "2500 g"
     },
     {
         "id": "445546DS",
         "n": "Pane Panini Polo Caldo 5 Stuks",
         "l": "pane-panini-polo-caldo-5-stuks-445546DS",
-        "p": 9.99,
+        "p": 10.89,
         "s": "5 stuks"
     },
     {
         "id": "445553DS",
         "n": "Pane Panini Kip Sat\u00e9 5 Stuks",
         "l": "pane-panini-kip-sate-5-stuks-445553DS",
-        "p": 9.99,
+        "p": 10.89,
         "s": "5 stuks"
     },
     {
@@ -12617,7 +12603,7 @@
         "id": "446994PAK",
         "n": "Douwe Egberts Cafitesse Strong Roast 1,25L",
         "l": "douwe-egberts-cafitesse-strong-roast-1,25l-446994PAK",
-        "p": 47.95,
+        "p": 48.06,
         "s": "2 x 2 L"
     },
     {
@@ -12631,28 +12617,28 @@
         "id": "447008DS",
         "n": "Rioba Biscuits Premium Mix 1, 016kg",
         "l": "rioba-biscuits-premium-mix-1,016kg-447008DS",
-        "p": 10.49,
+        "p": 11.43,
         "s": "1016 g"
     },
     {
         "id": "447060PAK",
         "n": "L'OR Professional Promesso Coffee Solution Milc 1, 4L",
         "l": "l-or-professional-promesso-coffee-solution-milc-1,4l-447060PAK",
-        "p": 12.96,
+        "p": 14.05,
         "s": "1,4 L"
     },
     {
         "id": "447111DS",
         "n": "Rioba Biscuits Caf\u00e9 Noir 1, 2kg",
         "l": "rioba-biscuits-cafe-noir-1,2kg-447111DS",
-        "p": 11.98,
+        "p": 13.07,
         "s": "1200 g"
     },
     {
         "id": "447112DS",
         "n": "Rioba Biscuits Vanilla 1, 2kg",
         "l": "rioba-biscuits-vanilla-1,2kg-447112DS",
-        "p": 7.73,
+        "p": 8.71,
         "s": "1200 g"
     },
     {
@@ -12852,6 +12838,13 @@
         "s": "74 stuks"
     },
     {
+        "id": "450432ZK",
+        "n": "Page Compleet Schoon Vochtig Toiletpapier Maxi",
+        "l": "page-compleet-schoon-vochtig-toiletpapier-maxi-450432ZK",
+        "p": 2.96,
+        "s": "74 stuks"
+    },
+    {
         "id": "450561FLS",
         "n": "Pure Plus Alo\u00eb Vera Original 1, 5L",
         "l": "pure-plus-aloe-vera-original-1,5l-450561FLS",
@@ -12892,13 +12885,6 @@
         "l": "wartner-wrattenverwijderaar-bevriezingsmethode-451893STK",
         "p": 24.69,
         "s": ""
-    },
-    {
-        "id": "452211DS",
-        "n": "WildWestLand Plantaardige kruidenroomkaas Garlic & Herb Affair",
-        "l": "wildwestland-plantaardige-kruidenroomkaas-garlic-herb-affair-452211DS",
-        "p": 2.52,
-        "s": "125 g"
     },
     {
         "id": "452774STK",
@@ -12983,6 +12969,13 @@
         "l": "jumbo-wegwerp-scheermesjes-5-stuks-454244STK",
         "p": 3.32,
         "s": "5 stuks"
+    },
+    {
+        "id": "454691STK",
+        "n": "Optimel Drinkyoghurt Smaakvariatie \u2013 Aardbei, Framboos, Mango-passievrucht 4,5L",
+        "l": "optimel-drinkyoghurt-smaakvariatie-aardbei-framboos-mango-passievrucht-4,5l-454691STK",
+        "p": 7.87,
+        "s": ""
     },
     {
         "id": "454947ZK",
@@ -13244,13 +13237,6 @@
         "s": "1 stuk"
     },
     {
-        "id": "459656ZK",
-        "n": "Pampers Aqua Pure Babydoekjes x144",
-        "l": "pampers-aqua-pure-babydoekjes-x144-459656ZK",
-        "p": 6.82,
-        "s": ""
-    },
-    {
         "id": "459710ZK",
         "n": "Pampers Sensitive Babydoekjes x156",
         "l": "pampers-sensitive-babydoekjes-x156-459710ZK",
@@ -13368,6 +13354,13 @@
         "l": "gpurmet-perle-kattenvoer-land-duo-462789ZK",
         "p": 2.99,
         "s": "4 x 85 g"
+    },
+    {
+        "id": "463473TRA",
+        "n": "Kraakman Roomboter Chocolade Gangmakers 4 Stuks",
+        "l": "kraakman-roomboter-chocolade-gangmakers-4-stuks-463473TRA",
+        "p": 2.99,
+        "s": "4 stuks"
     },
     {
         "id": "463665STK",
@@ -13552,13 +13545,6 @@
         "s": "6 x 11 g"
     },
     {
-        "id": "469830ZK",
-        "n": "Smarties Melk chocolade paaseitjes",
-        "l": "smarties-melk-chocolade-paaseitjes-469830ZK",
-        "p": 1.97,
-        "s": "81 g"
-    },
-    {
         "id": "46g",
         "n": "Verstegen Nootmuskaat met Molen 46g",
         "l": "verstegen-nootmuskaat-met-molen-46g-143114STK",
@@ -13581,8 +13567,8 @@
     },
     {
         "id": "470257TRA",
-        "n": "Pink Lady Appels Schaal 8 Stuks",
-        "l": "pink-lady-appels-schaal-8-stuks-470257TRA",
+        "n": "Pink Lady Kids Schaal 8 Stuks",
+        "l": "pink-lady-kids-schaal-8-stuks-470257TRA",
         "p": 3.29,
         "s": "900 g"
     },
@@ -13685,11 +13671,11 @@
         "s": "2 stuks"
     },
     {
-        "id": "473253",
-        "n": "Tork Poetspapier 1-Laags - 3 Rollen - M3 473253",
-        "l": "tork-poetspapier-1-laags-3-rollen-m3-473253-447092STK",
-        "p": 36.89,
-        "s": "3 rollen"
+        "id": "473261BOX",
+        "n": "Kleenex Balsam Tissues",
+        "l": "kleenex-balsam-tissues-473261BOX",
+        "p": 2.27,
+        "s": "64 stuks"
     },
     {
         "id": "473262BOX",
@@ -13727,13 +13713,6 @@
         "s": ""
     },
     {
-        "id": "475",
-        "n": "Tork Vloeibare Zeep Mild Mini S2 475 ml Navulling - 420502",
-        "l": "tork-vloeibare-zeep-mild-mini-s2-475-ml-navulling-420502-447167FLS",
-        "p": 9.38,
-        "s": "475 ml"
-    },
-    {
         "id": "475081DS",
         "n": "Clairivo Zwangerschapstest, 2 stuks",
         "l": "clairivo-zwangerschapstest-2-stuks-475081DS",
@@ -13746,13 +13725,6 @@
         "l": "clairivo-early-zwangerschapstest-2-stuks-475082DS",
         "p": 9.49,
         "s": ""
-    },
-    {
-        "id": "475992DS",
-        "n": "PyjamaPapje\u00ae Banaan 6+ baby pap",
-        "l": "pyjamapapje-banaan-6-baby-pap-475992DS",
-        "p": 2.56,
-        "s": "3 x 250 ml"
     },
     {
         "id": "475993DS",
@@ -13930,13 +13902,6 @@
         "s": "880 g"
     },
     {
-        "id": "478651PAK",
-        "n": "Nestl\u00e9 Crunch melk chocolade reep",
-        "l": "nestle-crunch-melk-chocolade-reep-478651PAK",
-        "p": 1.38,
-        "s": "100 g"
-    },
-    {
         "id": "478978CUP",
         "n": "Johma Tonijnsalade XL MSC",
         "l": "johma-tonijnsalade-xl-msc-478978CUP",
@@ -14035,6 +14000,20 @@
         "s": ""
     },
     {
+        "id": "475",
+        "n": "Tork Vloeibare Zeep Mild Mini S2 475 ml Navulling - 420502",
+        "l": "tork-vloeibare-zeep-mild-mini-s2-475-ml-navulling-420502-447167FLS",
+        "p": 9.38,
+        "s": "475 ml"
+    },
+    {
+        "id": "473253",
+        "n": "Tork Poetspapier 1-Laags - 3 Rollen - M3 473253",
+        "l": "tork-poetspapier-1-laags-3-rollen-m3-473253-447092STK",
+        "p": 36.89,
+        "s": "3 rollen"
+    },
+    {
         "id": "480001PAK",
         "n": "Always Discreet Boutique Verband Voor Urineverlies x8",
         "l": "always-discreet-boutique-verband-voor-urineverlies-x8-480001PAK",
@@ -14119,13 +14098,6 @@
         "s": "0,5 liter"
     },
     {
-        "id": "481813DS",
-        "n": "PyjamaPapje\u00ae Aardbei 6+ baby pap",
-        "l": "pyjamapapje-aardbei-6-baby-pap-481813DS",
-        "p": 1.77,
-        "s": "2 x 250 ml"
-    },
-    {
         "id": "482171STK",
         "n": "HEMA Uitdeelcadeautjes 8 Stuks",
         "l": "hema-uitdeelcadeautjes-8-stuks-482171STK",
@@ -14166,13 +14138,6 @@
         "l": "hema-duurzame-rvs-rietjes-4-stuks-482298STK",
         "p": 4.6,
         "s": "4 stuks"
-    },
-    {
-        "id": "482316STK",
-        "n": "Pampers Premium Protection Maat 6, Luiers x18, 13kg+",
-        "l": "pampers-premium-protection-maat-6-luiers-x18,13kg-482316STK",
-        "p": 12.86,
-        "s": ""
     },
     {
         "id": "482369DS",
@@ -14388,7 +14353,7 @@
         "id": "483718DS",
         "n": "Elite Sweet Moments 1, 22kg",
         "l": "elite-sweet-moments-1,22kg-483718DS",
-        "p": 18.52,
+        "p": 19.61,
         "s": ""
     },
     {
@@ -14481,13 +14446,6 @@
         "l": "sunspark-schaal-4-stuks-484995SC",
         "p": 2.99,
         "s": "4 stuks"
-    },
-    {
-        "id": "485141PAK",
-        "n": "Jumbo Keukenpapier Extra Sterk & Absorberend 3 Lagen 4 Rollen",
-        "l": "jumbo-keukenpapier-extra-sterk-absorberend-3-lagen-4-rollen-485141PAK",
-        "p": 3.38,
-        "s": "4 rollen"
     },
     {
         "id": "485187DS",
@@ -14910,13 +14868,6 @@
         "s": "260 g"
     },
     {
-        "id": "492228ZK",
-        "n": "MAGGI Ovenschotel Spinazie Room",
-        "l": "maggi-ovenschotel-spinazie-room-492228ZK",
-        "p": 1.38,
-        "s": "51 g"
-    },
-    {
         "id": "492260STK",
         "n": "Morato Piadina Romagnola IGP alla Riminese 4 Stuks",
         "l": "morato-piadina-romagnola-igp-alla-riminese-4-stuks-492260STK",
@@ -14999,6 +14950,13 @@
         "l": "arizona-mandarin-orange-green-tea-1,5l-494098PAK",
         "p": 2.27,
         "s": "1,5 L"
+    },
+    {
+        "id": "494144FLS",
+        "n": "SPA INTENSE Bruisend Natuurlijk Mineraalwater 1,5L",
+        "l": "spa-intense-bruisend-natuurlijk-mineraalwater-1,5l-494144FLS",
+        "p": 1.26,
+        "s": "1.5 l"
     },
     {
         "id": "494319DS",
@@ -15104,6 +15062,13 @@
         "l": "jumbo-king-size-vlees-procureur-1,1kg-497086ZK",
         "p": 11.89,
         "s": "1100 g"
+    },
+    {
+        "id": "497666PAK",
+        "n": "Arla Lactofree Halfvolle Melk Lactosevrij 1, 5L",
+        "l": "arla-lactofree-halfvolle-melk-lactosevrij-1,5l-497666PAK",
+        "p": 3.06,
+        "s": "1,5 L"
     },
     {
         "id": "498041PAK",
@@ -15214,7 +15179,7 @@
         "id": "498384PAK",
         "n": "DubbelFrisss Appel & Zwarte Bessen 1, 5L",
         "l": "dubbelfrisss-appel-zwarte-bessen-1,5l-498384PAK",
-        "p": 2.35,
+        "p": 2.33,
         "s": "1,5 L"
     },
     {
@@ -15425,6 +15390,27 @@
         "n": "Wapenaer Roem Oud Kaas 50+ ca. 300g",
         "l": "wapenaer-roem-oud-kaas-50-ca-300g-193130KGR",
         "p": 6.9,
+        "s": ""
+    },
+    {
+        "id": "495",
+        "n": "Witte Reus Waspoeder 4.95 kg - 90 Wasbeurten",
+        "l": "witte-reus-waspoeder-495-kg-90-wasbeurten-395284DS",
+        "p": 43.25,
+        "s": "4.95 kg"
+    },
+    {
+        "id": "496",
+        "n": "Remia Franse Mosterd 496 x 4g",
+        "l": "remia-franse-mosterd-496-x-4g-552223DS",
+        "p": 21.35,
+        "s": "496 x 4 g"
+    },
+    {
+        "id": "500",
+        "n": "Zapp filmomhulde tabletten 500 mg, 20 stuks",
+        "l": "zapp-filmomhulde-tabletten-500-mg-20-stuks-496512STK",
+        "p": 3.59,
         "s": ""
     },
     {
@@ -15785,25 +15771,18 @@
         "s": "15 x 1,75 g"
     },
     {
-        "id": "507477DS",
-        "n": "Pickwick Ginger Goodness Orange Kruidenthee",
-        "l": "pickwick-ginger-goodness-orange-kruidenthee-507477DS",
-        "p": 1.87,
-        "s": "15 x 1,75 g"
-    },
-    {
-        "id": "507478DS",
-        "n": "Pickwick Ginger Goodness Lemon Kruidenthee",
-        "l": "pickwick-ginger-goodness-lemon-kruidenthee-507478DS",
-        "p": 1.87,
-        "s": "15 x 1,75 g"
-    },
-    {
         "id": "507751BLS",
         "n": "Colgate ZigZag Tandenborstel",
         "l": "colgate-zigzag-tandenborstel-507751BLS",
         "p": 2.96,
         "s": "1 ea"
+    },
+    {
+        "id": "508",
+        "n": "Fruittella Mix of Mini's Uitdeel snoep Snoepmix Zak 508 gram",
+        "l": "fruittella-mix-of-mini-s-uitdeel-snoep-snoepmix-zak-508-gram-185917STK",
+        "p": 4.15,
+        "s": "508 g"
     },
     {
         "id": "508152STK",
@@ -16415,6 +16394,13 @@
         "s": "1420 g"
     },
     {
+        "id": "518177STK",
+        "n": "Geschenktasje",
+        "l": "geschenktasje-518177STK",
+        "p": 1.49,
+        "s": ""
+    },
+    {
         "id": "518347DS",
         "n": "Jumbo Disco IJslollies Vanille- Aardbei- en Chocoladesmaak 8 Stuks",
         "l": "jumbo-disco-ijslollies-vanille-aardbei-en-chocoladesmaak-8-stuks-518347DS",
@@ -16770,20 +16756,6 @@
         "l": "wijko-satesaus-kant-en-klaar-520g-480501BAK",
         "p": 3.49,
         "s": "520 G"
-    },
-    {
-        "id": "521250PAK",
-        "n": "Pampers Premium Protection Maat 6, Luiers x72",
-        "l": "pampers-premium-protection-maat-6-luiers-x72-521250PAK",
-        "p": 41.99,
-        "s": ""
-    },
-    {
-        "id": "521251PAK",
-        "n": "Pampers Premium Protection Maat 5, Luiers x76",
-        "l": "pampers-premium-protection-maat-5-luiers-x76-521251PAK",
-        "p": 41.99,
-        "s": ""
     },
     {
         "id": "521252PAK",
@@ -17350,7 +17322,7 @@
         "n": "Appelsientje Kids Appel 6 x 0, 2L",
         "l": "appelsientje-kids-appel-6-x-0,2l-530172PAK",
         "p": 2.72,
-        "s": "200 ml"
+        "s": "6 x 200 ml"
     },
     {
         "id": "530176STK",
@@ -17568,34 +17540,6 @@
         "l": "west-red-l-special-cut-54,5g-442058BUS",
         "p": 14,
         "s": ""
-    },
-    {
-        "id": "495",
-        "n": "Witte Reus Waspoeder 4.95 kg - 90 Wasbeurten",
-        "l": "witte-reus-waspoeder-495-kg-90-wasbeurten-395284DS",
-        "p": 43.25,
-        "s": "4.95 kg"
-    },
-    {
-        "id": "496",
-        "n": "Remia Franse Mosterd 496 x 4g",
-        "l": "remia-franse-mosterd-496-x-4g-552223DS",
-        "p": 19.61,
-        "s": "496 x 4 g"
-    },
-    {
-        "id": "500",
-        "n": "Zapp filmomhulde tabletten 500 mg, 20 stuks",
-        "l": "zapp-filmomhulde-tabletten-500-mg-20-stuks-496512STK",
-        "p": 3.59,
-        "s": ""
-    },
-    {
-        "id": "508",
-        "n": "Fruittella Mix of Mini's Uitdeel snoep Snoepmix Zak 508 gram",
-        "l": "fruittella-mix-of-mini-s-uitdeel-snoep-snoepmix-zak-508-gram-185917STK",
-        "p": 4.15,
-        "s": "508 g"
     },
     {
         "id": "540372ZK",
@@ -17990,13 +17934,6 @@
         "s": ""
     },
     {
-        "id": "547701PAK",
-        "n": "Sultana Fruitbiscuit Appel Smaak 4 x 3 Stuks",
-        "l": "sultana-fruitbiscuit-appel-smaak-4-x-3-stuks-547701PAK",
-        "p": 1.89,
-        "s": "175 g"
-    },
-    {
         "id": "547702PAK",
         "n": "Sultana FruitBiscuit Appel Smaak Voordeelpak Promopack 7 x 3 Stuks",
         "l": "sultana-fruitbiscuit-appel-smaak-voordeelpak-promopack-7-x-3-stuks-547702PAK",
@@ -18004,15 +17941,8 @@
         "s": "306 g"
     },
     {
-        "id": "547704PAK",
-        "n": "Sultana Fruitbiscuit Bosvruchten Smaak 4 x 3 Stuks",
-        "l": "sultana-fruitbiscuit-bosvruchten-smaak-4-x-3-stuks-547704PAK",
-        "p": 1.87,
-        "s": "175 g"
-    },
-    {
         "id": "547705PAK",
-        "n": "Sultana Peer & Kaneel Smaak Fruitbiscuit 4 x 3 Stuks",
+        "n": "Sultana FruitBiscuits Peer\/Kaneel 175g",
         "l": "sultana-peer-kaneel-smaak-fruitbiscuit-4-x-3-stuks-547705PAK",
         "p": 1.89,
         "s": "175 g"
@@ -18026,7 +17956,7 @@
     },
     {
         "id": "547708PAK",
-        "n": "Sultana Crunchers Kaas & Tomaat Smaak 4 x 3 Stuks",
+        "n": "Sultana Crunchers Kaas & Tomaat Smaak 4 x 3 Stuks 140g",
         "l": "sultana-crunchers-kaas-tomaat-smaak-4-x-3-stuks-547708PAK",
         "p": 1.89,
         "s": "140 g"
@@ -18040,7 +17970,7 @@
     },
     {
         "id": "547731DS",
-        "n": "Sultana Yofruit Aardbei-Smaak 4 x 2 Stuks",
+        "n": "Sultana YoFruit Aardbei 143g",
         "l": "sultana-yofruit-aardbei-smaak-4-x-2-stuks-547731DS",
         "p": 1.87,
         "s": "143 g"
@@ -18065,6 +17995,13 @@
         "l": "kuhn-rikon-mini-diepvriesbakjes-0,05-l-4-stuks-547886STK",
         "p": 7.99,
         "s": "4 stuks"
+    },
+    {
+        "id": "547887STK",
+        "n": "Kuhn Rikon Drinkfles",
+        "l": "kuhn-rikon-drinkfles-547887STK",
+        "p": 8.99,
+        "s": ""
     },
     {
         "id": "547890STK",
@@ -18110,7 +18047,7 @@
     },
     {
         "id": "548000PAK",
-        "n": "Sultana Knapperige Biscuit Kokos 4 x 3 Stuks",
+        "n": "Sultana Knapperige Biscuit Kokos 4 x 3 Stuks 166g",
         "l": "sultana-knapperige-biscuit-kokos-4-x-3-stuks-548000PAK",
         "p": 1.59,
         "s": "166 g"
@@ -18138,10 +18075,10 @@
     },
     {
         "id": "548009STK",
-        "n": "Jumbo - Appel-kruimeltaart - 2 Punten",
+        "n": "Jumbo - Appelkruimelvlaai - Punten 2 Stuks",
         "l": "jumbo-appel-kruimeltaart-2-punten-548009STK",
         "p": 2.89,
-        "s": "210 g"
+        "s": "2 stuks"
     },
     {
         "id": "548010STK",
@@ -18152,7 +18089,7 @@
     },
     {
         "id": "548011STK",
-        "n": "Jumbo - Appel-kruimelvlaai - Half",
+        "n": "Jumbo - Appelkruimelvlaai - Half",
         "l": "jumbo-appel-kruimelvlaai-half-548011STK",
         "p": 4.99,
         "s": ""
@@ -18173,8 +18110,8 @@
     },
     {
         "id": "548017STK",
-        "n": "Jumbo - Roomboter-Kruimelvlaai - Half",
-        "l": "jumbo-roomboter-kruimelvlaai-half-548017STK",
+        "n": "Jumbo - Kruimelvlaai - Half",
+        "l": "jumbo-kruimelvlaai-half-548017STK",
         "p": 4.99,
         "s": ""
     },
@@ -18263,6 +18200,13 @@
         "s": ""
     },
     {
+        "id": "548428DS",
+        "n": "Jumbo Vezelreep Haver & Rood Fruit 3 Stuks",
+        "l": "jumbo-vezelreep-haver-rood-fruit-3-stuks-548428DS",
+        "p": 1.59,
+        "s": "90 g"
+    },
+    {
         "id": "54848DSL",
         "n": "Jumbo Appelsap 8 x 1, 5L",
         "l": "jumbo-appelsap-8-x-1,5l-54848DSL",
@@ -18313,10 +18257,10 @@
     },
     {
         "id": "550815STK",
-        "n": "Geschenktas",
+        "n": "Geschenktasje",
         "l": "geschenktas-550815STK",
         "p": 1.49,
-        "s": "60 g"
+        "s": ""
     },
     {
         "id": "550901BLS",
@@ -18394,13 +18338,6 @@
         "l": "confetti-ballon-hart-552283ZK",
         "p": 2.49,
         "s": "30 g"
-    },
-    {
-        "id": "552284STK",
-        "n": "Hartjes Tiara 1 Stuk",
-        "l": "hartjes-tiara-1-stuk-552284STK",
-        "p": 1.99,
-        "s": "1 stuk"
     },
     {
         "id": "552286DS",
@@ -18523,7 +18460,7 @@
     },
     {
         "id": "559870STK",
-        "n": "&C",
+        "n": "&C Magazine",
         "l": "c-559870STK",
         "p": 4.99,
         "s": "10 g"
@@ -18585,13 +18522,6 @@
         "s": ""
     },
     {
-        "id": "560680TRA",
-        "n": "MINI CAKEJES",
-        "l": "mini-cakejes-560680TRA",
-        "p": 3.65,
-        "s": "250 g"
-    },
-    {
         "id": "560g",
         "n": "Jumbo Hotdog 560g",
         "l": "jumbo-hotdog-560g-340348BLK",
@@ -18651,8 +18581,22 @@
         "id": "562495STK",
         "n": "Paashaaskoffiebroodjes",
         "l": "paashaaskoffiebroodjes-562495STK",
-        "p": 8.95,
+        "p": 9,
         "s": ""
+    },
+    {
+        "id": "563712BOS",
+        "n": "LELIE LA + GROEN",
+        "l": "lelie-la-groen-563712BOS",
+        "p": 3.5,
+        "s": "50 g"
+    },
+    {
+        "id": "563713STK",
+        "n": "TUINHORTENSIA MAND",
+        "l": "tuinhortensia-mand-563713STK",
+        "p": 12.5,
+        "s": "17 g"
     },
     {
         "id": "565g",
@@ -18840,7 +18784,7 @@
         "id": "5kg",
         "n": "Tafelaardappelen Kruimig Voordeel Verpakking 5kg",
         "l": "tafelaardappelen-kruimig-voordeel-verpakking-5kg-79541ZK",
-        "p": 5.49,
+        "p": 4.99,
         "s": "5 kg"
     },
     {
@@ -18928,62 +18872,6 @@
         "s": "600 ml"
     },
     {
-        "id": "62",
-        "n": "Yum Yum Wok Noedels 4 x 62, 5g",
-        "l": "yum-yum-wok-noedels-4-x-62,5g-348238ZK",
-        "p": 1.39,
-        "s": "4 x 62,5 g"
-    },
-    {
-        "id": "63",
-        "n": "Jumbo Waterdoekjes 63 Stuks",
-        "l": "jumbo-waterdoekjes-63-stuks-431624PAK",
-        "p": 1.35,
-        "s": "63 stuks"
-    },
-    {
-        "id": "64",
-        "n": "Ymea Silhouet capsules voedingssuplement, 64 stuks",
-        "l": "ymea-silhouet-capsules-voedingssuplement-64-stuks-420356DS",
-        "p": 24.99,
-        "s": ""
-    },
-    {
-        "id": "65",
-        "n": "Zwitsal Billendoekjes Lotion 2 x 65 stuks",
-        "l": "zwitsal-billendoekjes-lotion-2-x-65-stuks-199785STK",
-        "p": 4.94,
-        "s": "130 stuks"
-    },
-    {
-        "id": "66",
-        "n": "Rummo Penne Rigate Glutenvrij ?66 400g",
-        "l": "rummo-penne-rigate-glutenvrij-66-400g-338581STK",
-        "p": 3.39,
-        "s": "400 g"
-    },
-    {
-        "id": "68",
-        "n": "Finish Power All in 1 Regular Vaatwastabletten - 68 Stuks",
-        "l": "finish-power-all-in-1-regular-vaatwastabletten-68-stuks-486289ZK",
-        "p": 24.89,
-        "s": "1088 g"
-    },
-    {
-        "id": "666",
-        "n": "Duvel 6.66% blond speciaalbier 4 x 33cl",
-        "l": "duvel-666-blond-speciaalbier-4-x-33cl-450265PAK",
-        "p": 8.19,
-        "s": "4 x 330 ml"
-    },
-    {
-        "id": "680",
-        "n": "Rennie Sinaasappelsmaak 680 mg\/80 mg 36 Stuks",
-        "l": "rennie-sinaasappelsmaak-680-mg~80-mg-36-stuks-471639STK",
-        "p": 5.29,
-        "s": "36 kauwtabletten"
-    },
-    {
         "id": "601502",
         "n": "Tork Wiping Paper Plus 2 laags 2 Rollen - M2 601502",
         "l": "tork-wiping-paper-plus-2-laags-2-rollen-m2-601502-445510DS",
@@ -19033,6 +18921,69 @@
         "s": ""
     },
     {
+        "id": "610g",
+        "n": "De Ruijter Hagelslag Puur 610g",
+        "l": "de-ruijter-hagelslag-puur-610g-414762DS",
+        "p": 4.63,
+        "s": "610 g"
+    },
+    {
+        "id": "615g",
+        "n": "Duo Penotti Hazelnoot & Vanille Maxi Potti 615g",
+        "l": "duo-penotti-hazelnoot-vanille-maxi-potti-615g-226066STK",
+        "p": 4.94,
+        "s": "615 g"
+    },
+    {
+        "id": "61g",
+        "n": "Knorr Maaltijdmix Macaroni 61g",
+        "l": "knorr-maaltijdmix-macaroni-61g-439491ZK",
+        "p": 1.28,
+        "s": "61 g"
+    },
+    {
+        "id": "62",
+        "n": "Yum Yum Wok Noedels 4 x 62, 5g",
+        "l": "yum-yum-wok-noedels-4-x-62,5g-348238ZK",
+        "p": 1.39,
+        "s": "4 x 62,5 g"
+    },
+    {
+        "id": "63",
+        "n": "Jumbo Waterdoekjes 63 Stuks",
+        "l": "jumbo-waterdoekjes-63-stuks-431624PAK",
+        "p": 1.35,
+        "s": "63 stuks"
+    },
+    {
+        "id": "64",
+        "n": "Ymea Silhouet capsules voedingssuplement, 64 stuks",
+        "l": "ymea-silhouet-capsules-voedingssuplement-64-stuks-420356DS",
+        "p": 24.99,
+        "s": ""
+    },
+    {
+        "id": "65",
+        "n": "Zwitsal Billendoekjes Lotion 2 x 65 stuks",
+        "l": "zwitsal-billendoekjes-lotion-2-x-65-stuks-199785STK",
+        "p": 4.94,
+        "s": "130 stuks"
+    },
+    {
+        "id": "66",
+        "n": "Rummo Penne Rigate Glutenvrij ?66 400g",
+        "l": "rummo-penne-rigate-glutenvrij-66-400g-338581STK",
+        "p": 3.39,
+        "s": "400 g"
+    },
+    {
+        "id": "666",
+        "n": "Duvel 666 fles 33cl",
+        "l": "duvel-666-fles-33cl-450265FLS",
+        "p": 2.01,
+        "s": "330 ml"
+    },
+    {
         "id": "610133",
         "n": "Tork Poetsrol 1-Laags 3 Rollen - M1 610133",
         "l": "tork-poetsrol-1-laags-3-rollen-m1-610133-446997DS",
@@ -19045,27 +18996,6 @@
         "l": "tork-basic-1-laags-papier-3-rollen-m1-610143-445449DS",
         "p": 19.23,
         "s": "3 rollen"
-    },
-    {
-        "id": "610g",
-        "n": "De Ruijter Hagelslag Puur 610g",
-        "l": "de-ruijter-hagelslag-puur-610g-414762DS",
-        "p": 4.63,
-        "s": "610 g"
-    },
-    {
-        "id": "615g",
-        "n": "Duo Penotti Hazelnoot & Vanille Maxi Potti 615g",
-        "l": "duo-penotti-hazelnoot-vanille-maxi-potti-615g-226066STK",
-        "p": 4.79,
-        "s": "615 g"
-    },
-    {
-        "id": "61g",
-        "n": "Knorr Maaltijdmix Macaroni 61g",
-        "l": "knorr-maaltijdmix-macaroni-61g-439491ZK",
-        "p": 1.28,
-        "s": "61 g"
     },
     {
         "id": "620146",
@@ -19202,10 +19132,10 @@
     },
     {
         "id": "665ml",
-        "n": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Color 665ml",
-        "l": "robijn-klein-krachtig-classics-vloeibaar-wasmiddel-color-665ml-541946FLS",
-        "p": 10.29,
-        "s": "665 ml"
+        "n": "Robijn Klein & Krachtig Classics Vloeibaar Wasmiddel Stralend Wit 665ml",
+        "l": "robijn-klein-krachtig-classics-vloeibaar-wasmiddel-stralend-wit-665ml-542053FLS",
+        "p": 11.38,
+        "s": ""
     },
     {
         "id": "66g",
@@ -19241,6 +19171,20 @@
         "l": "ola-ijs-split-9-x-67ml-519627DS",
         "p": 5.44,
         "s": "522 g"
+    },
+    {
+        "id": "68",
+        "n": "Finish Power All in 1 Regular Vaatwastabletten - 68 Stuks",
+        "l": "finish-power-all-in-1-regular-vaatwastabletten-68-stuks-486289ZK",
+        "p": 24.89,
+        "s": "1088 g"
+    },
+    {
+        "id": "680",
+        "n": "Rennie Sinaasappelsmaak 680 mg\/80 mg 36 Stuks",
+        "l": "rennie-sinaasappelsmaak-680-mg~80-mg-36-stuks-471639STK",
+        "p": 5.29,
+        "s": "36 kauwtabletten"
     },
     {
         "id": "680g",
@@ -19404,6 +19348,13 @@
         "s": "1 LITER"
     },
     {
+        "id": "6x330",
+        "n": "SCHWEP TONIC BLIK 6X330",
+        "l": "schwep-tonic-blik-6x330-308881BLK",
+        "p": 0.94,
+        "s": "330.0 ML"
+    },
+    {
         "id": "6x33cl",
         "n": "Birra Moretti L'Autentica Bier Blik 6x33cl",
         "l": "birra-moretti-l-autentica-bier-blik-6x33cl-414110DS",
@@ -19444,13 +19395,6 @@
         "l": "tony-s-chocolonely-puur-chocolade-reep-70-180g-74870RP",
         "p": 3.36,
         "s": "180 g"
-    },
-    {
-        "id": "700g",
-        "n": "Petti Gezeefde Tomaten 700g",
-        "l": "petti-gezeefde-tomaten-700g-197694FLS",
-        "p": 2.99,
-        "s": "700 g"
     },
     {
         "id": "700ml",
@@ -19517,10 +19461,24 @@
     },
     {
         "id": "71",
-        "n": "SPA REINE Natuurlijk Mineraalwater 7+1 x 1, 5L",
-        "l": "spa-reine-natuurlijk-mineraalwater-71-x-1,5l-437701PAK",
-        "p": 6.93,
-        "s": "8 x 1,5 L"
+        "n": "Hertog Jan Pilsener natuurzuiver Bier Blik 7+1 x 50cl",
+        "l": "hertog-jan-pilsener-natuurzuiver-bier-blik-71-x-50cl-476946PAK",
+        "p": 8.75,
+        "s": "8 x 50 cl"
+    },
+    {
+        "id": "700",
+        "n": "Tork Xpress Handdoekjes Extra Zacht 2-laags 3 x 700 Stuks - H3 600297",
+        "l": "tork-xpress-handdoekjes-extra-zacht-2-laags-3-x-700-stuks-h3-600297-445569DS",
+        "p": 74.44,
+        "s": "2100 stuks"
+    },
+    {
+        "id": "700g",
+        "n": "Petti Gezeefde Tomaten 700g",
+        "l": "petti-gezeefde-tomaten-700g-197694FLS",
+        "p": 2.99,
+        "s": "700 g"
     },
     {
         "id": "710g",
@@ -19626,13 +19584,6 @@
         "l": "jumbo-huishoudhandschoenen-extra-sterk-m-72823STK",
         "p": 3.49,
         "s": ""
-    },
-    {
-        "id": "72840PAK",
-        "n": "Twix chocolade repen 5 x 2 stuks",
-        "l": "twix-chocolade-repen-5-x-2-stuks-72840PAK",
-        "p": 2.53,
-        "s": "10 x 25 g"
     },
     {
         "id": "72857ZK",
@@ -19848,7 +19799,7 @@
         "id": "77",
         "n": "Dr. Oetker Kookpudding Vanille 77, 5g",
         "l": "dr-oetker-kookpudding-vanille-77,5g-514887DS",
-        "p": 0.86,
+        "p": 0.98,
         "s": "77,5 g"
     },
     {
@@ -19867,10 +19818,10 @@
     },
     {
         "id": "78",
-        "n": "Pampers Baby-Dry Maat 6, 78 Luiers, Tot 12 Uur Bescherming, 13kg-18kg",
-        "l": "pampers-baby-dry-maat-6-78-luiers-tot-12-uur-bescherming-13kg-18kg-482787STK",
-        "p": 35.6,
-        "s": ""
+        "n": "Lindt Excellence 78% Cacao Noir Smooth Dark 100g",
+        "l": "lindt-excellence-78-cacao-noir-smooth-dark-100g-392998DS",
+        "p": 2.69,
+        "s": "100 g"
     },
     {
         "id": "780g",
@@ -19981,15 +19932,15 @@
         "id": "80",
         "n": "Van Oordt Frutesse Rinse Appelstroop 80 x 15g",
         "l": "van-oordt-frutesse-rinse-appelstroop-80-x-15g-445596DS",
-        "p": 12.31,
+        "p": 13.07,
         "s": "80 x 15 g"
     },
     {
-        "id": "800g",
-        "n": "Petti Gepelde Tomaten 800g",
-        "l": "petti-gepelde-tomaten-800g-371407BLK",
-        "p": 2.55,
-        "s": "800 g"
+        "id": "800",
+        "n": "Roter Vitamine C kauwtabletten, 800 stuks",
+        "l": "roter-vitamine-c-kauwtabletten-800-stuks-88065STK",
+        "p": 19.79,
+        "s": ""
     },
     {
         "id": "800gr",
@@ -20034,6 +19985,20 @@
         "s": "100 g"
     },
     {
+        "id": "750",
+        "n": "Seepje Wasverzachter Sandelhout en Perzik 750 ml 30 Wasbeurten",
+        "l": "seepje-wasverzachter-sandelhout-en-perzik-750-ml-30-wasbeurten-443863FLS",
+        "p": 4.45,
+        "s": "750 ml"
+    },
+    {
+        "id": "800g",
+        "n": "Whiskas Senior Kattenbrokken Kip doos 800g",
+        "l": "whiskas-senior-kattenbrokken-kip-doos-800g-502943DS",
+        "p": 4.62,
+        "s": "800 g"
+    },
+    {
         "id": "81g",
         "n": "H\u00e4agen-Dazs The Mini Joys Collection ijs 4 x 81g",
         "l": "haagen-dazs-the-mini-joys-collection-ijs-4-x-81g-483169DS",
@@ -20070,10 +20035,10 @@
     },
     {
         "id": "82g",
-        "n": "MAGGI Kippen Bouillon 8 Stuks 82g",
-        "l": "maggi-kippen-bouillon-8-stuks-82g-300851DS",
-        "p": 1.18,
-        "s": "82 g"
+        "n": "G\u00fc Free from Gluten Cheesecakes met Chocolade en Vanille 2 x 82g",
+        "l": "gu-free-from-gluten-cheesecakes-met-chocolade-en-vanille-2-x-82g-529372CUP",
+        "p": 3.99,
+        "s": "2 x 82 g"
     },
     {
         "id": "83334PAK",
@@ -20128,7 +20093,7 @@
         "id": "846g",
         "n": "Elite Selection Relax 846g",
         "l": "elite-selection-relax-846g-483727DS",
-        "p": 15.25,
+        "p": 16.34,
         "s": ""
     },
     {
@@ -20142,7 +20107,7 @@
         "id": "85",
         "n": "Metro Profesional Houten snack- en fritesvork 85 mm - 1000 Stuks",
         "l": "metro-profesional-houten-snack-en-fritesvork-85-mm-1000-stuks-478571DS",
-        "p": 7.49,
+        "p": 9.06,
         "s": "1000 stuks"
     },
     {
@@ -20161,10 +20126,31 @@
     },
     {
         "id": "850ml",
-        "n": "Hertog IJssalon IJs Yoghurt Bosvruchten 850ML",
+        "n": "Hertog IJssalon IJs Yoghurt Bosvruchten 850ml",
         "l": "hertog-ijssalon-ijs-yoghurt-bosvruchten-850ml-555740CUP",
         "p": 5.45,
         "s": "492 g"
+    },
+    {
+        "id": "85gr",
+        "n": "Popworks Sweet Barbecue Chips 85gr",
+        "l": "popworks-sweet-barbecue-chips-85gr-424534ZK",
+        "p": 2.56,
+        "s": "85 Gram"
+    },
+    {
+        "id": "87",
+        "n": "Sch\u00e4r Zwieback Glutenvrij  2 x 87, 5g",
+        "l": "schar-zwieback-glutenvrij-2-x-87,5g-270738STK",
+        "p": 3.95,
+        "s": "2 x 87,5 g"
+    },
+    {
+        "id": "851",
+        "n": "Silan Passie voor Rozen Wasverzachter 851 ml - 37 Wasbeurten",
+        "l": "silan-passie-voor-rozen-wasverzachter-851-ml-37-wasbeurten-496339DS",
+        "p": 4.64,
+        "s": "851 ml"
     },
     {
         "id": "85523STK",
@@ -20181,13 +20167,6 @@
         "s": "4 x 85 g"
     },
     {
-        "id": "85gr",
-        "n": "Popworks Sweet Barbecue Chips 85gr",
-        "l": "popworks-sweet-barbecue-chips-85gr-424534ZK",
-        "p": 2.56,
-        "s": "85 Gram"
-    },
-    {
         "id": "85ml",
         "n": "Magnum IJs Double Gold Caramel Billionaire 4 x 85ml",
         "l": "magnum-ijs-double-gold-caramel-billionaire-4-x-85ml-418475DS",
@@ -20200,41 +20179,6 @@
         "l": "cote-d-or-chocolade-reep-extra-intense-puur-86-100g-73780PAK",
         "p": 2.37,
         "s": "100 g"
-    },
-    {
-        "id": "87",
-        "n": "Sch\u00e4r Zwieback Glutenvrij  2 x 87, 5g",
-        "l": "schar-zwieback-glutenvrij-2-x-87,5g-270738STK",
-        "p": 3.95,
-        "s": "2 x 87,5 g"
-    },
-    {
-        "id": "700",
-        "n": "Tork Xpress Handdoekjes Extra Zacht 2-laags 3 x 700 Stuks - H3 600297",
-        "l": "tork-xpress-handdoekjes-extra-zacht-2-laags-3-x-700-stuks-h3-600297-445569DS",
-        "p": 74.44,
-        "s": "2100 stuks"
-    },
-    {
-        "id": "750",
-        "n": "Seepje Wasverzachter Sandelhout en Perzik 750 ml 30 Wasbeurten",
-        "l": "seepje-wasverzachter-sandelhout-en-perzik-750-ml-30-wasbeurten-443863FLS",
-        "p": 4.45,
-        "s": "750 ml"
-    },
-    {
-        "id": "800",
-        "n": "Roter Vitamine C kauwtabletten, 800 stuks",
-        "l": "roter-vitamine-c-kauwtabletten-800-stuks-88065STK",
-        "p": 19.79,
-        "s": ""
-    },
-    {
-        "id": "851",
-        "n": "Silan Passie voor Rozen Wasverzachter 851 ml - 37 Wasbeurten",
-        "l": "silan-passie-voor-rozen-wasverzachter-851-ml-37-wasbeurten-496339DS",
-        "p": 4.64,
-        "s": "851 ml"
     },
     {
         "id": "864",
@@ -20331,7 +20275,7 @@
         "id": "881g",
         "n": "Elite Happy Koekjesmix 881g",
         "l": "elite-happy-koekjesmix-881g-483725DS",
-        "p": 15.25,
+        "p": 16.34,
         "s": ""
     },
     {
@@ -20440,13 +20384,6 @@
         "s": ""
     },
     {
-        "id": "9000",
-        "n": "Gulden Draak 9000 Quadruple Fles 330ml",
-        "l": "gulden-draak-9000-quadruple-fles-330ml-434416FLS",
-        "p": 1.65,
-        "s": "330 ML"
-    },
-    {
         "id": "900g",
         "n": "Rolnik Griekse Salade 900g",
         "l": "rolnik-griekse-salade-900g-465003POT",
@@ -20538,13 +20475,6 @@
         "s": "1,5 LITER"
     },
     {
-        "id": "9290ml",
-        "n": "Friesche Vlag Goudband pak 9290ml",
-        "l": "friesche-vlag-goudband-pak-9290ml-134599PAK",
-        "p": 3.79,
-        "s": "929 ml"
-    },
-    {
         "id": "929ml",
         "n": "Jumbo Halfvolle Koffiemelk 929ML",
         "l": "jumbo-halfvolle-koffiemelk-929ml-138661PAK",
@@ -20562,8 +20492,15 @@
         "id": "93",
         "n": "Edet Ultra Soft 4-Laags Toiletpapier Wit 9+3 Rollen",
         "l": "edet-ultra-soft-4-laags-toiletpapier-wit-93-rollen-288362STK",
-        "p": 9.18,
+        "p": 8.16,
         "s": "12 rollen"
+    },
+    {
+        "id": "930g",
+        "n": "Hela Kruiden Ketchup Curry Superieur 930g",
+        "l": "hela-kruiden-ketchup-curry-superieur-930g-136031TUB",
+        "p": 4.45,
+        "s": "930 g"
     },
     {
         "id": "935g",
@@ -20587,10 +20524,17 @@
         "s": ""
     },
     {
+        "id": "9000",
+        "n": "Gulden Draak 9000 Quadruple Fles 330ml",
+        "l": "gulden-draak-9000-quadruple-fles-330ml-434416FLS",
+        "p": 1.65,
+        "s": "330 ML"
+    },
+    {
         "id": "943g",
         "n": "Elite Coffee Time Koekjes Assortiment 943g",
         "l": "elite-coffee-time-koekjes-assortiment-943g-300925DS",
-        "p": 15.25,
+        "p": 16.34,
         "s": ""
     },
     {
@@ -20611,7 +20555,7 @@
         "id": "950g",
         "n": "Wilhelmina Verfrissende Pepermunt 950g",
         "l": "wilhelmina-verfrissende-pepermunt-950g-447215STK",
-        "p": 12.1,
+        "p": 9.47,
         "s": "950 g"
     },
     {
@@ -20678,6 +20622,13 @@
         "s": "0.75 L"
     },
     {
+        "id": "980",
+        "n": "Jumbo Wasmiddel Sport Wit & Kleur 980 ml 28 Wasbeurten",
+        "l": "jumbo-wasmiddel-sport-wit-kleur-980-ml-28-wasbeurten-393567STK",
+        "p": 3.79,
+        "s": "980 ml"
+    },
+    {
         "id": "980ml",
         "n": "Jumbo Rice & Cotton Wasmiddel Color 980ml",
         "l": "jumbo-rice-cotton-wasmiddel-color-980ml-200832FLS",
@@ -20686,8 +20637,8 @@
     },
     {
         "id": "98g",
-        "n": "Honig Mix voor Koninginnensoep 98g",
-        "l": "honig-mix-voor-koninginnensoep-98g-521354DS",
+        "n": "Honig Maaltijdmix voor Koninginnensoep 98g",
+        "l": "honig-maaltijdmix-voor-koninginnensoep-98g-521354DS",
         "p": 1.63,
         "s": "98 g"
     },
@@ -20697,13 +20648,6 @@
         "l": "lindt-excellence-99-cacao-50g-158839RP",
         "p": 3.16,
         "s": "50 g"
-    },
-    {
-        "id": "980",
-        "n": "Jumbo Wasmiddel Sport Wit & Kleur 980 ml 28 Wasbeurten",
-        "l": "jumbo-wasmiddel-sport-wit-kleur-980-ml-28-wasbeurten-393567STK",
-        "p": 3.79,
-        "s": "980 ml"
     },
     {
         "id": "99g",
