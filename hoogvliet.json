@@ -1008,13 +1008,6 @@
         "s": "500 gram"
     },
     {
-        "id": "alpro-variatie-op-yoghurt-zonder-suiker",
-        "n": "Alpro Variatie Op Yoghurt Zonder Suiker",
-        "l": "alpro-variatie-op-yoghurt-zonder-suiker",
-        "p": 1.99,
-        "s": "500 gram"
-    },
-    {
         "id": "alter-geniesser-weiss-wein",
         "n": "Alter geniesser Weiss wein",
         "l": "alter-geniesser-weiss-wein",
@@ -1558,13 +1551,6 @@
         "n": "Andr\u00e9lon Shampoo Perfecte Krul",
         "l": "andr-lon-shampoo-perfecte-krul",
         "p": 4.49,
-        "s": "300 milliliter"
-    },
-    {
-        "id": "andr-lon-shampoo-special-kokos-boost",
-        "n": "Andr\u00e9lon Shampoo special kokos boost",
-        "l": "andr-lon-shampoo-special-kokos-boost",
-        "p": 4.99,
         "s": "300 milliliter"
     },
     {
@@ -2170,6 +2156,13 @@
         "s": "1 liter"
     },
     {
+        "id": "arla-biologische-halfvolle-melk1",
+        "n": "Arla Biologische Halfvolle Melk",
+        "l": "arla-biologische-halfvolle-melk1",
+        "p": 2.34,
+        "s": "1.5 liter"
+    },
+    {
         "id": "arla-biologische-halfvolle-milde-yoghurt",
         "n": "Arla Biologische halfvolle milde yoghurt",
         "l": "arla-biologische-halfvolle-milde-yoghurt",
@@ -2245,6 +2238,13 @@
         "l": "arla-lactofree-volle-yoghurt",
         "p": 2.15,
         "s": "1 liter"
+    },
+    {
+        "id": "arla-roomkaas-lactose-vrij",
+        "n": "Arla Roomkaas lactose vrij",
+        "l": "arla-roomkaas-lactose-vrij",
+        "p": 3.51,
+        "s": "200 gram"
     },
     {
         "id": "arla-skyr",
@@ -3477,13 +3477,6 @@
         "l": "ben-amp-jerry-apos-s-classic-ijs-topped-salted",
         "p": 7.73,
         "s": "438 milliliter"
-    },
-    {
-        "id": "ben-amp-jerry-apos-s-cookie-dough1",
-        "n": "Ben & Jerry's Cookie dough",
-        "l": "ben-amp-jerry-apos-s-cookie-dough1",
-        "p": 6.29,
-        "s": "465 milliliter"
     },
     {
         "id": "ben-amp-jerry-apos-s-mini-cup-ijs-chocolate-fudge-brownie",
@@ -4858,13 +4851,6 @@
         "s": "120 gram"
     },
     {
-        "id": "bolletje-oerkn-ck-meergranen1",
-        "n": "Bolletje Oerkn\u00e4ck Meergranen",
-        "l": "bolletje-oerkn-ck-meergranen1",
-        "p": 2.19,
-        "s": "285 gram"
-    },
-    {
         "id": "bolletje-oerkn-ck-robuust-volkoren",
         "n": "Bolletje Oerkn\u00e4ck Robuust Volkoren",
         "l": "bolletje-oerkn-ck-robuust-volkoren",
@@ -5213,6 +5199,13 @@
         "l": "bonb-b-lotion-billendoekjes1",
         "p": 1.09,
         "s": "72 stuks"
+    },
+    {
+        "id": "bonb-b-luierbroekjes-xl-maat-6",
+        "n": "Bonb\u00e9b\u00e9 Luierbroekjes xl maat 6",
+        "l": "bonb-b-luierbroekjes-xl-maat-6",
+        "p": 4.39,
+        "s": "18 stuks"
     },
     {
         "id": "bonb-b-luiers-junior-5",
@@ -6080,13 +6073,6 @@
         "n": "Brinta Wake up banaan",
         "l": "brinta-wake-up-banaan",
         "p": 1.95,
-        "s": "5 stuks"
-    },
-    {
-        "id": "brinta-wake-up-naturel1",
-        "n": "Brinta Wake up naturel",
-        "l": "brinta-wake-up-naturel1",
-        "p": 1.89,
         "s": "5 stuks"
     },
     {
@@ -9030,13 +9016,6 @@
         "s": "1 liter"
     },
     {
-        "id": "coolbest-mango-dream-70-30",
-        "n": "Coolbest Mango dream 70\/30",
-        "l": "coolbest-mango-dream-70-30",
-        "p": 2.59,
-        "s": "1 liter"
-    },
-    {
         "id": "coolbest-mango-dream-voordeelpak",
         "n": "Coolbest Mango dream voordeelpak",
         "l": "coolbest-mango-dream-voordeelpak",
@@ -9422,6 +9401,13 @@
         "s": "500 gram"
     },
     {
+        "id": "daily-chef-foe-yong-hai-bami",
+        "n": "Daily Chef foe yong hai bami",
+        "l": "daily-chef-foe-yong-hai-bami",
+        "p": 4.39,
+        "s": "450 gram"
+    },
+    {
         "id": "daily-chef-foe-yong-hai1",
         "n": "Daily Chef Foe yong hai",
         "l": "daily-chef-foe-yong-hai1",
@@ -9433,6 +9419,13 @@
         "n": "Daily Chef Girasoli gegrilde groenten",
         "l": "daily-chef-girasoli-gegrilde-groenten",
         "p": 2.79,
+        "s": "250 gram"
+    },
+    {
+        "id": "daily-chef-girasoli-met-kaas",
+        "n": "Daily Chef Girasoli met kaas",
+        "l": "daily-chef-girasoli-met-kaas",
+        "p": 2.29,
         "s": "250 gram"
     },
     {
@@ -9856,13 +9849,6 @@
         "s": "450 gram"
     },
     {
-        "id": "danio-romige-kwark-mango-kiwi-banaan",
-        "n": "Danio Romige Kwark Mango Kiwi Banaan",
-        "l": "danio-romige-kwark-mango-kiwi-banaan",
-        "p": 2.15,
-        "s": "450 gram"
-    },
-    {
         "id": "danio-romige-kwark-perzik",
         "n": "Danio Romige Kwark Perzik",
         "l": "danio-romige-kwark-perzik",
@@ -10164,6 +10150,13 @@
         "s": "360 gram"
     },
     {
+        "id": "de-ruijter-bosvruchtenhagel",
+        "n": "De Ruijter Bosvruchtenhagel",
+        "l": "de-ruijter-bosvruchtenhagel",
+        "p": 2.59,
+        "s": "300 gram"
+    },
+    {
         "id": "de-ruijter-chocoladevlokken-melk",
         "n": "De Ruijter Chocoladevlokken melk",
         "l": "de-ruijter-chocoladevlokken-melk",
@@ -10409,6 +10402,13 @@
         "s": "6 stuks"
     },
     {
+        "id": "deliscious-salatrio",
+        "n": "Deliscious Salatrio",
+        "l": "deliscious-salatrio",
+        "p": 1.29,
+        "s": "1 stuk"
+    },
+    {
         "id": "delverde-toast-volkoren",
         "n": "Delverde Toast volkoren",
         "l": "delverde-toast-volkoren",
@@ -10469,6 +10469,13 @@
         "n": "Den Eelder Milde boerenyoghurt",
         "l": "den-eelder-milde-boerenyoghurt",
         "p": 1.81,
+        "s": "1 liter"
+    },
+    {
+        "id": "den-eelder-volle-boerenyoghurt",
+        "n": "Den Eelder Volle boerenyoghurt",
+        "l": "den-eelder-volle-boerenyoghurt",
+        "p": 2,
         "s": "1 liter"
     },
     {
@@ -10798,13 +10805,6 @@
         "n": "Derlon Wegwerpmesje vrouw",
         "l": "derlon-wegwerpmesje-vrouw",
         "p": 0.99,
-        "s": "5 stuks"
-    },
-    {
-        "id": "derlon-wegwerpscheermesjes",
-        "n": "Derlon Wegwerpscheermesjes",
-        "l": "derlon-wegwerpscheermesjes",
-        "p": 1.28,
         "s": "5 stuks"
     },
     {
@@ -13034,13 +13034,6 @@
         "s": "40 stuks"
     },
     {
-        "id": "ehrmann-fruchte-traum-assorti",
-        "n": "Ehrmann Fruchte traum assorti",
-        "l": "ehrmann-fruchte-traum-assorti",
-        "p": 0.69,
-        "s": "115 gram"
-    },
-    {
         "id": "ehrmann-grand-dessert-caf-au-lait",
         "n": "Ehrmann Grand dessert caf\u00e9 au lait",
         "l": "ehrmann-grand-dessert-caf-au-lait",
@@ -13762,9 +13755,9 @@
         "s": "1.5 liter"
     },
     {
-        "id": "fanta-exotic-zero-sugar1",
+        "id": "fanta-exotic-zero-sugar",
         "n": "Fanta Exotic Zero Sugar",
-        "l": "fanta-exotic-zero-sugar1",
+        "l": "fanta-exotic-zero-sugar",
         "p": 2.09,
         "s": "1.5 liter"
     },
@@ -13774,6 +13767,13 @@
         "l": "fanta-exotic-zero2",
         "p": 2.53,
         "s": "1 liter"
+    },
+    {
+        "id": "fanta-exotic-zero3",
+        "n": "Fanta Exotic zero",
+        "l": "fanta-exotic-zero3",
+        "p": 0.69,
+        "s": "250 milliliter"
     },
     {
         "id": "fanta-lemon-zero1",
@@ -13807,8 +13807,8 @@
         "id": "fanta-orange10",
         "n": "Fanta Orange",
         "l": "fanta-orange10",
-        "p": 2.09,
-        "s": "1.5 liter"
+        "p": 7.96,
+        "s": "6 liter"
     },
     {
         "id": "fanta-orange11",
@@ -13816,6 +13816,13 @@
         "l": "fanta-orange11",
         "p": 1.91,
         "s": "1 liter"
+    },
+    {
+        "id": "fanta-orange12",
+        "n": "Fanta Orange",
+        "l": "fanta-orange12",
+        "p": 2.09,
+        "s": "1.5 liter"
     },
     {
         "id": "fanta-orange2",
@@ -17115,6 +17122,13 @@
         "s": "400 gram"
     },
     {
+        "id": "g-apos-woon-druivensap1",
+        "n": "G'woon Druivensap",
+        "l": "g-apos-woon-druivensap1",
+        "p": 1.29,
+        "s": "1 liter"
+    },
+    {
         "id": "g-apos-woon-dry-roasted-pinda-s",
         "n": "G'woon Dry roasted pinda's",
         "l": "g-apos-woon-dry-roasted-pinda-s",
@@ -17294,6 +17308,13 @@
         "n": "G'woon Fritessaus",
         "l": "g-apos-woon-fritessaus",
         "p": 1.48,
+        "s": "750 milliliter"
+    },
+    {
+        "id": "g-apos-woon-fritessaus-halfvol",
+        "n": "G'woon Fritessaus halfvol",
+        "l": "g-apos-woon-fritessaus-halfvol",
+        "p": 1.47,
         "s": "750 milliliter"
     },
     {
@@ -17661,6 +17682,13 @@
         "s": "300 milliliter"
     },
     {
+        "id": "g-apos-woon-groentesoep1",
+        "n": "G'woon Groentesoep",
+        "l": "g-apos-woon-groentesoep1",
+        "p": 1.99,
+        "s": "800 milliliter"
+    },
+    {
         "id": "g-apos-woon-groentesoep3",
         "n": "G'woon Groentesoep",
         "l": "g-apos-woon-groentesoep3",
@@ -17855,6 +17883,13 @@
         "l": "g-apos-woon-hot-chocolate",
         "p": 1.82,
         "s": "400 gram"
+    },
+    {
+        "id": "g-apos-woon-hotdogs",
+        "n": "G'woon Hotdogs",
+        "l": "g-apos-woon-hotdogs",
+        "p": 3.15,
+        "s": "540 gram"
     },
     {
         "id": "g-apos-woon-houtvezels",
@@ -18520,6 +18555,13 @@
         "l": "g-apos-woon-knijpfruit-appel-peer",
         "p": 1.89,
         "s": "360 gram"
+    },
+    {
+        "id": "g-apos-woon-knoflookpoeder",
+        "n": "G'woon Knoflookpoeder",
+        "l": "g-apos-woon-knoflookpoeder",
+        "p": 0.95,
+        "s": "70 gram"
     },
     {
         "id": "g-apos-woon-knoflooksaus",
@@ -22246,6 +22288,13 @@
         "s": "4 stuks"
     },
     {
+        "id": "g-apos-woon-wortelen-extra-fijn",
+        "n": "G'woon Wortelen extra fijn",
+        "l": "g-apos-woon-wortelen-extra-fijn",
+        "p": 0.85,
+        "s": "680 gram"
+    },
+    {
         "id": "g-apos-woon-wortelen-extra-fijn1",
         "n": "G'woon Wortelen extra fijn",
         "l": "g-apos-woon-wortelen-extra-fijn1",
@@ -22596,13 +22645,6 @@
         "s": "250 milliliter"
     },
     {
-        "id": "garnier-loving-blends-conditioner-avocado-olie",
-        "n": "Garnier Loving Blends Conditioner avocado olie",
-        "l": "garnier-loving-blends-conditioner-avocado-olie",
-        "p": 4.36,
-        "s": "250 milliliter"
-    },
-    {
         "id": "garnier-loving-blends-conditioner-honing-goud",
         "n": "Garnier Loving Blends Conditioner honing goud",
         "l": "garnier-loving-blends-conditioner-honing-goud",
@@ -22818,13 +22860,6 @@
         "l": "glorix-bleek-original2",
         "p": 1.49,
         "s": "750 milliliter"
-    },
-    {
-        "id": "glorix-dahlia-dragonfruit-wc-blok",
-        "n": "Glorix Dahlia & Dragonfruit Wc Blok",
-        "l": "glorix-dahlia-dragonfruit-wc-blok",
-        "p": 3.29,
-        "s": "1 stuk"
     },
     {
         "id": "glorix-jasmine-elderflower-wc-blok",
@@ -24000,6 +24035,13 @@
         "n": "Hak Appelmoes 0%",
         "l": "hak-appelmoes-0-",
         "p": 2.19,
+        "s": "350 gram"
+    },
+    {
+        "id": "hak-appelmoes-light1",
+        "n": "Hak Appelmoes light",
+        "l": "hak-appelmoes-light1",
+        "p": 2.29,
         "s": "350 gram"
     },
     {
@@ -26243,6 +26285,13 @@
         "s": "500 gram"
     },
     {
+        "id": "honig-spaghetti1",
+        "n": "Honig Spaghetti",
+        "l": "honig-spaghetti1",
+        "p": 1.45,
+        "s": "550 gram"
+    },
+    {
         "id": "honig-spaghettini2",
         "n": "Honig Spaghettini",
         "l": "honig-spaghettini2",
@@ -26750,13 +26799,6 @@
         "id": "hoogvliet-biologische-huiswijn-rose",
         "n": "Hoogvliet Biologische huiswijn rose",
         "l": "hoogvliet-biologische-huiswijn-rose",
-        "p": 4.19,
-        "s": "1 liter"
-    },
-    {
-        "id": "hoogvliet-biologische-huiswijn-wit",
-        "n": "Hoogvliet Biologische huiswijn wit",
-        "l": "hoogvliet-biologische-huiswijn-wit",
         "p": 4.19,
         "s": "1 liter"
     },
@@ -27657,13 +27699,6 @@
         "s": "200 gram"
     },
     {
-        "id": "hoogvliet-fudgecake-chocolade",
-        "n": "Hoogvliet Fudgecake chocolade",
-        "l": "hoogvliet-fudgecake-chocolade",
-        "p": 3.19,
-        "s": "350 gram"
-    },
-    {
         "id": "hoogvliet-fudgecake-citroen",
         "n": "Hoogvliet Fudgecake citroen",
         "l": "hoogvliet-fudgecake-citroen",
@@ -27737,7 +27772,7 @@
         "id": "hoogvliet-gehakt-cordonbleu",
         "n": "Hoogvliet Gehakt cordonbleu",
         "l": "hoogvliet-gehakt-cordonbleu",
-        "p": 2.49,
+        "p": 2.99,
         "s": "220 gram"
     },
     {
@@ -28080,7 +28115,7 @@
         "id": "hoogvliet-half-om-half-gehakt-500-gram",
         "n": "Hoogvliet Half om half gehakt 500 gram",
         "l": "hoogvliet-half-om-half-gehakt-500-gram",
-        "p": 3.99,
+        "p": 4.19,
         "s": "500 gram"
     },
     {
@@ -28588,13 +28623,6 @@
         "s": "180 gram"
     },
     {
-        "id": "hoogvliet-kinderspies5",
-        "n": "Hoogvliet Kinderspies",
-        "l": "hoogvliet-kinderspies5",
-        "p": 3.49,
-        "s": "195 gram"
-    },
-    {
         "id": "hoogvliet-kip-bucket-mild",
         "n": "Hoogvliet Kip bucket mild",
         "l": "hoogvliet-kip-bucket-mild",
@@ -28945,13 +28973,6 @@
         "s": "250 gram"
     },
     {
-        "id": "hoogvliet-kipsaucijs-naturel1",
-        "n": "Hoogvliet Kipsaucijs naturel",
-        "l": "hoogvliet-kipsaucijs-naturel1",
-        "p": 4.79,
-        "s": "360 gram"
-    },
-    {
         "id": "hoogvliet-kipschnitzel4",
         "n": "Hoogvliet Kipschnitzel",
         "l": "hoogvliet-kipschnitzel4",
@@ -29293,13 +29314,6 @@
         "l": "hoogvliet-mammoet-olijven",
         "p": 2.29,
         "s": "150 gram"
-    },
-    {
-        "id": "hoogvliet-mango-blokjes2",
-        "n": "Hoogvliet Mango blokjes",
-        "l": "hoogvliet-mango-blokjes2",
-        "p": 2,
-        "s": "130 gram"
     },
     {
         "id": "hoogvliet-mango-ready-to-eat",
@@ -30376,14 +30390,14 @@
         "id": "hoogvliet-rundervink-grootverpakking",
         "n": "Hoogvliet Rundervink grootverpakking",
         "l": "hoogvliet-rundervink-grootverpakking",
-        "p": 4.59,
+        "p": 4.79,
         "s": "400 gram"
     },
     {
         "id": "hoogvliet-rundervinken-2",
         "n": "Hoogvliet Rundervinken 2",
         "l": "hoogvliet-rundervinken-2",
-        "p": 2.95,
+        "p": 2.99,
         "s": "200 gram"
     },
     {
@@ -30474,7 +30488,7 @@
         "id": "hoogvliet-sat-schnitzel1",
         "n": "Hoogvliet Sat\u00e9schnitzel",
         "l": "hoogvliet-sat-schnitzel1",
-        "p": 2.49,
+        "p": 2.99,
         "s": "250 gram"
     },
     {
@@ -30705,7 +30719,7 @@
         "id": "hoogvliet-slaburger",
         "n": "Hoogvliet Slaburger",
         "l": "hoogvliet-slaburger",
-        "p": 2.49,
+        "p": 2.52,
         "s": "200 gram"
     },
     {
@@ -30796,7 +30810,7 @@
         "id": "hoogvliet-slavinken-2-o-s",
         "n": "Hoogvliet Slavinken 2 o\/s",
         "l": "hoogvliet-slavinken-2-o-s",
-        "p": 2.49,
+        "p": 2.55,
         "s": "200 gram"
     },
     {
@@ -30994,6 +31008,13 @@
         "l": "hoogvliet-speklap-toscaans",
         "p": 2.54,
         "s": "224 gram"
+    },
+    {
+        "id": "hoogvliet-speklapje-garlic",
+        "n": "Hoogvliet Speklapje garlic",
+        "l": "hoogvliet-speklapje-garlic",
+        "p": 3.49,
+        "s": "270 gram"
     },
     {
         "id": "hoogvliet-speklapjes-smokey",
@@ -31304,13 +31325,6 @@
         "s": "300 gram"
     },
     {
-        "id": "hoogvliet-vanille-bavaroise",
-        "n": "Hoogvliet Vanille bavaroise",
-        "l": "hoogvliet-vanille-bavaroise",
-        "p": 2,
-        "s": "110 gram"
-    },
-    {
         "id": "hoogvliet-varkens-verse-worst",
         "n": "Hoogvliet Varkens verse worst",
         "l": "hoogvliet-varkens-verse-worst",
@@ -31323,13 +31337,6 @@
         "l": "hoogvliet-varkensbraadworst-grootverpakking",
         "p": 5.95,
         "s": "800 gram"
-    },
-    {
-        "id": "hoogvliet-varkensbraadworst-met-spek",
-        "n": "Hoogvliet Varkensbraadworst met spek",
-        "l": "hoogvliet-varkensbraadworst-met-spek",
-        "p": 3.99,
-        "s": "400 gram"
     },
     {
         "id": "hoogvliet-varkensbraadworst3",
@@ -31505,6 +31512,13 @@
         "l": "hoogvliet-venkel",
         "p": 0.85,
         "s": "1 stuk"
+    },
+    {
+        "id": "hoogvliet-verse-bieslookkaas",
+        "n": "Hoogvliet Verse bieslookkaas",
+        "l": "hoogvliet-verse-bieslookkaas",
+        "p": 2.49,
+        "s": "125 gram"
     },
     {
         "id": "hoogvliet-verse-groene-pesto3",
@@ -35245,6 +35259,13 @@
         "s": "200 gram"
     },
     {
+        "id": "kookaardappel-vast",
+        "n": "Kookaardappel vast",
+        "l": "kookaardappel-vast",
+        "p": 1.39,
+        "s": "800 gram"
+    },
+    {
         "id": "koopmans-allesbinder",
         "n": "Koopmans Allesbinder",
         "l": "koopmans-allesbinder",
@@ -35700,11 +35721,11 @@
         "s": "200 milliliter"
     },
     {
-        "id": "l-apos-or-al-elvive-elvive-shampoo-dream-lenghts",
-        "n": "L'Or\u00e9al Elvive Elvive shampoo dream lenghts",
-        "l": "l-apos-or-al-elvive-elvive-shampoo-dream-lenghts",
-        "p": 4.99,
-        "s": "250 milliliter"
+        "id": "l-apos-or-al-elvive-elvive-conditioner-dream-lengths",
+        "n": "L'Or\u00e9al Elvive Elvive conditioner dream lengths",
+        "l": "l-apos-or-al-elvive-elvive-conditioner-dream-lengths",
+        "p": 4.79,
+        "s": "200 milliliter"
     },
     {
         "id": "l-apos-or-al-elvive-masker-extra-ordinary-oil",
@@ -37646,6 +37667,13 @@
         "s": "20 stuks"
     },
     {
+        "id": "lipton-thee-hibiscus-melissa",
+        "n": "Lipton Thee hibiscus melissa",
+        "l": "lipton-thee-hibiscus-melissa",
+        "p": 3.32,
+        "s": "20 stuks"
+    },
+    {
         "id": "lipton-thee-mango",
         "n": "Lipton Thee mango",
         "l": "lipton-thee-mango",
@@ -37777,13 +37805,6 @@
         "l": "lonka-sinassnippers",
         "p": 1.69,
         "s": "244 gram"
-    },
-    {
-        "id": "lonka-soft-fudge-cheesecake",
-        "n": "Lonka Soft fudge cheesecake",
-        "l": "lonka-soft-fudge-cheesecake",
-        "p": 2.59,
-        "s": "182 gram"
     },
     {
         "id": "lonka-softnougat-caramel1",
@@ -37923,6 +37944,13 @@
         "n": "Lotus Biscoff Speculoos pasta crunchy",
         "l": "lotus-biscoff-speculoos-pasta-crunchy",
         "p": 3.49,
+        "s": "400 gram"
+    },
+    {
+        "id": "lotus-biscoff-speculoos-pasta-original",
+        "n": "Lotus Biscoff Speculoos pasta original",
+        "l": "lotus-biscoff-speculoos-pasta-original",
+        "p": 3.19,
         "s": "400 gram"
     },
     {
@@ -38801,13 +38829,6 @@
         "s": "6 stuks"
     },
     {
-        "id": "magnum-mini-ijs-classic-almond-white",
-        "n": "Magnum Mini IJs Classic + Almond + White",
-        "l": "magnum-mini-ijs-classic-almond-white",
-        "p": 4.09,
-        "s": "6 stuks"
-    },
-    {
         "id": "magnum-mini-ijs-classic-almond-white1",
         "n": "Magnum Mini IJs Classic + Almond + White",
         "l": "magnum-mini-ijs-classic-almond-white1",
@@ -39532,6 +39553,13 @@
         "id": "melkan-dubbelvla-vanille-chocolade",
         "n": "Melkan Dubbelvla vanille chocolade",
         "l": "melkan-dubbelvla-vanille-chocolade",
+        "p": 1.29,
+        "s": "1 liter"
+    },
+    {
+        "id": "melkan-dubbelvla-vanille-karamel",
+        "n": "Melkan Dubbelvla vanille karamel",
+        "l": "melkan-dubbelvla-vanille-karamel",
         "p": 1.29,
         "s": "1 liter"
     },
@@ -40572,6 +40600,13 @@
         "s": "200 gram"
     },
     {
+        "id": "melkunie-breaker-kers-met-een-extra-bite",
+        "n": "Melkunie Breaker kers met een extra bite",
+        "l": "melkunie-breaker-kers-met-een-extra-bite",
+        "p": 1.45,
+        "s": "200 gram"
+    },
+    {
         "id": "melkunie-breaker-perzik-met-een-extra-bite",
         "n": "Melkunie Breaker perzik met een extra bite",
         "l": "melkunie-breaker-perzik-met-een-extra-bite",
@@ -41011,6 +41046,13 @@
         "l": "milka-choco-wafer-koek-met-witte-chocolade",
         "p": 2.35,
         "s": "180 gram"
+    },
+    {
+        "id": "milka-chocolade-reep-alpenmelk",
+        "n": "Milka Chocolade reep alpenmelk",
+        "l": "milka-chocolade-reep-alpenmelk",
+        "p": 0.73,
+        "s": "100 gram"
     },
     {
         "id": "milka-chocolade-reep-daim",
@@ -43323,6 +43365,13 @@
         "s": "375 gram"
     },
     {
+        "id": "old-amsterdam-plakken-48-",
+        "n": "Old Amsterdam Plakken 48+",
+        "l": "old-amsterdam-plakken-48-",
+        "p": 2.89,
+        "s": "115 gram"
+    },
+    {
         "id": "old-dutch-chenin-blanc",
         "n": "Old dutch Chenin blanc",
         "l": "old-dutch-chenin-blanc",
@@ -44912,13 +44961,6 @@
         "s": "750 milliliter"
     },
     {
-        "id": "parodontax-original-dagelijkse-tandpasta-tegen-bloedend-tandvlees",
-        "n": "Parodontax Original dagelijkse tandpasta tegen bloedend tandvlees",
-        "l": "parodontax-original-dagelijkse-tandpasta-tegen-bloedend-tandvlees",
-        "p": 5.29,
-        "s": "75 milliliter"
-    },
-    {
         "id": "parodontax-tandpasta-tandvlees-gevoeligheid-adem",
         "n": "Parodontax Tandpasta tandvlees gevoeligheid & adem",
         "l": "parodontax-tandpasta-tandvlees-gevoeligheid-adem",
@@ -45260,6 +45302,13 @@
         "l": "peijnenburg-ontbijtkoek-naturel-ongesneden",
         "p": 1.29,
         "s": "350 gram"
+    },
+    {
+        "id": "peijnenburg-ontbijtkoek-naturel-portieverpakking",
+        "n": "Peijnenburg Ontbijtkoek naturel portieverpakking",
+        "l": "peijnenburg-ontbijtkoek-naturel-portieverpakking",
+        "p": 2.49,
+        "s": "12 stuks"
     },
     {
         "id": "peijnenburg-ontbijtkoek-ongesneden",
@@ -46316,6 +46365,13 @@
         "n": "Purina one Junior kattenvoer rijk aan kip",
         "l": "purina-one-junior-kattenvoer-rijk-aan-kip",
         "p": 5.39,
+        "s": "800 gram"
+    },
+    {
+        "id": "purina-one-senior-7-kattenvoer-rijk-aan-kip",
+        "n": "Purina one Senior 7+ kattenvoer rijk aan kip",
+        "l": "purina-one-senior-7-kattenvoer-rijk-aan-kip",
+        "p": 4.98,
         "s": "800 gram"
     },
     {
@@ -48685,13 +48741,6 @@
         "s": "400 milliliter"
     },
     {
-        "id": "schweppes-agrumes",
-        "n": "Schweppes Agrumes",
-        "l": "schweppes-agrumes",
-        "p": 1.87,
-        "s": "1 liter"
-    },
-    {
         "id": "schweppes-indian-tonic",
         "n": "Schweppes Indian tonic",
         "l": "schweppes-indian-tonic",
@@ -50267,13 +50316,6 @@
         "s": "400 milliliter"
     },
     {
-        "id": "spa-intense-koolzuurhoudend-natuurlijk-mineraalwater",
-        "n": "Spa INTENSE Koolzuurhoudend Natuurlijk Mineraalwater",
-        "l": "spa-intense-koolzuurhoudend-natuurlijk-mineraalwater",
-        "p": 1.19,
-        "s": "1.5 liter"
-    },
-    {
         "id": "spa-intense-koolzuurhoudend-natuurlijk-mineraalwater-4x1-5l",
         "n": "Spa INTENSE Koolzuurhoudend Natuurlijk Mineraalwater 4x1,5L",
         "l": "spa-intense-koolzuurhoudend-natuurlijk-mineraalwater-4x1-5l",
@@ -50652,13 +50694,6 @@
         "s": "10 stuks"
     },
     {
-        "id": "starbucks-caramel-macchiato",
-        "n": "Starbucks Caramel macchiato",
-        "l": "starbucks-caramel-macchiato",
-        "p": 3.89,
-        "s": "750 milliliter"
-    },
-    {
         "id": "starbucks-caramel-macchiato-capsules",
         "n": "Starbucks Caramel macchiato capsules",
         "l": "starbucks-caramel-macchiato-capsules",
@@ -50988,6 +51023,13 @@
         "s": "200 gram"
     },
     {
+        "id": "streek-belegen-plakken-kaas",
+        "n": "Streek Belegen plakken kaas",
+        "l": "streek-belegen-plakken-kaas",
+        "p": 3.75,
+        "s": "200 gram"
+    },
+    {
         "id": "streek-boerenkaas-belegen",
         "n": "Streek Boerenkaas belegen",
         "l": "streek-boerenkaas-belegen",
@@ -51065,6 +51107,13 @@
         "s": "100 gram"
     },
     {
+        "id": "streek-halfvolle-melk",
+        "n": "Streek Halfvolle melk",
+        "l": "streek-halfvolle-melk",
+        "p": 1.95,
+        "s": "1 liter"
+    },
+    {
         "id": "streek-jong-belegen-boerenkaas",
         "n": "Streek Jong belegen boerenkaas",
         "l": "streek-jong-belegen-boerenkaas",
@@ -51098,13 +51147,6 @@
         "l": "streek-leids-komijn-belegen-plakken-kaas",
         "p": 3.75,
         "s": "200 gram"
-    },
-    {
-        "id": "streek-linschoter-rollade",
-        "n": "Streek Linschoter rollade",
-        "l": "streek-linschoter-rollade",
-        "p": 2.6,
-        "s": "100 gram"
     },
     {
         "id": "streek-oud-plakken-kaas",
@@ -51265,13 +51307,6 @@
         "n": "Sum & Sam Boemboe groene curry",
         "l": "sum-amp-sam-boemboe-groene-curry",
         "p": 1.14,
-        "s": "95 gram"
-    },
-    {
-        "id": "sum-amp-sam-boemboe-javaanse-boontjes",
-        "n": "Sum & Sam Boemboe Javaanse boontjes",
-        "l": "sum-amp-sam-boemboe-javaanse-boontjes",
-        "p": 1.29,
         "s": "95 gram"
     },
     {
@@ -53057,13 +53092,6 @@
         "n": "Unox Soep in zak speciaal heldere groentesoep",
         "l": "unox-soep-in-zak-speciaal-heldere-groentesoep",
         "p": 3.39,
-        "s": "570 milliliter"
-    },
-    {
-        "id": "unox-soep-in-zak-speciaal-klassieke-ossenstaartsoep",
-        "n": "Unox Soep in zak speciaal klassieke ossenstaartsoep",
-        "l": "unox-soep-in-zak-speciaal-klassieke-ossenstaartsoep",
-        "p": 3.49,
         "s": "570 milliliter"
     },
     {
@@ -55727,13 +55755,6 @@
         "s": "150 milliliter"
     },
     {
-        "id": "vogue-extravagant-deodorant",
-        "n": "Vogue Extravagant deodorant",
-        "l": "vogue-extravagant-deodorant",
-        "p": 3.89,
-        "s": "150 milliliter"
-    },
-    {
         "id": "vogue-woman-parfum-deodorant-adore",
         "n": "Vogue Woman parfum deodorant adore",
         "l": "vogue-woman-parfum-deodorant-adore",
@@ -55907,13 +55928,6 @@
         "l": "warung-surinaamse-kipschotel",
         "p": 5,
         "s": "500 gram"
-    },
-    {
-        "id": "warung-surinaamse-roti-met-kip-en-aardappel",
-        "n": "Warung Surinaamse roti met kip en aardappel",
-        "l": "warung-surinaamse-roti-met-kip-en-aardappel",
-        "p": 5,
-        "s": "450 gram"
     },
     {
         "id": "warung-surinaamse-roti-rol-met-kip",
@@ -56264,6 +56278,13 @@
         "l": "wester-ruwe-rietsuiker1",
         "p": 1.79,
         "s": "750 gram"
+    },
+    {
+        "id": "westland-ambachtelijke-luxe-ei-salade",
+        "n": "Westland Ambachtelijke luxe ei salade",
+        "l": "westland-ambachtelijke-luxe-ei-salade",
+        "p": 3.51,
+        "s": "600 gram"
     },
     {
         "id": "westland-ambachtelijke-rundvleessalade",
@@ -56894,13 +56915,6 @@
         "l": "yum-yum-bamisoep-kip",
         "p": 0.55,
         "s": "60 gram"
-    },
-    {
-        "id": "yum-yum-bamisoep-kip1",
-        "n": "Yum Yum Bamisoep kip",
-        "l": "yum-yum-bamisoep-kip1",
-        "p": 1.15,
-        "s": "70 gram"
     },
     {
         "id": "yum-yum-bamisoep-rundvlees",
@@ -57692,13 +57706,6 @@
         "l": "zuivelmeester-yoghurt-griekse-stijl-perzik",
         "p": 2.49,
         "s": "1 kilo"
-    },
-    {
-        "id": "zuydpunt-cabernet-sauvignon-shiraz",
-        "n": "Zuydpunt Cabernet sauvignon shiraz",
-        "l": "zuydpunt-cabernet-sauvignon-shiraz",
-        "p": 4.49,
-        "s": "750 milliliter"
     },
     {
         "id": "zwaluw-aanmaaklucifers",
