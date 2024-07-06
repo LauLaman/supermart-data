@@ -1142,15 +1142,15 @@
     },
     {
         "id": "wi109842",
-        "n": "AH Creamersticks",
-        "l": "wi109842\/ah-creamersticks",
+        "n": "VRO Creamersticks",
+        "l": "wi109842\/vro-creamersticks",
         "p": 25.99,
         "s": "1500 stuks"
     },
     {
         "id": "wi109843",
-        "n": "AH Suikerstaafjes",
-        "l": "wi109843\/ah-suikerstaafjes",
+        "n": "VRO Suikerstaafjes",
+        "l": "wi109843\/vro-suikerstaafjes",
         "p": 22.5,
         "s": "1500 stuks"
     },
@@ -2145,7 +2145,7 @@
         "id": "wi115513",
         "n": "AH Conference los",
         "l": "wi115513\/ah-conference-los",
-        "p": 2.44,
+        "p": 2.54,
         "s": "per kilo"
     },
     {
@@ -2836,7 +2836,7 @@
     },
     {
         "id": "wi120890",
-        "n": "AH Granny smith los",
+        "n": "AH Granny Smith los",
         "l": "wi120890\/ah-granny-smith-los",
         "p": 2.49,
         "s": "los per kilo"
@@ -8919,8 +8919,8 @@
     },
     {
         "id": "wi142800",
-        "n": "Beau monde bel",
-        "l": "wi142800\/beau-monde-bel",
+        "n": "Beau monde",
+        "l": "wi142800\/beau-monde",
         "p": 6.99,
         "s": "per stuk"
     },
@@ -10153,7 +10153,7 @@
         "id": "wi155458",
         "n": "Rietburg Pinot blanc",
         "l": "wi155458\/rietburg-pinot-blanc",
-        "p": 5.29,
+        "p": 3.99,
         "s": "0,75 l"
     },
     {
@@ -13776,13 +13776,6 @@
         "s": "0,75 l"
     },
     {
-        "id": "wi166694",
-        "n": "Page Compleet schoon toiletpapier",
-        "l": "wi166694\/page-compleet-schoon-toiletpapier",
-        "p": 28.33,
-        "s": "40 rollen"
-    },
-    {
         "id": "wi166735",
         "n": "AH Groentesoep",
         "l": "wi166735\/ah-groentesoep",
@@ -13896,7 +13889,7 @@
     },
     {
         "id": "wi166918",
-        "n": "AH Biologisch Chardonnay",
+        "n": "AH Biologisch Chardonnay.",
         "l": "wi166918\/ah-biologisch-chardonnay",
         "p": 4.99,
         "s": "0,75 l"
@@ -15501,7 +15494,7 @@
         "id": "wi169813",
         "n": "AH Bosui",
         "l": "wi169813\/ah-bosui",
-        "p": 0.62,
+        "p": 0.72,
         "s": "per bosje"
     },
     {
@@ -16194,7 +16187,7 @@
         "id": "wi171425",
         "n": "AH Prei",
         "l": "wi171425\/ah-prei",
-        "p": 0.52,
+        "p": 0.62,
         "s": "per stuk"
     },
     {
@@ -17267,6 +17260,13 @@
         "l": "wi173624\/etos-incontinentie-control-extra",
         "p": 2.89,
         "s": "10 stuks"
+    },
+    {
+        "id": "wi173661",
+        "n": "Brand Lentebock 6-pack",
+        "l": "wi173661\/brand-lentebock-6-pack",
+        "p": 8.49,
+        "s": "6 x 33 cl"
     },
     {
         "id": "wi173733",
@@ -18973,7 +18973,7 @@
         "id": "wi177752",
         "n": "L & M Blue label",
         "l": "wi177752\/l-en-m-blue-label",
-        "p": 10,
+        "p": 11,
         "s": "27 stuks"
     },
     {
@@ -19066,13 +19066,6 @@
         "l": "wi178110\/care-plus-deet-anti-insectenspray-40",
         "p": 22.99,
         "s": "200 ml"
-    },
-    {
-        "id": "wi178124",
-        "n": "AH Spinazie \u00e0 la creme",
-        "l": "wi178124\/ah-spinazie-a-la-creme",
-        "p": 1.59,
-        "s": "1 kg"
     },
     {
         "id": "wi178125",
@@ -29708,13 +29701,6 @@
         "s": "0,75 l"
     },
     {
-        "id": "wi203401",
-        "n": "Santa Julia Organic chardonnay",
-        "l": "wi203401\/santa-julia-organic-chardonnay",
-        "p": 5.49,
-        "s": "0,75 l"
-    },
-    {
         "id": "wi203402",
         "n": "Penfolds Bin 8 cabernet shiraz",
         "l": "wi203402\/penfolds-bin-8-cabernet-shiraz",
@@ -31678,7 +31664,7 @@
         "id": "wi211328",
         "n": "AH BBQ alu wokschalen",
         "l": "wi211328\/ah-bbq-alu-wokschalen",
-        "p": 1.79,
+        "p": 1.59,
         "s": "per stuk"
     },
     {
@@ -34009,7 +33995,7 @@
         "id": "wi217120",
         "n": "AH Witlof los",
         "l": "wi217120\/ah-witlof-los",
-        "p": 1.24,
+        "p": 1.34,
         "s": "los per 500 g"
     },
     {
@@ -36881,6 +36867,13 @@
         "l": "wi223853\/ah-mango-nectar",
         "p": 1.69,
         "s": "1 l"
+    },
+    {
+        "id": "wi223858",
+        "n": "Roosvicee 50\/50 Roodfruit",
+        "l": "wi223858\/roosvicee-50-50-roodfruit",
+        "p": 1.95,
+        "s": "1,5 l"
     },
     {
         "id": "wi223860",
@@ -40260,7 +40253,7 @@
         "id": "wi231530",
         "n": "AH Sperziebonen",
         "l": "wi231530\/ah-sperziebonen",
-        "p": 2.04,
+        "p": 1.99,
         "s": "los per 500 g"
     },
     {
@@ -46175,13 +46168,13 @@
         "id": "wi354172",
         "n": "AH Trostomaten los",
         "l": "wi354172\/ah-trostomaten-los",
-        "p": 1.79,
+        "p": 1.69,
         "s": "los per 500 g"
     },
     {
         "id": "wi354541",
-        "n": "Agio Mehari's fil red or",
-        "l": "wi354541\/agio-mehari-s-fil-red-or",
+        "n": "Agio Mehari's fil red orient",
+        "l": "wi354541\/agio-mehari-s-fil-red-orient",
         "p": 2,
         "s": "5 stuks"
     },
@@ -46372,7 +46365,7 @@
         "n": "Camel Ryo classic",
         "l": "wi359532\/camel-ryo-classic",
         "p": 15,
-        "s": "50 g"
+        "s": "48 g"
     },
     {
         "id": "wi360188",
@@ -47372,7 +47365,7 @@
         "id": "wi367100",
         "n": "Tenute del Cerro Vermentino di Toscana",
         "l": "wi367100\/tenute-del-cerro-vermentino-di-toscana",
-        "p": 9.29,
+        "p": 9.98,
         "s": "0,75 l"
     },
     {
@@ -51894,7 +51887,7 @@
         "id": "wi383322",
         "n": "Marlboro Gold",
         "l": "wi383322\/marlboro-gold",
-        "p": 10,
+        "p": 11,
         "s": "24 stuks"
     },
     {
@@ -52798,7 +52791,7 @@
         "n": "Zanetti Mini mozzarelle",
         "l": "wi384977\/zanetti-mini-mozzarelle",
         "p": 2.99,
-        "s": "275 g"
+        "s": "125 g"
     },
     {
         "id": "wi385013",
@@ -56676,6 +56669,13 @@
         "n": "Amore Passo Rosso",
         "l": "wi397695\/amore-passo-rosso",
         "p": 8.99,
+        "s": "0,75 l"
+    },
+    {
+        "id": "wi397703",
+        "n": "La Fleur Laroze Saint-emilion grand cru",
+        "l": "wi397703\/la-fleur-laroze-saint-emilion-grand-cru",
+        "p": 19.99,
         "s": "0,75 l"
     },
     {
@@ -61421,7 +61421,7 @@
         "id": "wi41194",
         "n": "AH Paprika mix",
         "l": "wi41194\/ah-paprika-mix",
-        "p": 2.24,
+        "p": 2.29,
         "s": "3 stuks"
     },
     {
@@ -62338,7 +62338,7 @@
         "id": "wi4137",
         "n": "AH Cherrytomaten",
         "l": "wi4137\/ah-cherrytomaten",
-        "p": 0.92,
+        "p": 0.99,
         "s": "250 g"
     },
     {
@@ -62475,13 +62475,6 @@
         "s": "per stuk"
     },
     {
-        "id": "wi413842",
-        "n": "AH Eiersnijder",
-        "l": "wi413842\/ah-eiersnijder",
-        "p": 1.99,
-        "s": "per stuk"
-    },
-    {
         "id": "wi413843",
         "n": "AH Spuitzakken met mondjes",
         "l": "wi413843\/ah-spuitzakken-met-mondjes",
@@ -62577,13 +62570,6 @@
         "n": "AH appelpartjessnijder",
         "l": "wi413903\/ah-appelpartjessnijder",
         "p": 4.39,
-        "s": "per stuk"
-    },
-    {
-        "id": "wi413905",
-        "n": "AH IJsblokjesvorm",
-        "l": "wi413905\/ah-ijsblokjesvorm",
-        "p": 1.99,
         "s": "per stuk"
     },
     {
@@ -63997,7 +63983,7 @@
         "id": "wi4169",
         "n": "AH Witte champignons",
         "l": "wi4169\/ah-witte-champignons",
-        "p": 1.49,
+        "p": 1.54,
         "s": "250 g"
     },
     {
@@ -64334,13 +64320,6 @@
         "n": "Delicata Reep extra puur 70%",
         "l": "wi417394\/delicata-reep-extra-puur-70",
         "p": 1.19,
-        "s": "100 g"
-    },
-    {
-        "id": "wi417395",
-        "n": "Delicata Puur 64% fris zuur & fruitig  uit Peru",
-        "l": "wi417395\/delicata-puur-64-fris-zuur-en-fruitig-uit-peru",
-        "p": 1.99,
         "s": "100 g"
     },
     {
@@ -64809,7 +64788,7 @@
         "id": "wi4183",
         "n": "AH Bloemkool",
         "l": "wi4183\/ah-bloemkool",
-        "p": 2.34,
+        "p": 2.54,
         "s": "per stuk"
     },
     {
@@ -65800,6 +65779,13 @@
         "s": "0,75 l"
     },
     {
+        "id": "wi420372",
+        "n": "Cecchi La Mora Maremma Toscana",
+        "l": "wi420372\/cecchi-la-mora-maremma-toscana",
+        "p": 5.65,
+        "s": "0,75 l"
+    },
+    {
         "id": "wi420375",
         "n": "Lightbody Happy birthday taart",
         "l": "wi420375\/lightbody-happy-birthday-taart",
@@ -66126,7 +66112,7 @@
         "n": "John Player Special Red small bucket",
         "l": "wi421241\/john-player-special-red-small-bucket",
         "p": 42,
-        "s": "140 g"
+        "s": "133 g"
     },
     {
         "id": "wi421259",
@@ -67492,6 +67478,13 @@
         "l": "wi429055\/ah-kipsate-op-stokje",
         "p": 0.99,
         "s": "130 g"
+    },
+    {
+        "id": "wi429056",
+        "n": "AH Sat babi malse stukjes varkenvlees",
+        "l": "wi429056\/ah-sat-babi-malse-stukjes-varkenvlees",
+        "p": 1.99,
+        "s": "140 g"
     },
     {
         "id": "wi429057",
@@ -69755,27 +69748,6 @@
         "s": "0,75 l"
     },
     {
-        "id": "wi436042",
-        "n": "AH Siroop framboos",
-        "l": "wi436042\/ah-siroop-framboos",
-        "p": 2.89,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi436043",
-        "n": "AH Siroop aardbei",
-        "l": "wi436043\/ah-siroop-aardbei",
-        "p": 2.89,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi436044",
-        "n": "AH Siroop tropical",
-        "l": "wi436044\/ah-siroop-tropical",
-        "p": 2.89,
-        "s": "0,75 l"
-    },
-    {
         "id": "wi436053",
         "n": "Spa Touch lemon",
         "l": "wi436053\/spa-touch-lemon",
@@ -69844,20 +69816,6 @@
         "l": "wi436185\/belvoir-elderflower-cordial-bio",
         "p": 4.79,
         "s": "0,5 l"
-    },
-    {
-        "id": "wi436186",
-        "n": "AH Siroop cassis",
-        "l": "wi436186\/ah-siroop-cassis",
-        "p": 2.89,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi436195",
-        "n": "AH Siroop aardbei 0% suiker toegevoegd",
-        "l": "wi436195\/ah-siroop-aardbei-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
     },
     {
         "id": "wi436200",
@@ -77077,13 +77035,6 @@
         "s": "0,5 l"
     },
     {
-        "id": "wi451254",
-        "n": "Woolite Delicate stoffen BEL",
-        "l": "wi451254\/woolite-delicate-stoffen-bel",
-        "p": 9.99,
-        "s": "32 stuks"
-    },
-    {
         "id": "wi451255",
         "n": "AH Biologisch Kip met gem groente en aard 15m11",
         "l": "wi451255\/ah-biologisch-kip-met-gem-groente-en-aard-15m11",
@@ -83494,6 +83445,13 @@
         "l": "wi462691\/ah-smeerkaas-20-sambal",
         "p": 0.89,
         "s": "105 g"
+    },
+    {
+        "id": "wi462694",
+        "n": "Heets Bronze label",
+        "l": "wi462694\/heets-bronze-label",
+        "p": 6,
+        "s": "20 stuks"
     },
     {
         "id": "wi462695",
@@ -91609,6 +91567,13 @@
         "s": "3 stuks"
     },
     {
+        "id": "wi476979",
+        "n": "Fish Tales Skipjack tonijn in zonnebloemolie 2-pack",
+        "l": "wi476979\/fish-tales-skipjack-tonijn-in-zonnebloemolie-2-pack",
+        "p": 3.99,
+        "s": "160 g"
+    },
+    {
         "id": "wi476980",
         "n": "Princes Tonijnmoot in olijfolie",
         "l": "wi476980\/princes-tonijnmoot-in-olijfolie",
@@ -93938,13 +93903,6 @@
         "l": "wi480892\/mazzetti-balsamico-bio",
         "p": 3.67,
         "s": "250 ml"
-    },
-    {
-        "id": "wi480893",
-        "n": "Carbonell Extra virgen bio",
-        "l": "wi480893\/carbonell-extra-virgen-bio",
-        "p": 7.29,
-        "s": "500 ml"
     },
     {
         "id": "wi480906",
@@ -96915,6 +96873,13 @@
         "s": "306 g"
     },
     {
+        "id": "wi485484",
+        "n": "AH Gehaktballetjes BBQ saus",
+        "l": "wi485484\/ah-gehaktballetjes-bbq-saus",
+        "p": 4,
+        "s": "306 g"
+    },
+    {
         "id": "wi485485",
         "n": "AH Gehaktballetjes ketjap",
         "l": "wi485485\/ah-gehaktballetjes-ketjap",
@@ -97398,34 +97363,6 @@
         "s": "120 g"
     },
     {
-        "id": "wi485680",
-        "n": "AH Siroop grenadine 0% suiker toegevoegd",
-        "l": "wi485680\/ah-siroop-grenadine-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi485681",
-        "n": "AH Siroop cassis 0% suiker toegevoegd",
-        "l": "wi485681\/ah-siroop-cassis-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi485682",
-        "n": "AH Siroop tropical 0% suiker toegevoegd",
-        "l": "wi485682\/ah-siroop-tropical-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
-    },
-    {
-        "id": "wi485683",
-        "n": "AH Siroop framboos 0% suiker toegevoegd",
-        "l": "wi485683\/ah-siroop-framboos-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
-    },
-    {
         "id": "wi485684",
         "n": "Het sapgilde Appel - mangosap bio",
         "l": "wi485684\/het-sapgilde-appel-mangosap-bio",
@@ -97613,13 +97550,6 @@
         "l": "wi485726\/coolbest-smoothie-aardbei-sinaasappel-banaan",
         "p": 2.19,
         "s": "330 ml"
-    },
-    {
-        "id": "wi485743",
-        "n": "AH Siroop peer 0% suiker toegevoegd",
-        "l": "wi485743\/ah-siroop-peer-0-suiker-toegevoegd",
-        "p": 2.29,
-        "s": "0,75 l"
     },
     {
         "id": "wi485744",
@@ -98428,8 +98358,8 @@
     },
     {
         "id": "wi48708",
-        "n": "AH Zaanse snijder wit heel",
-        "l": "wi48708\/ah-zaanse-snijder-wit-heel",
+        "n": "AH Zaanse snijder wit heel BEL",
+        "l": "wi48708\/ah-zaanse-snijder-wit-heel-bel",
         "p": 1.89,
         "s": "per stuk"
     },
@@ -98449,8 +98379,8 @@
     },
     {
         "id": "wi48711",
-        "n": "AH Zaans volkoren heel",
-        "l": "wi48711\/ah-zaans-volkoren-heel",
+        "n": "AH Zaanse snijder volkoren heel",
+        "l": "wi48711\/ah-zaanse-snijder-volkoren-heel",
         "p": 1.89,
         "s": "per stuk"
     },
@@ -98752,8 +98682,8 @@
         "id": "wi489041",
         "n": "Winston Red box",
         "l": "wi489041\/winston-red-box",
-        "p": 17,
-        "s": "52 stuks"
+        "p": 19.5,
+        "s": "50 stuks"
     },
     {
         "id": "wi489042",
@@ -99160,6 +99090,13 @@
         "l": "wi489415\/ecover-wasmiddel-zero",
         "p": 13.29,
         "s": "30 wasbeurten"
+    },
+    {
+        "id": "wi489416",
+        "n": "Heets Russet",
+        "l": "wi489416\/heets-russet",
+        "p": 6,
+        "s": "20 stuks"
     },
     {
         "id": "wi489417",
@@ -102347,6 +102284,13 @@
         "s": "200 ml"
     },
     {
+        "id": "wi495273",
+        "n": "Hubert Legrand Sancerre Ros",
+        "l": "wi495273\/hubert-legrand-sancerre-ros",
+        "p": 15.99,
+        "s": "0,75 l"
+    },
+    {
         "id": "wi495298",
         "n": "Knorr Groente l\u00e9gumes bouillon zero salt",
         "l": "wi495298\/knorr-groente-legumes-bouillon-zero-salt",
@@ -103880,6 +103824,13 @@
         "s": "100 g"
     },
     {
+        "id": "wi496875",
+        "n": "Fish Tales Albacore tonijn spicy in olie bio 2-pack",
+        "l": "wi496875\/fish-tales-albacore-tonijn-spicy-in-olie-bio-2-pack",
+        "p": 3.49,
+        "s": "120 g"
+    },
+    {
         "id": "wi496876",
         "n": "Fish Tales Ansjovisfilet in oo met kappertjes",
         "l": "wi496876\/fish-tales-ansjovisfilet-in-oo-met-kappertjes",
@@ -104727,13 +104678,6 @@
         "s": "20.8 ml"
     },
     {
-        "id": "wi497802",
-        "n": "Air Wick Essential mist tijm & citroen navulling",
-        "l": "wi497802\/air-wick-essential-mist-tijm-en-citroen-navulling",
-        "p": 5.99,
-        "s": "20.8 ml"
-    },
-    {
         "id": "wi497814",
         "n": "Mama deli Zoete aardappel & pompoen 4+ mnd",
         "l": "wi497814\/mama-deli-zoete-aardappel-en-pompoen-4-mnd",
@@ -104864,7 +104808,7 @@
         "n": "AH Excellent Jamon de cebo de campo iberico",
         "l": "wi497905\/ah-excellent-jamon-de-cebo-de-campo-iberico",
         "p": 4.99,
-        "s": "70 g"
+        "s": "65 g"
     },
     {
         "id": "wi497906",
@@ -108980,7 +108924,7 @@
         "n": "AH Mozzarella",
         "l": "wi506235\/ah-mozzarella",
         "p": 0.99,
-        "s": "220 g"
+        "s": "125 g"
     },
     {
         "id": "wi506246",
@@ -109652,13 +109596,6 @@
         "n": "AH Krustie kaiserbroodje",
         "l": "wi507656\/ah-krustie-kaiserbroodje",
         "p": 0.29,
-        "s": "per stuk"
-    },
-    {
-        "id": "wi507657",
-        "n": "AH Krustie wit rozijn",
-        "l": "wi507657\/ah-krustie-wit-rozijn",
-        "p": 0.49,
         "s": "per stuk"
     },
     {
@@ -110419,8 +110356,8 @@
     },
     {
         "id": "wi508291",
-        "n": "AH Macarons",
-        "l": "wi508291\/ah-macarons",
+        "n": "AH Macarons 6 st",
+        "l": "wi508291\/ah-macarons-6-st",
         "p": 3.5,
         "s": "6 stuks"
     },
@@ -116081,6 +116018,13 @@
         "s": "100 g"
     },
     {
+        "id": "wi516121",
+        "n": "AH Grillworst Indisch",
+        "l": "wi516121\/ah-grillworst-indisch",
+        "p": 4.25,
+        "s": "250 g"
+    },
+    {
         "id": "wi516124",
         "n": "AH Kipspiesjes sat\u00e9saus",
         "l": "wi516124\/ah-kipspiesjes-satesaus",
@@ -118734,13 +118678,6 @@
         "s": "100 g"
     },
     {
-        "id": "wi518114",
-        "n": "AH Biologisch Kikkererwtenwafels met zeezout",
-        "l": "wi518114\/ah-biologisch-kikkererwtenwafels-met-zeezout",
-        "p": 1.49,
-        "s": "100 g"
-    },
-    {
         "id": "wi518118",
         "n": "Snack a Jacks Sweeeet peanut butter flavour",
         "l": "wi518118\/snack-a-jacks-sweeeet-peanut-butter-flavour",
@@ -120613,7 +120550,7 @@
         "id": "wi519669",
         "n": "L & M Red label",
         "l": "wi519669\/l-en-m-red-label",
-        "p": 20,
+        "p": 24,
         "s": "60 stuks"
     },
     {
@@ -120627,7 +120564,7 @@
         "id": "wi519699",
         "n": "Marlboro Red",
         "l": "wi519699\/marlboro-red",
-        "p": 23,
+        "p": 25,
         "s": "59 stuks"
     },
     {
@@ -120648,7 +120585,7 @@
         "id": "wi519744",
         "n": "AH Groente BBQ pakket",
         "l": "wi519744\/ah-groente-bbq-pakket",
-        "p": 9.26,
+        "p": 9.31,
         "s": "per pakket"
     },
     {
@@ -121812,13 +121749,6 @@
         "l": "wi520948\/koopmans-custard-vanillesmaak",
         "p": 0.99,
         "s": "300 g"
-    },
-    {
-        "id": "wi520957",
-        "n": "Day Ijsvormpjes",
-        "l": "wi520957\/day-ijsvormpjes",
-        "p": 2,
-        "s": "3 stuks"
     },
     {
         "id": "wi520959",
@@ -127249,7 +127179,7 @@
         "id": "wi53526",
         "n": "Dunhill Signature red XL",
         "l": "wi53526\/dunhill-signature-red-xl",
-        "p": 9.2,
+        "p": 11,
         "s": "22 stuks"
     },
     {
@@ -127538,6 +127468,13 @@
         "l": "wi537100\/fratelli-laurieri-scrocchi-knoflook",
         "p": 1.95,
         "s": "175 g"
+    },
+    {
+        "id": "wi537130",
+        "n": "Princes Plantaardige tonijn naturel duo-pack",
+        "l": "wi537130\/princes-plantaardige-tonijn-naturel-duo-pack",
+        "p": 5.99,
+        "s": "280 g"
     },
     {
         "id": "wi537131",
@@ -130312,6 +130249,13 @@
         "s": "per pakket"
     },
     {
+        "id": "wi544264",
+        "n": "Kleenex Ultra clean maxi keukenpapier",
+        "l": "wi544264\/kleenex-ultra-clean-maxi-keukenpapier",
+        "p": 16.47,
+        "s": "6 stuks"
+    },
+    {
         "id": "wi544265",
         "n": "Kleenex Ultra clean maxi keukenpapier",
         "l": "wi544265\/kleenex-ultra-clean-maxi-keukenpapier",
@@ -131309,7 +131253,7 @@
         "id": "wi547515",
         "n": "John West tonijn pasta salade pakket",
         "l": "wi547515\/john-west-tonijn-pasta-salade-pakket",
-        "p": 8.58,
+        "p": 8.65,
         "s": "per pakket"
     },
     {
@@ -131442,7 +131386,7 @@
         "id": "wi547582",
         "n": "Knorr Burritos Complete Maaltijd",
         "l": "wi547582\/knorr-burritos-complete-maaltijd",
-        "p": 12.52,
+        "p": 12.57,
         "s": "per pakket"
     },
     {
@@ -133955,7 +133899,7 @@
         "id": "wi549188",
         "n": "Italiaanse pasta pesto met farfalle",
         "l": "wi549188\/italiaanse-pasta-pesto-met-farfalle",
-        "p": 8.74,
+        "p": 8.81,
         "s": "per pakket"
     },
     {
@@ -137078,7 +137022,7 @@
         "n": "AH Biologisch Mini buffelmozzarella",
         "l": "wi550417\/ah-biologisch-mini-buffelmozzarella",
         "p": 2.99,
-        "s": "280 g"
+        "s": "125 g"
     },
     {
         "id": "wi550418",
@@ -137175,7 +137119,7 @@
         "id": "wi550433",
         "n": "Hak Gevulde paprika's compleet pakket",
         "l": "wi550433\/hak-gevulde-paprika-s-compleet-pakket",
-        "p": 8.22,
+        "p": 8.27,
         "s": "per stuk"
     },
     {
@@ -140206,7 +140150,7 @@
         "id": "wi553799",
         "n": "Maggi Asperge verspakket met vis",
         "l": "wi553799\/maggi-asperge-verspakket-met-vis",
-        "p": 12.08,
+        "p": 15.15,
         "s": "per pakket"
     },
     {
@@ -140626,7 +140570,7 @@
         "id": "wi553934",
         "n": "AH Asperges met ham, ei en botersaus",
         "l": "wi553934\/ah-asperges-met-ham-ei-en-botersaus",
-        "p": 11.85,
+        "p": 17.85,
         "s": "per pakket"
     },
     {
@@ -141452,7 +141396,7 @@
         "id": "wi555354",
         "n": "Santa Maria Taco pakket met gehakt 4 personen",
         "l": "wi555354\/santa-maria-taco-pakket-met-gehakt-4-personen",
-        "p": 8.13,
+        "p": 8.18,
         "s": "per stuk"
     },
     {
@@ -141837,7 +141781,7 @@
         "id": "wi556316",
         "n": "AH Prei met krieltjes & vegan schnitzel",
         "l": "wi556316\/ah-prei-met-krieltjes-en-vegan-schnitzel",
-        "p": 9.21,
+        "p": 9.41,
         "s": "per pakket"
     },
     {
@@ -142481,7 +142425,7 @@
         "id": "wi556508",
         "n": "AH Witte asperges met ham en ei pakket",
         "l": "wi556508\/ah-witte-asperges-met-ham-en-ei-pakket",
-        "p": 7.72,
+        "p": 10.72,
         "s": "per stuk"
     },
     {
@@ -142936,7 +142880,7 @@
         "id": "wi556768",
         "n": "John West Vegan pakket",
         "l": "wi556768\/john-west-vegan-pakket",
-        "p": 7.17,
+        "p": 7.24,
         "s": "per stuk"
     },
     {
@@ -142964,7 +142908,7 @@
         "id": "wi556772",
         "n": "Salakis Feta & Tomaat Pasta Pakket",
         "l": "wi556772\/salakis-feta-en-tomaat-pasta-pakket",
-        "p": 6.42,
+        "p": 6.56,
         "s": "per stuk"
     },
     {
@@ -143022,6 +142966,13 @@
         "l": "wi556863\/ah-salade-bbq-pakket",
         "p": 10.04,
         "s": "per pakket"
+    },
+    {
+        "id": "wi556865",
+        "n": "AH Bunnies naturel",
+        "l": "wi556865\/ah-bunnies-naturel",
+        "p": 1.19,
+        "s": "125 g"
     },
     {
         "id": "wi556866",
@@ -146252,8 +146203,8 @@
     },
     {
         "id": "wi80101",
-        "n": "Heineken Premium pilsener 6-pack",
-        "l": "wi80101\/heineken-premium-pilsener-6-pack",
+        "n": "Heineken Pilsener",
+        "l": "wi80101\/heineken-pilsener",
         "p": 4.99,
         "s": "6 x 33 cl"
     },
@@ -147880,13 +147831,6 @@
         "l": "wi97405\/domaine-du-vieux-pigeonnier-muscat-de-beaumes-de-venise",
         "p": 11.98,
         "s": "0,5 l"
-    },
-    {
-        "id": "wi97873",
-        "n": "Page Compleet schoon",
-        "l": "wi97873\/page-compleet-schoon",
-        "p": 16.99,
-        "s": "24 rollen"
     },
     {
         "id": "wi97884",
