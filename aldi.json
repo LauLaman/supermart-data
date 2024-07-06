@@ -394,7 +394,7 @@
     {
         "id": "500",
         "n": "Kristalsuiker",
-        "l": "https:\/\/www.aldi.nl\/product\/kristalsuiker-500-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/kristalsuiker-500-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 1.04,
         "s": "1 kg"
     },
@@ -408,14 +408,14 @@
     {
         "id": "505",
         "n": "Patentbloem",
-        "l": "https:\/\/www.aldi.nl\/product\/patentbloem-505-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/patentbloem-505-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.89,
         "s": "1 kg"
     },
     {
         "id": "506",
         "n": "Poedersuiker",
-        "l": "https:\/\/www.aldi.nl\/product\/poedersuiker-506-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/poedersuiker-506-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.99,
         "s": "250 g"
     },
@@ -541,7 +541,7 @@
     {
         "id": "652",
         "n": "Vanillesuiker",
-        "l": "https:\/\/www.aldi.nl\/product\/vanillesuiker-652-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/vanillesuiker-652-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.49,
         "s": "120 g"
     },
@@ -716,7 +716,7 @@
     {
         "id": "752",
         "n": "Stokbrood",
-        "l": "https:\/\/www.aldi.nl\/product\/stokbrood-752-1-0.article.html#\/producten\/BBQ\/bbq-assortiment",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/stokbrood-752-1-0.article.html",
         "p": 0.99,
         "s": "Heel"
     },
@@ -1094,7 +1094,7 @@
     {
         "id": "1079",
         "n": "Meergranen stokbrood",
-        "l": "https:\/\/www.aldi.nl\/product\/meergranen-stokbrood-1079-1-0.article.html#\/producten\/BBQ\/bbq-assortiment",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/meergranen-stokbrood-1079-1-0.article.html",
         "p": 1.09,
         "s": "Per stuk"
     },
@@ -1228,7 +1228,7 @@
         "id": "1139",
         "n": "Champagne brut Veuve Durand",
         "l": "https:\/\/www.aldi.nl\/product\/champagne-brut-veuve-durand-1139-1-0.article.html#\/producten\/wijn\/rose-mousserend",
-        "p": 16.99,
+        "p": 17.99,
         "s": "0.75 l"
     },
     {
@@ -1535,7 +1535,7 @@
     {
         "id": "1440",
         "n": "Kaiserbroodje wit",
-        "l": "https:\/\/www.aldi.nl\/product\/kaiserbroodje-wit-1440-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/kaiserbroodje-wit-1440-1-0.article.html",
         "p": 0.29,
         "s": "Per stuk"
     },
@@ -1834,6 +1834,13 @@
         "s": "2 kg"
     },
     {
+        "id": "1743",
+        "n": "Pompoenpitbroodje",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/pompoenpitbroodje-1743-1-0.article.html",
+        "p": 0.49,
+        "s": "Per stuk."
+    },
+    {
         "id": "1749",
         "n": "Rozijnen",
         "l": "https:\/\/www.aldi.nl\/product\/rozijnen-1749-1-0.article.html#\/producten\/chips-noten\/noten-zaden-en-pitten",
@@ -1850,7 +1857,7 @@
     {
         "id": "1772",
         "n": "Saucijzenbroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/saucijzenbroodje-1772-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/saucijzenbroodje-1772-1-0.article.html",
         "p": 0.95,
         "s": "Per stuk"
     },
@@ -1990,7 +1997,7 @@
     {
         "id": "1914",
         "n": "Paneermeel",
-        "l": "https:\/\/www.aldi.nl\/product\/paneermeel-1914-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/paneermeel-1914-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.75,
         "s": "400 g"
     },
@@ -2292,14 +2299,14 @@
         "id": "2151",
         "n": "Chocoladeletter",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladeletter-2151-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.29,
+        "p": 0.59,
         "s": "135 g"
     },
     {
         "id": "2152",
         "n": "Koolhydraat verlaagd brood half",
         "l": "https:\/\/www.aldi.nl\/product\/koolhydraat-verlaagd-brood-half-2152-1-0.article.html#\/producten\/brood-bakkerij\/dagvers-brood",
-        "p": 1.59,
+        "p": 1.79,
         "s": "Half"
     },
     {
@@ -2529,7 +2536,7 @@
     {
         "id": "2416",
         "n": "Fijne- en boeren cakemix",
-        "l": "https:\/\/www.aldi.nl\/product\/fijne-en-boeren-cakemix-2416-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/fijne-en-boeren-cakemix-2416-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.89,
         "s": "400 g"
     },
@@ -2543,7 +2550,7 @@
     {
         "id": "2462",
         "n": "Roomboter croissant",
-        "l": "https:\/\/www.aldi.nl\/product\/roomboter-croissant-2462-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/roomboter-croissant-2462-1-0.article.html",
         "p": 0.39,
         "s": "Per stuk"
     },
@@ -2798,6 +2805,13 @@
         "l": "https:\/\/www.aldi.nl\/product\/tijgerbol-wit-2716-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
         "p": 0.39,
         "s": "Per stuk"
+    },
+    {
+        "id": "2719",
+        "n": "Bombommetjes",
+        "l": "https:\/\/www.aldi.nl\/product\/bombommetjes-2719-1-0.article.html#\/producten\/vuurwerk",
+        "p": 4.49,
+        "s": "30-delig."
     },
     {
         "id": "2736",
@@ -3075,7 +3089,7 @@
     {
         "id": "3064",
         "n": "Maiszetmeel",
-        "l": "https:\/\/www.aldi.nl\/product\/maiszetmeel-3064-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/maiszetmeel-3064-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.99,
         "s": "400 g"
     },
@@ -3222,7 +3236,7 @@
     {
         "id": "3287",
         "n": "Kampioentje",
-        "l": "https:\/\/www.aldi.nl\/product\/kampioentje-3287-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/kampioentje-3287-1-0.article.html",
         "p": 0.45,
         "s": "Per stuk"
     },
@@ -3458,6 +3472,13 @@
         "s": "255-292 g"
     },
     {
+        "id": "3461",
+        "n": "Knetterkogels",
+        "l": "https:\/\/www.aldi.nl\/product\/knetterkogels-3461-1-0.article.html#\/producten\/vuurwerk",
+        "p": 5.99,
+        "s": "45-delig."
+    },
+    {
         "id": "3462",
         "n": "Vegan falafel of balletjes",
         "l": "https:\/\/www.aldi.nl\/product\/vegan-falafel-of-balletjes-3462-1-0.article.html#\/producten\/vlees-vis-vega\/vega",
@@ -3551,7 +3572,7 @@
     {
         "id": "3527",
         "n": "Kaasbroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/kaasbroodje-3527-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/kaasbroodje-3527-1-0.article.html",
         "p": 0.95,
         "s": "Per stuk."
     },
@@ -3614,7 +3635,7 @@
     {
         "id": "3576",
         "n": "Boekweitmeel of speltmeel",
-        "l": "https:\/\/www.aldi.nl\/product\/boekweitmeel-of-speltmeel-3576-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/merken\/aldi-merken\/albona\/boekweitmeel-of-speltmeel-3576-1-0.article.html",
         "p": 1.89,
         "s": "750-1000 g"
     },
@@ -3677,7 +3698,7 @@
     {
         "id": "3614",
         "n": "Taartvulling",
-        "l": "https:\/\/www.aldi.nl\/product\/taartvulling-3614-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/taartvulling-3614-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 2.49,
         "s": "560 g"
     },
@@ -3733,7 +3754,7 @@
     {
         "id": "3674",
         "n": "Gesuikerde donut",
-        "l": "https:\/\/www.aldi.nl\/product\/gesuikerde-donut-3674-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/gesuikerde-donut-3674-1-0.article.html",
         "p": 0.49,
         "s": "Per stuk"
     },
@@ -3845,7 +3866,7 @@
     {
         "id": "3743",
         "n": "Appelflap",
-        "l": "https:\/\/www.aldi.nl\/product\/appelflap-3743-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/appelflap-3743-1-0.article.html",
         "p": 0.85,
         "s": "Per stuk"
     },
@@ -3895,7 +3916,7 @@
         "id": "3818",
         "n": "Chocoladesticks",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladesticks-3818-1-0.article.html#\/producten\/sintassortiment",
-        "p": 2.39,
+        "p": 1.19,
         "s": "3 x 43 g"
     },
     {
@@ -4027,7 +4048,7 @@
     {
         "id": "4016",
         "n": "Pecanbroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/pecanbroodje-4016-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/pecanbroodje-4016-1-0.article.html",
         "p": 0.69,
         "s": "Per stuk."
     },
@@ -4097,7 +4118,7 @@
     {
         "id": "4064",
         "n": "Frikandelbroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/frikandelbroodje-4064-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/frikandelbroodje-4064-1-0.article.html",
         "p": 0.95,
         "s": "Per stuk."
     },
@@ -4405,7 +4426,7 @@
     {
         "id": "4355",
         "n": "Chocolade broodje",
-        "l": "https:\/\/www.aldi.nl\/product\/chocolade-broodje-4355-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/chocolade-broodje-4355-1-0.article.html",
         "p": 0.49,
         "s": "Per stuk"
     },
@@ -4468,7 +4489,7 @@
     {
         "id": "4538",
         "n": "Koffiebroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/koffiebroodje-4538-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/koffiebroodje-4538-1-0.article.html",
         "p": 0.59,
         "s": "Per stuk"
     },
@@ -4819,7 +4840,7 @@
         "id": "4900",
         "n": "Kikkers & muizen",
         "l": "https:\/\/www.aldi.nl\/product\/kikkers-muizen-4900-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.29,
+        "p": 0.59,
         "s": "13 stuks"
     },
     {
@@ -4854,21 +4875,21 @@
         "id": "4907",
         "n": "Chocolade kruidnoten",
         "l": "https:\/\/www.aldi.nl\/product\/chocolade-kruidnoten-4907-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.79,
+        "p": 0.89,
         "s": "300 g"
     },
     {
         "id": "4909",
         "n": "Chocoladeletter",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladeletter-4909-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.39,
+        "p": 0.69,
         "s": "135 g"
     },
     {
         "id": "4910",
         "n": "Chocoladeletter",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladeletter-4910-1-0.article.html#\/producten\/sintassortiment",
-        "p": 0.99,
+        "p": 0.49,
         "s": "75 g"
     },
     {
@@ -4882,7 +4903,7 @@
         "id": "4917",
         "n": "Marsepeinbroodje",
         "l": "https:\/\/www.aldi.nl\/product\/marsepeinbroodje-4917-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.79,
+        "p": 0.89,
         "s": "175 g"
     },
     {
@@ -4896,7 +4917,7 @@
         "id": "4923",
         "n": "Mini chocoladelettertjes of -figuurtjes",
         "l": "https:\/\/www.aldi.nl\/product\/mini-chocoladelettertjes-of-figuurtjes-4923-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.59,
+        "p": 0.79,
         "s": "150 g"
     },
     {
@@ -5054,6 +5075,13 @@
         "s": "450 g"
     },
     {
+        "id": "5125",
+        "n": "Knetter King",
+        "l": "https:\/\/www.aldi.nl\/product\/knetter-king-5125-1-0.article.html#\/producten\/vuurwerk",
+        "p": 7.49,
+        "s": "24-delig."
+    },
+    {
         "id": "5132",
         "n": "Pindarotsjes",
         "l": "https:\/\/www.aldi.nl\/product\/pindarotsjes-5132-1-0.article.html#\/producten\/snoep-koeken\/chocolade",
@@ -5080,6 +5108,13 @@
         "l": "https:\/\/www.aldi.nl\/product\/verse-maatjesharing-met-uitjes-5157-1-0.article.html#\/producten\/vlees-vis-vega\/vis",
         "p": 1.99,
         "s": "2 x 75 g"
+    },
+    {
+        "id": "5160",
+        "n": "Vuurwerkmeter",
+        "l": "https:\/\/www.aldi.nl\/product\/vuurwerkmeter-5160-1-0.article.html#\/producten\/vuurwerk",
+        "p": 14.99,
+        "s": "110-delig."
     },
     {
         "id": "5171",
@@ -5143,6 +5178,13 @@
         "l": "https:\/\/www.aldi.nl\/product\/droge-soepmix-5210-1-0.article.html#\/producten\/soepen-sauzen-smaakmakers-conserven\/soepen",
         "p": 0.69,
         "s": "60\/101 g"
+    },
+    {
+        "id": "5234",
+        "n": "Aansteeklonten",
+        "l": "https:\/\/www.aldi.nl\/product\/aansteeklonten-5234-1-0.article.html#\/producten\/vuurwerk",
+        "p": 0.99,
+        "s": "5 stuks."
     },
     {
         "id": "5294",
@@ -5278,6 +5320,13 @@
         "s": "700 ml"
     },
     {
+        "id": "5411",
+        "n": "Gembersnippers",
+        "l": "https:\/\/www.aldi.nl\/merken\/aldi-merken\/albona\/gembersnippers-5411-1-0.article.html",
+        "p": 1.79,
+        "s": "450 g"
+    },
+    {
         "id": "5465",
         "n": "Kerstkransjes met musket",
         "l": "https:\/\/www.aldi.nl\/product\/kerstkransjes-met-musket-5465-1-0.article.html#\/producten\/feestassortiment",
@@ -5336,7 +5385,7 @@
     {
         "id": "5559",
         "n": "Kaneel swirl",
-        "l": "https:\/\/www.aldi.nl\/product\/kaneel-swirl-5559-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/kaneel-swirl-5559-1-0.article.html",
         "p": 0.59,
         "s": "Per stuk"
     },
@@ -5441,7 +5490,7 @@
     {
         "id": "5687",
         "n": "Schenkstroop",
-        "l": "https:\/\/www.aldi.nl\/product\/schenkstroop-5687-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/schenkstroop-5687-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 1.49,
         "s": "500 g"
     },
@@ -5490,7 +5539,7 @@
     {
         "id": "5790",
         "n": "Schnittbroodje",
-        "l": "https:\/\/www.aldi.nl\/product\/schnittbroodje-5790-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/schnittbroodje-5790-1-0.article.html",
         "p": 0.29,
         "s": "Per stuk"
     },
@@ -5623,7 +5672,7 @@
     {
         "id": "6001",
         "n": "Broodbakmix",
-        "l": "https:\/\/www.aldi.nl\/product\/broodbakmix-6001-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/broodbakmix-6001-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 1.09,
         "s": "500 g"
     },
@@ -5768,6 +5817,13 @@
         "s": "710 g"
     },
     {
+        "id": "6350",
+        "n": "Nitro's",
+        "l": "https:\/\/www.aldi.nl\/product\/nitro-s-6350-1-0.article.html#\/producten\/vuurwerk",
+        "p": 3.99,
+        "s": "10-delig."
+    },
+    {
         "id": "6357",
         "n": "Pinetta Pinot Grigio delle Venezie",
         "l": "https:\/\/www.aldi.nl\/product\/pinetta-pinot-grigio-delle-venezie-6357-1-0.article.html#\/producten\/wijn\/witte-wijn",
@@ -5885,6 +5941,13 @@
         "l": "https:\/\/www.aldi.nl\/product\/tampons-6460-1-0.article.html#\/producten\/baby-persoonlijke-verzorging\/maandverband-inlegkruisjes-tampons",
         "p": 1.49,
         "s": "Per pak"
+    },
+    {
+        "id": "6465",
+        "n": "Ratellinten",
+        "l": "https:\/\/www.aldi.nl\/product\/ratellinten-6465-1-0.article.html#\/producten\/vuurwerk",
+        "p": 4.49,
+        "s": "60-delig."
     },
     {
         "id": "6468",
@@ -7030,7 +7093,7 @@
     {
         "id": "7161",
         "n": "Gevulde koek",
-        "l": "https:\/\/www.aldi.nl\/product\/gevulde-koek-7161-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/gevulde-koek-7161-1-0.article.html",
         "p": 0.59,
         "s": "Per stuk"
     },
@@ -7219,7 +7282,7 @@
     {
         "id": "7299",
         "n": "Bakmix",
-        "l": "https:\/\/www.aldi.nl\/product\/bakmix-7299-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/bakmix-7299-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 1.39,
         "s": "350-360 g"
     },
@@ -7429,7 +7492,7 @@
     {
         "id": "7507",
         "n": "Ham-kaas croissant",
-        "l": "https:\/\/www.aldi.nl\/product\/ham-kaas-croissant-7507-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/ham-kaas-croissant-7507-1-0.article.html",
         "p": 0.89,
         "s": "Per stuk"
     },
@@ -7450,7 +7513,7 @@
     {
         "id": "7531",
         "n": "Appeltaartmix",
-        "l": "https:\/\/www.aldi.nl\/product\/appeltaartmix-7531-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/appeltaartmix-7531-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.79,
         "s": "440 g"
     },
@@ -7485,7 +7548,7 @@
     {
         "id": "7548",
         "n": "Ruwe rietsuiker",
-        "l": "https:\/\/www.aldi.nl\/product\/ruwe-rietsuiker-7548-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/ruwe-rietsuiker-7548-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 1.19,
         "s": "500 g"
     },
@@ -7518,6 +7581,13 @@
         "s": "3 l"
     },
     {
+        "id": "7590",
+        "n": "Knetterrotjes",
+        "l": "https:\/\/www.aldi.nl\/product\/knetterrotjes-7590-1-0.article.html#\/producten\/vuurwerk",
+        "p": 4.99,
+        "s": "80-delig."
+    },
+    {
         "id": "7593",
         "n": "Airen Macabeo BIO",
         "l": "https:\/\/www.aldi.nl\/product\/airen-macabeo-bio-7593-1-0.article.html#\/producten\/winnaars",
@@ -7534,8 +7604,8 @@
     {
         "id": "7610",
         "n": "Kwarktaartmix",
-        "l": "https:\/\/www.aldi.nl\/product\/kwarktaartmix-7610-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
-        "p": 2.19,
+        "l": "https:\/\/www.aldi.nl\/product\/kwarktaartmix-7610-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
+        "p": 2.29,
         "s": "395 g"
     },
     {
@@ -7654,7 +7724,7 @@
         "id": "7749",
         "n": "Chocolade kruidnoten",
         "l": "https:\/\/www.aldi.nl\/product\/chocolade-kruidnoten-7749-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.99,
+        "p": 0.99,
         "s": "250 g"
     },
     {
@@ -7843,7 +7913,7 @@
         "id": "8165",
         "n": "Chocoladeletter deluxe",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladeletter-deluxe-8165-1-0.article.html#\/producten\/sintassortiment",
-        "p": 3.79,
+        "p": 1.89,
         "s": "180 g"
     },
     {
@@ -8018,7 +8088,7 @@
         "id": "8449",
         "n": "Ambachtelijke taai-taai",
         "l": "https:\/\/www.aldi.nl\/product\/ambachtelijke-taai-taai-8449-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.79,
+        "p": 0.89,
         "s": "500 g"
     },
     {
@@ -8179,7 +8249,7 @@
         "id": "8669",
         "n": "Sintschuimpjes",
         "l": "https:\/\/www.aldi.nl\/product\/sintschuimpjes-8669-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.79,
+        "p": 0.89,
         "s": "300 g"
     },
     {
@@ -8192,8 +8262,8 @@
     {
         "id": "8726",
         "n": "Pannenkoekenmix naturel",
-        "l": "https:\/\/www.aldi.nl\/product\/pannenkoekenmix-naturel-8726-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
-        "p": 0.75,
+        "l": "https:\/\/www.aldi.nl\/product\/pannenkoekenmix-naturel-8726-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
+        "p": 0.79,
         "s": "400 g"
     },
     {
@@ -8207,7 +8277,7 @@
         "id": "8744",
         "n": "Kruidnoten",
         "l": "https:\/\/www.aldi.nl\/product\/kruidnoten-8744-1-0.article.html#\/producten\/sintassortiment",
-        "p": 0.99,
+        "p": 0.49,
         "s": "350 g"
     },
     {
@@ -8255,7 +8325,7 @@
     {
         "id": "8900",
         "n": "Pannenkoekenmix meergranen",
-        "l": "https:\/\/www.aldi.nl\/product\/pannenkoekenmix-meergranen-8900-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/pannenkoekenmix-meergranen-8900-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.79,
         "s": "400 g"
     },
@@ -8344,16 +8414,23 @@
         "s": "250 g"
     },
     {
+        "id": "9188",
+        "n": "Worstenbroodje",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/worstenbroodje-9188-1-0.article.html",
+        "p": 0.99,
+        "s": "Per stuk"
+    },
+    {
         "id": "9192",
         "n": "Italiaanse bol",
-        "l": "https:\/\/www.aldi.nl\/product\/italiaanse-bol-9192-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/italiaanse-bol-9192-1-0.article.html",
         "p": 0.49,
         "s": "Per stuk"
     },
     {
         "id": "9194",
         "n": "Gedecoreerde donut",
-        "l": "https:\/\/www.aldi.nl\/product\/gedecoreerde-donut-9194-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/gedecoreerde-donut-9194-1-0.article.html",
         "p": 0.55,
         "s": "Per stuk"
     },
@@ -8402,7 +8479,7 @@
     {
         "id": "9398",
         "n": "Kornbol",
-        "l": "https:\/\/www.aldi.nl\/product\/kornbol-9398-1-0.article.html#\/producten\/brood-bakkerij\/vers-afgebakken-snacks",
+        "l": "https:\/\/www.aldi.nl\/onze-producten\/ovenversgebakkenbrood\/ovenverse-broodjes-snacks\/kornbol-9398-1-0.article.html",
         "p": 0.65,
         "s": "Per stuk"
     },
@@ -8891,10 +8968,10 @@
     },
     {
         "id": "2000171",
-        "n": "Veiligheidsbrillen",
-        "l": "https:\/\/www.aldi.nl\/product\/veiligheidsbrillen-2000171-1-0.article.html#\/producten\/vuurwerk",
+        "n": "Vuurwerkbrillen",
+        "l": "https:\/\/www.aldi.nl\/product\/vuurwerkbrillen-2000171-1-0.article.html#\/producten\/vuurwerk",
         "p": 2.49,
-        "s": "2 stuks"
+        "s": "2 stuks."
     },
     {
         "id": "2000203",
@@ -9410,7 +9487,7 @@
     {
         "id": "2003287",
         "n": "Gourmetschotel populair",
-        "l": "https:\/\/www.aldi.nl\/product\/gourmetschotel-populair-2003287-1-0.article.html#\/producten\/paasassortiment",
+        "l": "https:\/\/www.aldi.nl\/product\/gourmetschotel-populair-2003287-1-0.article.html#\/producten\/feestassortiment",
         "p": 3.99,
         "s": "525 g"
     },
@@ -9950,7 +10027,7 @@
         "id": "2004686",
         "n": "Kruidnoten",
         "l": "https:\/\/www.aldi.nl\/product\/kruidnoten-2004686-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.99,
+        "p": 0.99,
         "s": "1 kg"
     },
     {
@@ -10227,6 +10304,20 @@
         "s": "366 g"
     },
     {
+        "id": "2005425",
+        "n": "Mixed Fountain Box",
+        "l": "https:\/\/www.aldi.nl\/product\/mixed-fountain-box-2005425-1-0.article.html#\/producten\/vuurwerk",
+        "p": 9.99,
+        "s": "28-delig."
+    },
+    {
+        "id": "2005426",
+        "n": "Pyro Fountain Box",
+        "l": "https:\/\/www.aldi.nl\/product\/pyro-fountain-box-2005426-1-0.article.html#\/producten\/vuurwerk",
+        "p": 7.99,
+        "s": "20-delig."
+    },
+    {
         "id": "2005427",
         "n": "Gezichtsreiniging",
         "l": "https:\/\/www.aldi.nl\/product\/gezichtsreiniging-2005427-1-0.article.html#\/producten\/baby-persoonlijke-verzorging\/gezichtsverzorging",
@@ -10285,7 +10376,7 @@
     {
         "id": "2005605",
         "n": "Zelfrijzend bakmeel",
-        "l": "https:\/\/www.aldi.nl\/product\/zelfrijzend-bakmeel-2005605-1-0.article.html#\/producten\/pasta-rijst-bakken-internationale-keuken\/bakkenOld",
+        "l": "https:\/\/www.aldi.nl\/product\/zelfrijzend-bakmeel-2005605-1-0.article.html#\/producten\/brood-bakkerij\/zelf-bakken",
         "p": 0.99,
         "s": "1 kg"
     },
@@ -10757,6 +10848,13 @@
         "l": "https:\/\/www.aldi.nl\/product\/cheesecake-new-york-style-2007294-1-0.article.html#\/producten\/diepvries\/gebak-brood-bladerdeeg",
         "p": 4.99,
         "s": "450 g"
+    },
+    {
+        "id": "2007321",
+        "n": "Chocokussentjes",
+        "l": "https:\/\/www.aldi.nl\/product\/chocokussentjes-2007321-1-0.article.html#\/producten\/ontbijtgranen-broodbeleg-tussendoortjes\/ontbijtgranen-muesli",
+        "p": 1.99,
+        "s": "375 g."
     },
     {
         "id": "2007336",
@@ -11753,6 +11851,20 @@
         "s": "415 g."
     },
     {
+        "id": "2010328",
+        "n": "Mix It Up Fireworks",
+        "l": "https:\/\/www.aldi.nl\/product\/mix-it-up-fireworks-2010328-1-0.article.html#\/producten\/vuurwerk",
+        "p": 7.99,
+        "s": "203-delig."
+    },
+    {
+        "id": "2010329",
+        "n": "Pro Pyro Box",
+        "l": "https:\/\/www.aldi.nl\/product\/pro-pyro-box-2010329-1-0.article.html#\/producten\/vuurwerk",
+        "p": 9.99,
+        "s": "51-delig"
+    },
+    {
         "id": "2010379",
         "n": "US Angus steak",
         "l": "https:\/\/www.aldi.nl\/product\/us-angus-steak-2010379-1-0.article.html#\/producten\/paasassortiment",
@@ -11777,7 +11889,7 @@
         "id": "2010442",
         "n": "Chocoladeletters",
         "l": "https:\/\/www.aldi.nl\/product\/chocoladeletters-2010442-1-0.article.html#\/producten\/sintassortiment",
-        "p": 0.99,
+        "p": 0.49,
         "s": "65 g."
     },
     {
@@ -11867,8 +11979,8 @@
     {
         "id": "2010653",
         "n": "Bakkerskruidnoten",
-        "l": "https:\/\/www.aldi.nl\/product\/bakkerskruidnoten-2010653-1-0.article.html#\/producten\/sintassortiment",
-        "p": 1.69,
+        "l": "https:\/\/www.aldi.nl\/product\/bakkerskruidnoten-2010653-1-0.article.html#\/producten\/winnaars",
+        "p": 0.79,
         "s": "350 g."
     },
     {
@@ -11909,8 +12021,8 @@
     {
         "id": "2010858",
         "n": "Almoso Spumante Ice",
-        "l": "https:\/\/www.aldi.nl\/product\/almoso-spumante-ice-2010858-1-0.article.html#\/producten\/wijn\/rose-mousserend",
-        "p": 3.99,
+        "l": "https:\/\/www.aldi.nl\/product\/almoso-spumante-ice-2010858-1-0.article.html#\/producten\/wijn\/smaakprofielen\/wit-zoet",
+        "p": 4.49,
         "s": "0,75 l"
     },
     {
@@ -11938,7 +12050,7 @@
         "id": "2010863",
         "n": "Chianti Riserva\u00a0Santapietra",
         "l": "https:\/\/www.aldi.nl\/product\/chianti-riserva-santapietra-2010863-1-0.article.html#\/producten\/wijn\/rode-wijn",
-        "p": 5.99,
+        "p": 5.49,
         "s": "0,75 l"
     },
     {
